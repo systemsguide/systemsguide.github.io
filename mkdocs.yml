@@ -1,1 +1,4 @@
 site_name: Plural Respect
+site_url: https://pluralrespect.github.io
+
+theme: windmill
