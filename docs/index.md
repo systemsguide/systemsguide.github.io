@@ -1,55 +1,60 @@
-# Plural Respect Document
+# Plural Respect
 
-**This document is not intended to introduce the concept of plurality.**     
+**This resource is not intended to introduce the concept of plurality.**     
 **Please read [More Than One](https://morethanone.info/) first.**
 
-The name of the _queer pluralfolk_ group authorizing this resource is censored for their safety.
 
+## Foreword
 
-## Mission Statement
+Welcome to the public edition of **Plural Respect**!
 
-[We exist] to serve as a base from which avenues of support and empowerment for plural systems can be established. We acknowledge that community groups for openly plural systems in the same ilk as those for various queer and neurodiverse identities are still in their effective infancy, and that there are many mistakes still to be made - We can only hope to make those mistakes and fix them loudly enough for those who need to hear it. We strive for inclusion, for understanding, and to develop and proudly display the framework of plural understanding required to undermine the rationale behind widespread gatekeeping, apprehension, and hate.
+This resource, originally created as a constitution for a _Queer Pluralfolk_ union (and a manifesto for its authors), is intended for members of plural systems, their friends and aspiring friends, and others that desire to understand plurality with an open mind.
 
+We dedicate this resource back to the community under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - you may freely print, redistribute, modify, and share with appropriate credit.
+
+The name of the group authorizing this resource has been removed for safety reasons.
+
+### Mission Statement
+
+_This is an extract from the original union version._
+
+We exist to serve as a base from which avenues of support and empowerment for plural systems can be established. We acknowledge that community groups for openly plural systems in the same ilk as those for various queer and neurodiverse identities are still in their effective infancy, and that there are many mistakes still to be made - We can only hope to make those mistakes and fix them loudly enough for those who need to hear it. We strive for inclusion, for understanding, and to develop and proudly display the framework of plural understanding required to undermine the rationale behind widespread gatekeeping, apprehension, and hate.
+
+# Introduction
 
 ## Plurality
 
 [More Than One](https://morethanone.info/) defines plurality (or multiplicity) as “The existence of multiple self-aware entities inside one physical brain,” and goes on to explain for the unfamiliar that one could think of a plural collective as “a group of lifelong roommates, but with a body instead of an apartment.” It also defines a _Singlet_ as being “Someone who is not plural. One being in one brain.”
 
 
-#### Gatekeeping, Insecurity, and Singlethood
+#### Gatekeeping and Inclusivity
 
-[We acknowledge] that while this definition is quite effective at conveying the concept of plurality to singlets and those otherwise unfamiliar, it’s sorely lacking for those who find themselves key questions about whether they “qualify” as plural. In which case, a more robust definition is required.
+While this definition is quite effective at conveying the concept of plurality to singlets and those otherwise unfamiliar, it’s sorely lacking for those who find themselves key questions about whether they “qualify” as plural. In which case, a more robust definition is required.
 
 Plurality is in reality an umbrella term that encompasses a diverse set of people, collectives (systems), configurations, and experiences. With this in mind, it can be useful to define plurality as **any experience that is not encompassed by Singlethood** - Where various definitions of “Singlethood” can be explored to prevent gatekeeping and imposter syndrome. 
 
 One such definition of singlethood is “The experience of one, continuous, indivisible individual existing alone within one body.” - Those who are more than one, those who are not alone, or those who could introspect to understand that they are divisible into self-aware parts or otherwise are not “continuous” or “unbroken” (such as over time) in a way that isn’t easily explained by other phenomena (like Genderfluidity), may choose to describe themselves or their experiences as plural.
 
 
-# Helpful Terms
+## Helpful Terms
 
-Pluralfolk frequently have their own preferences in regards to specific terminology, however, here are some more common terms which will be used throughout this document:
-
-
+Pluralfolk frequently have their own preferences in regards to specific terminology, however, here are some more common terms which will be used throughout this resource:
 
 * **System (or collective):** The plural group that resides within a single brain.
-* **Member** **(or headmate): **An individual present within a system. “Headmate” is also used to refer to another member of the same system e.g. “My headmate appears to be asleep”
+* **Member (or headmate):** An individual present within a system. “Headmate” is also used to refer to another member of the same system e.g. “My headmate appears to be asleep”
 * **Fronting:** When a member controls the system’s shared physical body. Often referred to as a metaphorical (or mental) position or location i.e. “The Front”, like a driver’s seat.
 * **[Headspace](#headspaces-and-mindscapes) (or mindscape):** An internal space or landscape shared by some collectives. May also contain the front, but more frequently is where those who aren’t fronting reside.
 * **Singlet**: Someone who is not plural. See above.
 * **Switching:** When collective members exchange control over the front. “Switch in [to the front]” and “Switch out [of the front]” is often used
 * **[Repression](#repression):** A common term for the period before of a system (or member) becomes self-aware i.e. “Back when I was repressed.” - Doesn’t apply to all systems.
-* **[Medianity](#medianity-and-the-plural-umbrella)**/Median Systems: a kind of plural experience where a complete individual is composed of several self-aware “parts” working in tandem. Fits under the plural umbrella.
+* **[Medianity](#medianity-and-the-plural-umbrella)/Median Systems:** a kind of plural experience where a complete individual is composed of several self-aware “parts” working in tandem. Fits under the plural umbrella.
 
 See also: [Potentially Unhelpful Terms](#potentially-unhelpful-terms)
 
 
-# Respect
+# Member Identity
 
-**This is a 7000 word dive into plural diversity and respect. Pace yourself, or focus on just the topics desired.**
-
-## Member Identity
-
-#### Names and Pronouns
+## Names and Pronouns
 
 Members of a system frequently have an individual name (or names), and they should be referred to using this unless otherwise indicated. Systems might also agree on a name to use to refer to the whole system (or the body) which is often called a “System Name” - This can come in the form of a mononym, a first and last name, or frequently in the form of “The [name] System”.
 
@@ -104,6 +109,7 @@ Many pluralfolk don’t see themselves as human - instead they might see themsel
 
 Frequently, pluralfolk will use words to describe their appearance that don’t literally describe themselves, but are instead a “shortcut” to give a general idea of what they look like. The vast majority of nonhuman pluralfolk are (self admittedly) of effectively their own species or type, not an existing one - so pre-existing concepts are applied to speed up the explanation process.  Sometimes that means using “cat” to mean “taking on some physical features of a cat”, or using “minotaur” to mean “appearing similarly to the form of the mythical minotaur”, but at other times it can mean supplying references (photos of celebrities and fictional characters, passages from fiction, etc) to give a rough idea to others.
 
+# Systemhood
 
 ## Headmates
 
@@ -161,9 +167,9 @@ Members of a system can _Signify _that they're fronting to others in various way
 Members can sometimes be told apart without signifiers (to varying degrees of accuracy) either consciously or subconsciously. On the conscious level, fronting members often exhibit different speech patterns and voices, and over time one could notice differences in gestures and other bodily expressions. Subconsciously, footfalls and the way a member walks can become recognisable. Finally, the way a certain body and face is held (often called it's "Tensions" - posture, resting face, etc) can eventually form a second-nature guess for who's fronting in a system - to the point where someone might feel that photos of two different fronters taken seconds apart have "different faces." 
 
 
-## Sysphobia/Sysmisia
+# Sysphobia/Sysmisia
 
-#### Potentially Unhelpful Terms
+## Potentially Unhelpful Terms
 
 Some terms, while still in active use, have been identified as having the potential to cause harm to others - especially when used to refer to systems generally or without asking a system's preferences. Careful consideration should be made before using these. 
 
@@ -210,6 +216,8 @@ A list of these terms along with reasons they may be considered harmful (and in 
     * Better terminology includes "inexperienced system", or with specific regards to time, "green system" (popularised in MMO games for new players) 
 
 
+## Common Prickles
+
 #### The Silence of Singlet-Normativity
 
 From the point of self awareness, wider society instils that singlethood is the sole truth of every individual's existence. Much of the apprehension over plurality exists simply because most people aren't exposed to the concept at all. As a result, repressed systems frequently feel a fear that they will become "too complicated" to be accepted or liked by their friends. Just like for other forms of neurodiversity, instilling neurotypicality in this way oversimplifies people's lives and experiences and ignores any outliers. Neurotypical-normativity trades acceptance and care for slight convenience - often without realising it has done so.
@@ -254,7 +262,7 @@ Plural experience is a diverse thing, and it's worth noting that like other kind
 
 #### Diagnosis - What, Why, Impacts, Therapy
 
-Many medical diagnoses are associated with plurality, but all of them suffer from the impacts of singlet-normativity. DID, as an example, is a diagnosis that is based around symptoms like distress, large gaps in memory, losing control of the body, unknown voices, and difficulty knowing the self, which - as might be clear from the rest of this document - are difficulties that many systems that are yet to establish proper communication and cooperation are extremely likely to experience, but all of which can often be completely resolved by working to improve this. One can conclude from this that it might be inaccurate to describe DID as a diagnosis _for_ plurality, but rather a diagnosis of particular kinds of distress and difficulty that are common to plural systems.  However, this is not how a DID diagnosis is treated in reality; frequently, despite these distressing systems being required for diagnosis, a patient is considered to have DID for as long as they remain plural - regardless of whether the distress is completely resolved - and are simply “managing” their symptoms. To put it curtly, the conflation of the two by professionals, researchers, and others, is a bit like calling all instances of transness cases of “Acute Gender Dysphoria”.
+Many medical diagnoses are associated with plurality, but all of them suffer from the impacts of singlet-normativity. DID, as an example, is a diagnosis that is based around symptoms like distress, large gaps in memory, losing control of the body, unknown voices, and difficulty knowing the self, which - as might be clear from the rest of this resource - are difficulties that many systems that are yet to establish proper communication and cooperation are extremely likely to experience, but all of which can often be completely resolved by working to improve this. One can conclude from this that it might be inaccurate to describe DID as a diagnosis _for_ plurality, but rather a diagnosis of particular kinds of distress and difficulty that are common to plural systems.  However, this is not how a DID diagnosis is treated in reality; frequently, despite these distressing systems being required for diagnosis, a patient is considered to have DID for as long as they remain plural - regardless of whether the distress is completely resolved - and are simply “managing” their symptoms. To put it curtly, the conflation of the two by professionals, researchers, and others, is a bit like calling all instances of transness cases of “Acute Gender Dysphoria”.
 
 There are many reasons a plural system might seek a diagnosis relating to their plurality, however the largest reasons tend to be either the diagnosis being the in-road to understanding that they aren’t a singlet at all (lack of knowledge), or seeking financial support due to difficulties living as a plural system. Systems that have received a related medical diagnosis are no less or more plural than any other system, and it should be acknowledged that many systems with adjacent diagnoses today are affected by gatekeeping when attempting to receive medical treatment for things like trans and chronic pain issues.
 
@@ -278,24 +286,7 @@ Every system has different feelings about causality - some feel that they came i
 
 Some systems have specific faith and belief relating to their causality, such as system members appearing within the system through divine intervention, or through universal processes completely outside of their control. As with all faith, don’t pry and don’t prescribe - but be open to others beliefs of themselves.
 
-
-## Myth and Fiction
-
-#### Appearance and Nonhuman Shortcuts
-
-Existing myths and fictional characters are often used as quick descriptive shortcuts for members to explain their own appearance - especially for nonhuman system members. Simplified sentences are often thrown around that don’t make this explicit, such as “I’m some kind of centaur”, and while this can be okay casually it’s important to remember that these are usually shortcuts, and being explicit can proactively avoid some conflict over appropriation of myth (or intellectual property).
-
-
-#### Fuzztives and OCs
-
-Some system members relate heavily to not just a mythical or fictional creature or species but rather a specific existing character. These members are often (inappropriately archetypally, often harmfully) referred to as “fictives” or “fuzztives”, with the latter offering more acknowledgement of the member as an individual that _sees_ themself in a fictional character, and in fact is capable of making their own self discoveries and expressions as a unique person, rather than (causal-prescriptively) often considering a system member to be a 1:1 “rip-off” of an existing character that was “fabricated” in response to them. 
-
-More generally speaking, fuzztive-esque system members might have a similar appearance to a character, a similar or adopted name, and similar attitudes or speaking patterns - however, it’s important to remember that this phenomena is also common in singlets, where both particularly relatable characters might have similar attitudes, speech patterns, or clothing styles - and even may have their names or style adopted by someone (especially trans folk) who realise that they’re able to express in those ways and be seen positively. Fuzztive-esque system members might diverge from fiction over time, sometimes even in just days, when they are given the opportunity for self exploration.
-
-Another common intersection of fiction and plurality is Original Characters (OCs) - various creative types (writers, artists, tabletop roleplayers) might create original characters for their stories, art, or roleplaying (including sometimes video game RPG characters), that they later unearth some kind of fuzztive-esque system member relating to. Sometimes this occurs the same way that existing characters often do, where a character is reflected on and found to be relatable and expressive - however it can also be found that a system member, while repressed, either directly created or assisted in the creation of the character to express themselves.
-
-System members that are fuzztive-esque should ensure they acknowledge the potential for harm caused by claiming certain existing properties for themselves, but should be respected like all other pluralfolk.
-
+# Systemhood Expanded
 
 ## System Configuration
 
@@ -306,12 +297,6 @@ _“Plural collectives vary greatly in how separate their members are. A collect
 Not all systems are composed of a body and several individuals - sometimes, a single individual is divisible into several self-aware entities, aspects, or parts, that work together to form a singular identity - this is often referred to as a “Median System”. Sometimes a median system exists within a body, other times, a median system is a system member - with other non-divisible members existing around them. Median systems often don't have a “front”, and frequently share resources (thoughts and memory etc) much more closely. Median systems almost always have a name, and while the entities that compose them may be able to speak or act on their own, this isn’t as common as in other plural systems. 
 
 Medianity is only a secondary typical case to “Body and several individuals” - plurality is a wide umbrella that encompasses many experiences. It’s important to be open to diversity and adapt to what others need, even if it doesn’t reflect the system configurations that you know already.
-
-
-#### Faith and Xenomemory
-
-To go along with system members with faith-based casualties that feel they were sent to or appeared in a system from another place, and fuzztive-esque system members who relate with a character on an identity level, some system members have what are usually called “Xenomemories” - feelings that they partially remember things that occurred to them before appearing within the system. Often this simply occurs when the given system member dreams - whether it’s the events of a past life or similar, or the events previously absorbed in fiction. These members have to take responsibility and understanding of these past xenomemories (regardless of acceptance or rejection) to be able to properly manage how they might affect how they feel in their present.
-
 
 #### Headspaces and Mindscapes
 
@@ -325,7 +310,6 @@ Despite usually following the same overall structure, the actual landscape of a 
 #### Countability, Temporality, and Inner Worlds
 
 Some systems don’t contain an easily countable number of members. Certain kinds of median systems may have an “in between” number of members, or feel like new members are constantly shuffled in and old members are recycled into new ones (in what could be called a “Temporal” median system). Some may instead have a count of theoretical members far beyond what could be realistically listed, with those who front stepping forth from an incredibly large mindscape (or “inner world”) to be one of the few who are able to represent the others. Some system configurations seem daunting, but in similar ways to explaining gender, there’s always a level of explanatory depth that even an unfamiliar party can understand and respect.
-
 
 ## Journey
 
@@ -380,6 +364,27 @@ After fronting for long periods, or fronting in attempts to mask the system arou
 
 Beyond switching out, members may find that they are able to “sleep” while in the back, which is more restful than just not fronting. This usually makes the member unlikely to swap in randomly and slightly harder to call upon - however, this can be beneficial by helping members that front less often be more accessible (by “clearing the way.”)
 
+## Myth and Fiction
+
+#### Appearance and Nonhuman Shortcuts
+
+Existing myths and fictional characters are often used as quick descriptive shortcuts for members to explain their own appearance - especially for nonhuman system members. Simplified sentences are often thrown around that don’t make this explicit, such as “I’m some kind of centaur”, and while this can be okay casually it’s important to remember that these are usually shortcuts, and being explicit can proactively avoid some conflict over appropriation of myth (or intellectual property).
+
+
+#### Fuzztives and OCs
+
+Some system members relate heavily to not just a mythical or fictional creature or species but rather a specific existing character. These members are often (inappropriately archetypally, often harmfully) referred to as “fictives” or “fuzztives”, with the latter offering more acknowledgement of the member as an individual that _sees_ themself in a fictional character, and in fact is capable of making their own self discoveries and expressions as a unique person, rather than (causal-prescriptively) often considering a system member to be a 1:1 “rip-off” of an existing character that was “fabricated” in response to them. 
+
+More generally speaking, fuzztive-esque system members might have a similar appearance to a character, a similar or adopted name, and similar attitudes or speaking patterns - however, it’s important to remember that this phenomena is also common in singlets, where both particularly relatable characters might have similar attitudes, speech patterns, or clothing styles - and even may have their names or style adopted by someone (especially trans folk) who realise that they’re able to express in those ways and be seen positively. Fuzztive-esque system members might diverge from fiction over time, sometimes even in just days, when they are given the opportunity for self exploration.
+
+Another common intersection of fiction and plurality is Original Characters (OCs) - various creative types (writers, artists, tabletop roleplayers) might create original characters for their stories, art, or roleplaying (including sometimes video game RPG characters), that they later unearth some kind of fuzztive-esque system member relating to. Sometimes this occurs the same way that existing characters often do, where a character is reflected on and found to be relatable and expressive - however it can also be found that a system member, while repressed, either directly created or assisted in the creation of the character to express themselves.
+
+System members that are fuzztive-esque should ensure they acknowledge the potential for harm caused by claiming certain existing properties for themselves, but should be respected like all other pluralfolk.
+
+#### Faith and Xenomemory
+
+To go along with system members with faith-based casualties that feel they were sent to or appeared in a system from another place, and fuzztive-esque system members who relate with a character on an identity level, some system members have what are usually called “Xenomemories” - feelings that they partially remember things that occurred to them before appearing within the system. Often this simply occurs when the given system member dreams - whether it’s the events of a past life or similar, or the events previously absorbed in fiction. These members have to take responsibility and understanding of these past xenomemories (regardless of acceptance or rejection) to be able to properly manage how they might affect how they feel in their present.
+
 
 ## Animals and Ages
 
@@ -393,8 +398,6 @@ The aforementioned animal-esque types - not to be confused with nonhuman members
 ## Culture
 
 #### Cultural/Religious Engagement / Inclusion
-
-_EN: Language here is going to be some form of clumsy, it’ll need edits._
 
 Some system members may feel an affinity with or simply interested in engaging in a particular culture. It’s the responsibility of both the member to _genuinely_ make attempts to engage with said culture rather than potentially raising issues with appropriation (as well as to respect the wishes of said culture with regard to whether they may engage with it at all), and for the other members of said culture to make the same reasonable allowances for a member of a system as they might towards any (“outsider”) singlet - other members of a system not engaging with a culture should not be an excuse for exclusion of another (except where this is rigidly unworkable within practice/belief).
 
