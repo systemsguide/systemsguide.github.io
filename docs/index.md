@@ -364,6 +364,8 @@ After fronting for long periods, or fronting in attempts to mask the system arou
 
 Beyond switching out, members may find that they are able to “sleep” while in the back, which is more restful than just not fronting. This usually makes the member unlikely to swap in randomly and slightly harder to call upon - however, this can be beneficial by helping members that front less often be more accessible (by “clearing the way.”)
 
+# Member Identity Expanded
+
 ## Myth and Fiction
 
 #### Appearance and Nonhuman Shortcuts
