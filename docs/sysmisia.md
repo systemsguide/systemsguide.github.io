@@ -6,7 +6,7 @@ Some terms, while still in active use, have been identified as having the potent
 
 A list of these terms along with reasons they may be considered harmful (and in what contexts) is supplied below
 
-* **Host / Primary** **headmat**e
+* **Host / Primary headmate**
     * Used to refer to a headmate as being the most notable, complex, or present compared to other members.
     * Devalues other members of the system as being “secondary”, “accessories” or in extreme cases “property” to the primary headmate.
     * “Host” is also used to refer to a headmate that performs some kind of central function of the system, which is not harmful in the same way. Hosts might be the member that fronts when the body wakes up, that helps others speak and move the body, or simply that finds it the easiest to front.
@@ -41,7 +41,7 @@ A list of these terms along with reasons they may be considered harmful (and in 
     * Used when referring to a group of people, specifically counting by body (regardless of whether all involved are singlets)
     * Applying a body-based counting system to a plural system can be insensitive. Few systems consider themselves countable as “one person” - even when only one member fronts at a time. 
     * Avoid the phrasing unless you know better. In cases where it’s necessary, work around the issue by saying things like “five systems/singlets” or “five user accounts”. Using “you four” to refer to a system of four can still be very appropriate.
-* "New" System / Newly Plural / Etc
+* **"New" System / Newly Plural / Etc**
     * Used to describe systems that have recently discovered themselves, or recently come out to the speaker
     * Most systems simply aren't new, and those just learning the words to describe their experiences now, or allowing themselves to feel repressed things, are not "new" to plurality. 
     * Better terminology includes "inexperienced system", or with specific regards to time, "green system" (popularised in MMO games for new players) 
