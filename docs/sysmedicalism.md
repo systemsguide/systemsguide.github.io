@@ -1,0 +1,27 @@
+# Sysmedicalism
+
+#### Diagnosis - What, Why, Impacts, Therapy
+
+Many medical diagnoses are associated with plurality, but all of them suffer from the impacts of singlet-normativity. DID, as an example, is a diagnosis that is based around symptoms like distress, large gaps in memory, losing control of the body, unknown voices, and difficulty knowing the self, which - as might be clear from the rest of this resource - are difficulties that many systems that are yet to establish proper communication and cooperation are extremely likely to experience, but all of which can often be completely resolved by working to improve this. One can conclude from this that it might be inaccurate to describe DID as a diagnosis _for_ plurality, but rather a diagnosis of particular kinds of distress and difficulty that are common to plural systems.  However, this is not how a DID diagnosis is treated in reality; frequently, despite these distressing systems being required for diagnosis, a patient is considered to have DID for as long as they remain plural - regardless of whether the distress is completely resolved - and are simply “managing” their symptoms. To put it curtly, the conflation of the two by professionals, researchers, and others, is a bit like calling all instances of transness cases of “Acute Gender Dysphoria”.
+
+There are many reasons a plural system might seek a diagnosis relating to their plurality, however the largest reasons tend to be either the diagnosis being the in-road to understanding that they aren’t a singlet at all (lack of knowledge), or seeking financial support due to difficulties living as a plural system. Systems that have received a related medical diagnosis are no less or more plural than any other system, and it should be acknowledged that many systems with adjacent diagnoses today are affected by gatekeeping when attempting to receive medical treatment for things like trans and chronic pain issues.
+
+Beyond medical diagnoses, some therapists are specialised in handling issues within plural systems from different angles, with varying amounts of flaws. The most common of which is usually referred to as _Family Group Therapy_ which, while generally equipped to help systems communicate and cooperate, frequently treat systems and their members as means to an end. This often leads to harmful causal prescriptivism in terms of the automatic assumption that system members are “created” by the brain in response to external stimuli (and that this can and should be done on request) which can be extremely harmful to self-worth.
+
+
+#### System Bucketing
+
+Another widespread sysmed issue is bucketing systems based on a diagnosis, or creating categories based on specific diagnoses - using words like “DID Systems” or “Trauma Systems”, and “Traumagenic/Endogenic”. These often come with groupings of plural experience, such as ownership and separation of a system’s memory, how independently a system’s members operate, and so on. This is wildly inappropriate as neither causality nor diagnosis are indicative of a plural system’s experiences, and these assumptions lead to widespread gatekeeping. Every system is unique, and pushing a system towards a specific expectation, simplification, or “archetype” can cause serious harm.
+
+Some of the most important sysphobia to avoid as singlet ally or an existing system is making assumptions about the nature of other systems - especially systems that are only beginning to understand themselves, or are unsure whether they are systems at all. Assumptions like conflicting thoughts or presences “certainly” being other system members, assuming that all dissociation is sourced from plurality, that systems are of a certain configuration, or that a system member is of a specific “archetype” - can all be very harmful to a system’s wellbeing. 
+
+To focus in on the final point, there exists a widespread (harmful) belief that system members can fall into specific “types” or “natures”, that almost completely define them - members may be described as “evil” or a “prosecutor” or “protector” and so on. Practically, many system members do have specific competencies that allow them to help their headmates in specific specialised ways - they might feel that they have a _role_ in a system that they’re particularly good at, but still exist as unique individual entities, and can choose to do what they want.
+
+
+#### Causal Prescriptivism (and faith)
+
+To practice Causal Prescriptivism is to tell other systems why they are systems, or members why they exist, or are a certain way. Some people don’t immediately understand this as harmful (as a result of objectification of plurality), despite already understanding the significant harm caused by singlets being told why they exist (in prescriptive faith or lack thereof). 
+
+Every system has different feelings about causality - some feel that they came into existence at a certain point in time, some feel that they’ve been around for as long as the body has, and some simply don’t know - more still among these insist that the concept of causality itself is unwelcome discussion and that they would prefer to focus on making good on their own existence (much like many singlets). 
+
+Some systems have specific faith and belief relating to their causality, such as system members appearing within the system through divine intervention, or through universal processes completely outside of their control. As with all faith, don’t pry and don’t prescribe - but be open to others beliefs of themselves.

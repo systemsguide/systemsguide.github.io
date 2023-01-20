@@ -1,7 +1,25 @@
 site_name: Plural Respect
 site_url: https://pluralrespect.github.io
+site_description: An opinionated and possibly useful resource for systems and their aspiring friends.
+#copyright: CC-BY-SA 4.0 International
+
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Member Identity: identity.md
+  - Systemhood: systemhood.md
+  - Sysphobia/Sysmisia: sysmisia.md
+  - Sysmedicalism: sysmedicalism.md
+  - Systemhood Expanded: systemhood-expanded.md
+  - Member Identity Expanded: identity-expanded.md
+  - References / Further Reading: further-reading.md
 
 theme: windmill
 
-nav:
-  - Plural Respect: index.md
+extra_css:
+    - css/theme-adjustments.css
+
+extra:
+  version: 1.0.0
+  logo: img/custom-journey-flag.png
+  article_nav_top: false
