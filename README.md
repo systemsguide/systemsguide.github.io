@@ -1,4 +1,4 @@
-# Plural Respect
-An opinionated but nonetheless useful resource for systems and their aspiring friends.
+# Plural Self-Respect
+A crash course on the prickles of systemhood for systems - a more personal expansion of Plural Respect.
 
-[pluralrespect.github.io](https://pluralrespect.github.io)
+[pluralrespect.github.io/selfrespect](https://pluralrespect.github.io/selfrespect)
