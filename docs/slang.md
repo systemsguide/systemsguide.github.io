@@ -19,7 +19,7 @@
 * **Weak Front / Strong Front**
     * A description of both how self-assured a headmate feels in the front, and how well-connected and associated they might feel with the body.
     * Also: _Weak-ass front, Bastard front_
-* **Summon **(verb)
+* **Summon** (verb)
     * Bring a particular headmate forward through usually-tried and usually-tested methods like “saying their name” and “listening to music they like” or “trying to eat their favourite food” or “seeing someone they’re friends with”. 
     * Applies to consensual attempts both internally and externally.
     * Also: _Grab_, _Yank_. 
