@@ -1,18 +1,20 @@
-site_name: Plural Respect
-site_url: https://pluralrespect.github.io
+site_name: Plural Self-Respect
+site_url: https://pluralrespect.github.io/selfrespect
 site_description: An opinionated and possibly useful resource for systems and their aspiring friends.
 #copyright: CC-BY-SA 4.0 International
 
 nav:
-  - Home: index.md
-  - Introduction: introduction.md
-  - Member Identity: identity.md
-  - Systemhood: systemhood.md
-  - Sysphobia/Sysmisia: sysmisia.md
-  - Sysmedicalism: sysmedicalism.md
-  - Systemhood Expanded: systemhood-expanded.md
-  - Member Identity Expanded: identity-expanded.md
-  - References / Further Reading: further-reading.md
+  - Foreword: index.md
+  - Slang / Casual Concepts: slang.md
+  - Prickles in Fuzztivehood: fuzztivehood.md
+  - Prickles in Quantity: quantity.md
+  - Repression and Reclamation: reclamation.md
+  - Rapport and Re-Meet: rapport.md
+  - Cycles of Null Exploration: exploration.md
+  - Novelty and Flanderisation: flanderization.md
+  - Microcosmic Sexuality: sexuality.md
+  - Challenges in Communication: communication.md
+  - Prickles in Hyper-Individualism: individualism.md
 
 theme: windmill
 
