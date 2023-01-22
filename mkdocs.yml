@@ -4,7 +4,7 @@ site_description: A crash course on the prickles of systemhood for systems - a m
 #copyright: CC-BY-SA 4.0 International
 
 nav:
-  - Foreword: index.md
+  - Home: index.md
   - Slang / Casual Concepts: slang.md
   - Prickles in Fuzztivehood: fuzztivehood.md
   - Prickles in Quantity: quantity.md
