@@ -35,4 +35,9 @@ The aforementioned animal-esque types - not to be confused with nonhuman members
 
 #### Cultural/Religious Engagement / Inclusion
 
-Some system members may feel an affinity with or simply interested in engaging in a particular culture. It’s the responsibility of both the member to _genuinely_ make attempts to engage with said culture rather than potentially raising issues with appropriation (as well as to respect the wishes of said culture with regard to whether they may engage with it at all), and for the other members of said culture to make the same reasonable allowances for a member of a system as they might towards any (“outsider”) singlet - other members of a system not engaging with a culture should not be an excuse for exclusion of another (except where this is rigidly unworkable within practice/belief).
+Language is a little softball, just keep in mind this is in keeping with the rest of the doc.
+
+
+Some system members may desire to engaging in a particular culture. It’s the responsibility of the member to ensure that if the culture allows them to engage with it (and, critically, in the body they are in), they make genuine attempts to do so in a way that is deemed acceptable - taking words and labels from another culture without engaging with it can be very harmful.
+
+In the reverse case, some attempt should be made to not exclude a member of a system from genuinely and respectfully engaging with a culture purely due to their presence in a system (unless this directly conflicts with cultural belief). 
