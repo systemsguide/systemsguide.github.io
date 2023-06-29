@@ -19,7 +19,7 @@ Fuzztivity is a very personal experience, and how anyone might relate to or feel
 
 When you're familiar with someone's experiences (or your own), it's important to not jump to conclusions about how much is being inherited from fiction. Even fuzztives that feel the most directly-ripped have their identity rooted in a personal interpretation or variation of a character - and have every ability to drift and change over time in the system.
 
-This experience isn't always spawned from externally created media either - sometimes creating characters in art, writing, or role-playing games, can lead to unearthing a similar headmate later on. These headmates may not always consider themselves fuzztives by any term - as it's just as sound an explanation for them to have been behind the pencil all along as a way to express themselves before they knew how.
+This experience isn't always spawned from externally created media either - sometimes creating characters in art, writing, or role-playing games, can lead to unearthing a similar headmate later on. These headmates may not always consider themselves fuzztives by any term - as it's just as sound an explanation for them to have been behind the pencil all along, as a way to express themselves before they knew how.
 
 #### Faith and Xenomemory
 
