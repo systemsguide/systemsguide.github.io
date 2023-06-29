@@ -23,7 +23,7 @@ This experience isn't always spawned from externally created media either - some
 
 #### Faith and Xenomemory
 
-To go along with system members with faith-based casualties that feel they were sent to or appeared in a system from another place, and fuzztive-esque system members who relate with a character on an identity level, some system members have what are usually called “Xenomemories” - feelings that they partially remember things that occurred to them before appearing within the system. Often this simply occurs when the given system member dreams - whether it’s the events of a past life or similar, or the events previously absorbed in fiction. These members have to take responsibility and understanding of these past xenomemories (regardless of acceptance or rejection) to be able to properly manage how they might affect how they feel in their present.
+To go along with system members with faith-based casualties that feel they were sent to or appeared in a system from another place, and fuzztive-esque system members who relate with a character on an identity level, some system members have what are usually called “xenomemories” (or "exomemories") - feelings that they partially remember things that occurred to them before appearing within the system. Often this simply occurs when the given system member dreams - whether it’s the events of a past life or similar, or the events previously absorbed in fiction. These members have to take responsibility and understanding of these past xenomemories (regardless of acceptance or rejection) to be able to properly manage how they might affect how they feel in their present.
 
 
 ## Animals and Ages
