@@ -7,15 +7,19 @@
 Existing myths and fictional characters are often used as quick descriptive shortcuts for members to explain their own appearance - especially for nonhuman system members. Simplified sentences are often thrown around that don’t make this explicit, such as “I’m some kind of centaur”, and while this can be okay casually it’s important to remember that these are usually shortcuts, and being explicit can proactively avoid some conflict over appropriation of myth (or intellectual property).
 
 
-#### Fuzztives and OCs
+#### Fuzz and Fiction
 
-Some system members relate heavily to not just a mythical or fictional creature or species but rather a specific existing character. These members are often (inappropriately archetypally, often harmfully) referred to as “fictives” or “fuzztives”, with the latter offering more acknowledgement of the member as an individual that _sees_ themself in a fictional character, and in fact is capable of making their own self discoveries and expressions as a unique person, rather than (causal-prescriptively) often considering a system member to be a 1:1 “rip-off” of an existing character that was “fabricated” in response to them. 
+Some system members relate heavily to not a species or mythical create but rather a specific existing character - or derivation thereof.
 
-More generally speaking, fuzztive-esque system members might have a similar appearance to a character, a similar or adopted name, and similar attitudes or speaking patterns - however, it’s important to remember that this phenomena is also common in singlets, where both particularly relatable characters might have similar attitudes, speech patterns, or clothing styles - and even may have their names or style adopted by someone (especially trans folk) who realise that they’re able to express in those ways and be seen positively. Fuzztive-esque system members might diverge from fiction over time, sometimes even in just days, when they are given the opportunity for self exploration.
+Speaking generally, this can range from as simple as taking a name and a hair colour from a favourite fictional character, to having no other explanation than being plucked by an outside force straight from the pages of a book and stuffed into a system.
 
-Another common intersection of fiction and plurality is Original Characters (OCs) - various creative types (writers, artists, tabletop roleplayers) might create original characters for their stories, art, or roleplaying (including sometimes video game RPG characters), that they later unearth some kind of fuzztive-esque system member relating to. Sometimes this occurs the same way that existing characters often do, where a character is reflected on and found to be relatable and expressive - however it can also be found that a system member, while repressed, either directly created or assisted in the creation of the character to express themselves.
+The language used to refer to pluralfolk that experience these phenomena is diverse, but frequently used terms include fictive (as in "fiction"), fuzztive (as in a "fuzzy" identity / relation to a character), 'having source material', 'having fuzzy experiences', and so on. Keep in mind that like the experiences themselves, this language is defined on an individual level - so don't assume one term or another.
 
-System members that are fuzztive-esque should ensure they acknowledge the potential for harm caused by claiming certain existing properties for themselves, but should be respected like all other pluralfolk.
+Fuzztivity is a very personal experience, and how anyone might relate to or feel about any "source character/s" (or sometimes "fictional associate/s" to de-emphasise causality) is their own information to keep or share.
+
+When you're familiar with someone's experiences (or your own), it's important to not jump to conclusions about how much is being inherited from fiction. Even fuzztives that feel the most directly-ripped have their identity rooted in a personal interpretation or variation of a character - and have every ability to drift and change over time in the system.
+
+This experience isn't always spawned from externally created media either - sometimes creating characters in art, writing, or role-playing games, can lead to unearthing a similar headmate later on. These headmates may not always consider themselves fuzztives by any term - as it's just as sound an explanation for them to have been behind the pencil all along as a way to express themselves before they knew how.
 
 #### Faith and Xenomemory
 
