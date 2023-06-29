@@ -9,7 +9,7 @@ Existing myths and fictional characters are often used as quick descriptive shor
 
 #### Fuzz and Fiction
 
-Some system members relate heavily to not a species or mythical create but rather a specific existing character - or derivation thereof.
+Some system members relate heavily to not a species or mythical creature but rather a specific existing character - or derivation thereof.
 
 Speaking generally, this can range from as simple as taking a name and a hair colour from a favourite fictional character, to having no other explanation than being plucked by an outside force straight from the pages of a book and stuffed into a system.
 
