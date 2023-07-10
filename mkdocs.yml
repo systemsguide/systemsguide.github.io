@@ -23,6 +23,6 @@ extra_css:
     - css/theme-adjustments.css
 
 extra:
-  version: 0.1.0
+  version: 0.2.0
   logo: img/custom-journey-flag.png
   article_nav_top: false
