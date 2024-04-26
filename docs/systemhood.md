@@ -28,7 +28,7 @@ Every system rests at a different level of cooperation, and some can’t breach 
 
 From the point of communication, or sometimes even a lack thereof, bonds between headmates can be quite diverse. Pluralfolk may consider their headmates to be close friends, housemates they simply put up with, a small family of some kind, and so on. 
 
-Individual system members may have fine-grained ways they relate to eachother - mentors, rivals, collaborators, or maybe just someone you look out for. On account of the realities of masturbation, it's also often practical to consider an intrasystem relationship to be sexual to some extent, for if nothing else to avoid discomfort. 
+Individual system members may have fine-grained ways they relate to eachother - mentors, romantic partners, rivals, collaborators, or maybe just someone you look out for. On account of the realities of masturbation, it's also often practical to consider an intrasystem relationship to be sexual to some extent, for if nothing else to avoid discomfort. 
 
 Many bonds between headmates rely heavily on being able to socialise and interact in group environments - with people outside of their own systems involved. This gives some pluralfolk the opportunity to keep a conversation flowing without getting stuck or feeling insecure (i.e _Internalised Saneism_). Building rapport with others outside a system, especially over multiple members, can be very helpful for systems learning to work together - even without direct support.
 
