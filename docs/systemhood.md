@@ -26,9 +26,9 @@ Every system rests at a different level of cooperation, and some can’t breach 
 
 #### Bonds
 
-From the point of communication, or sometimes even a lack thereof, bonds between headmates can be quite diverse - which is a frequent point of insecurity for many systems. Many pluralfolk consider their headmates to be close friends, housemates they simply put up with, or a small family of some kind. Others still, frequently nonmonogamous alloromantic pluralfolk, might consider the friendliness and closeness (literally “zero distance”) of their headmate and themselves to be innately romantic - though what that entails varies wildly, including sometimes nothing at all. 
+From the point of communication, or sometimes even a lack thereof, bonds between headmates can be quite diverse. Pluralfolk may consider their headmates to be close friends, housemates they simply put up with, a small family of some kind, and so on. 
 
-Beyond specific labels, system members might have more fine-grained ways to relate to eachother - mentorships, rivalries, or just simply wanting to keep headmates safe and/or happy - for their own benefit or otherwise. A common cornerstone of shame for many pluralfolk and systems, though one that _is_ able to be overcome in many cases, is that some headmates, due to the nature of existing in the same body with a functional libido (or for other reasons), consider the nature of their friendship or relationship to be inherently sexual, and what this entails again varies wildly. 
+Individual system members may have fine-grained ways they relate to eachother - mentors, rivals, collaborators, or maybe just someone you look out for. On account of the realities of masturbation, it's also often practical to consider an intrasystem relationship to be sexual to some extent, for if nothing else to avoid discomfort. 
 
 Many bonds between headmates rely heavily on being able to socialise and interact in group environments - with people outside of their own systems involved. This gives some pluralfolk the opportunity to keep a conversation flowing without getting stuck or feeling insecure (i.e _Internalised Saneism_). Building rapport with others outside a system, especially over multiple members, can be very helpful for systems learning to work together - even without direct support.
 
