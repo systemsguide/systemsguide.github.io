@@ -1,19 +1,22 @@
 # Plural Respect
 
-**This resource is not intended to introduce the concept of plurality.**     
-**Please read [More Than One](https://morethanone.info/) first.**
+> Welcome to Plural Respect! <br/>
+> This is a web resource for plural systems and their aspiring friends.<br/>
+> It builds off the groundwork and terminology of [morethanone.info](https://morethanone.info/) - read that first.
 
 
-## Foreword
 
-Welcome to the public edition of **Plural Respect**!
+### Bonus Terms
 
-This resource, originally created as a constitution for a _Queer Pluralfolk_ union (and a manifesto for its authors), is intended for members of plural systems, their friends and aspiring friends, and others that desire to understand plurality with an open mind.
+Here's a few terms used in the site that aren't present in _More Than One_:
+- **a**: b
 
-We dedicate this resource back to the community under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - you may freely print, redistribute, modify, and share with appropriate credit.
+### Formatting
 
-The name of the group authorizing this resource has been removed for safety reasons.
+[⇱ Links: Like This]() direct to tangent micro-essays written from firsthand experience, as part of our companion resource _Plural Self-Respect_.<br/>
+These are primarily oriented towards systems, and anyone looking to dive deeper into gritty details and personal experiences<br/>
+If you'd prefer to read these linearly after _Plural Respect_, their directory is available in the appendix, along with extras and drafts. 
 
-### Mission Statement
+### Version 2.0
 
-We exist to serve as a base from which avenues of support and empowerment for plural systems can be established. We acknowledge that community groups for openly plural systems in the same ilk as those for various queer and neurodiverse identities are still in their effective infancy, and that there are many mistakes still to be made - We can only hope to make those mistakes and fix them loudly enough for those who need to hear it. We strive for inclusion, for understanding, and to develop and proudly display the framework of plural understanding required to undermine the rationale behind widespread gatekeeping, apprehension, and hate.
+This
