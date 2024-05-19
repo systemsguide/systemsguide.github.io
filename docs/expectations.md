@@ -25,6 +25,7 @@ With this in mind, pluralfolk that consider their overall sexuality non-monogamo
 In most of our society, how you appear is a key part of your identity and individuality. Pluralfolk can rarely make exclusive claim to the appearance of the body, so self-perception often differs between headmates - whether different styles or proportions on the body, or a totally different body entirely, a shared understanding of how someone appears on this _meta-physical_ level is often key to social connection. 
 
 ### Humanity
+Like furries, therians, otherkin, and other nonhuman subcultures online and otherwise, the metaphysical appearance of a system member need not be human. Without an obvious "human starting point" in the form of the body to dispel, pluralfolk often reach this conclusion intuitively and without fanfare. Anthropomorphic animals, robots and machines, spirits, monsters, or computer software - the _form_ (metaphysical appearance) of a system member helps convey and express what makes them unique. 
 
 ### Causality
 Nobody knows for sure why they're conscious, and this is no different for systems. 
