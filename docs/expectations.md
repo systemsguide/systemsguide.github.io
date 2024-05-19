@@ -8,7 +8,7 @@ Plurality is a queerness of cardinality, encompassing all the fuzzy lines where 
 These *system configurations* are diverse, and represent a variety of lived experiences - whether it's a system of ~7, 31, 2, 1,000,000, or 1*.
 
 ### Names
-As pluralfolk, we always lay *between* the extremes of our bodies containing one person, and our being a multiple-bodied group of people. 
+As pluralfolk, we always lay *between* the extremes of our bodies containing one person, and of being a multiple-bodied group of people. 
 System members might have a name each, a name for the whole system, both at the same time, many names each - maybe share *a* name with another headmate with whom their lines blur. A name could be a composite - representing the parts working in tandem to speak or act, or have layers of complexity below the surface.
 A newly self-discovered system might keep their old name to refer to the system, to refer to a specific headmate, or to refer to any arbitrary headmate in a kind of "hey, you!" fashion - it's all up to the them. 
 
