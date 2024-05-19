@@ -29,4 +29,4 @@ Like furries, therians, otherkin, and other nonhuman subcultures online and othe
 
 ### Causality
 As covered in _More Than One_, many systems hold belief in why exactly they are plural - reasons accidental, deliberate, spiritual, or of course unknowable: a lack of belief, or a belief that their causality is fundamentally unimportant. 
-This _causal belief_ is not a concept unique to pluralfolk - nobody knows why exactly they're conscious, but they may chose to hold a faith. 
+This _causal belief_ is not a concept unique to pluralfolk - nobody knows why exactly they're conscious, but many choose to hold faith. 
