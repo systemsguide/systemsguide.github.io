@@ -16,11 +16,17 @@ A newly self-discovered system might keep their old name to refer to the system,
 Like genderqueers neccesitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body. While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might (say) use unique pronouns, and hold a different conception of their transness. 
 
 ### Sexuality
+A notable variance in _system configuration_ is in what bleeds over (or stays constant) between headmates.
+The answer always lies between the extremes, but where exactly varies - memory might be totally contiguous, or almost completely individualised. Headmates may share beliefs, but differ in opinions - share interests, but differ in tastes.
+Sexuality falls under this concept - a varying taste in other people throughout the system, minorly or majorly. 
+With this in mind, pluralfolk that consider their overall sexuality non-monogamous, or somwhere on the aromantic or asexual spectrum, can be quite common. 
 
 ### Appearance
+In most of our society, how you appear is a key part of your identity and individuality. Pluralfolk can rarely make exclusive claim to the appearance of the body, so self-perception often differs between headmates - whether different styles or proportions on the body, or a totally different body entirely, a shared understanding of how someone appears on this _meta-physical_ level is often key to social connection. 
 
 ### Humanity
 
 ### Causality
-As covered in _More Than One_, systems often hold belief (or disinterest) in why exactly they're plural - in the same way any singlet might ponder why they're alive.<br/>
-Nobody knows for sure why they're conscious, and this is no different for systems.
+Nobody knows for sure why they're conscious, and this is no different for systems. 
+As covered in _More Than One_, many systems hold belief in why exactly they are plural - reasons accidental, deliberate, spiritual, unknowable, and so on. 
+Sometimes the absence of this _causal belief_ reflects a system's philosophy too - "don't know, can't know, it's not important".
