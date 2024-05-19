@@ -13,7 +13,7 @@ System members might have a name each, a name for the whole system, both at the 
 A newly self-discovered system might keep their old name to refer to the system, to refer to a specific headmate, or to refer to any arbitrary headmate in a kind of "hey, you!" fashion - it's all up to the them. 
 
 ### Gender
-Like genderqueers neccesitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body. While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might (say) use unique pronouns, and hold a different conception of their transness - a trans person discovering their systemhood may have system members aligned to their _old_ gender; so are they cis, trans twice, or just trans once? that's for then to conceptualise.
+Like genderqueers neccesitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body. While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might (say) use unique pronouns, and hold a different conception of their transness - a trans person discovering their systemhood may have system members aligned to their _old_ gender; so are they cis, trans twice, or just trans once? that's for them to conceptualise.
 
 ### Sexuality
 A notable variance in _system configuration_ is in what bleeds over (or stays constant) between headmates.
