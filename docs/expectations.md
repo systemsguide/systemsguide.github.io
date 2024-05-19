@@ -3,6 +3,9 @@
 > Whether you're talking to a system, or considering what's inside yourself, here's what not to take for granted.
 
 ### Numbers
+A body and an individual is not neccesarily a 1:1 relationship. Conversely, not everyone under the plural umbrella can be modelled as "multiple people in a body".
+Plurality is a queerness of cardinality, encompassing all the fuzzy lines where we can't confidently state that 1:1 relationship in all senses and cases.
+These *system configurations* are diverse, and represent a variety of lived experiences - whether it's a system of 7, 31, 2, 1,000,000, or 1*.
 
 ### Names
 
