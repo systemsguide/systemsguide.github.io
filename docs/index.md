@@ -25,4 +25,4 @@ If you'd prefer to read this resource linearly, it's available under _further re
 
 ### Version 2.0
 
-This is a 2024 rewrite of the original 2022 *plural respect* - made with a better understanding of ourselves, less redundancy over more than one, more conviction, more exposure to plural experiences, a more consistent tone throughout, and of course - the help of our friends. PR1.0 is available [here](/v1) for archival purposes. 
+This is a 2024 rewrite of the original 2022 *plural respect* - made with a better understanding of ourselves, less redundancy with more than one, more conviction, more exposure to plural experiences, a more consistent tone throughout, and of course - the help of our friends. PR1.0 is available [here](/v1) for archival purposes. 
