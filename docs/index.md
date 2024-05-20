@@ -14,8 +14,8 @@ This resource is for everyone - systems and singlets, know-alls and know-nothing
 This resource can be freely skimmed, but is intended to be read linearly. _Novel terminilogy_ is introduced with italics, and is built up as it progresses.
 
 [⇱ Links: Like This]() direct to tangent micro-essays written from firsthand experience, as part of our companion resource _Plural Self-Respect_.<br/>
-These are primarily oriented towards systems, and anyone looking to dive deeper into gritty details and personal experiences<br/>
-If you'd prefer to read these linearly after _Plural Respect_, their directory is available in the appendix, along with extras and drafts. 
+These are primarily oriented towards systems, and anyone looking to dive deeper into the complexity of personal experience.<br/>
+If you'd prefer to read this resource linearly, it's available under _further reading_. 
 
 ### Version 2.0
 
