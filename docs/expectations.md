@@ -3,7 +3,7 @@
 > Whether you're talking to a system, or considering what's inside yourself, here's what not to take for granted.
 
 ### Numbers
-A body and an individual is not neccesarily a 1:1 relationship. Conversely, not everyone under the plural umbrella can be modelled as "multiple people in a body".
+A body and an individual is not necessarily a 1:1 relationship. Conversely, not everyone under the plural umbrella can be modelled as "multiple people in a body".
 Plurality is a queerness of cardinality, encompassing all the fuzzy lines where we can't confidently state that 1:1 relationship in all senses and cases.
 These *system configurations* are diverse, and represent a variety of lived experiences - whether it's a system of ~7, 31, 2, 1,000,000, or 1*.
 
@@ -13,7 +13,7 @@ System members might have a name each, a name for the whole system, both at the 
 A newly self-discovered system might keep their old name to refer to the system, to refer to a specific headmate, or to refer to any arbitrary headmate in a kind of "hey, you!" fashion - it's all up to the them. 
 
 ### Gender
-Like genderqueers neccesitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body. While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might (say) use unique pronouns, and hold a different conception of their transness - a trans person discovering their systemhood may have system members aligned to their _old_ gender; so are they cis, trans twice, or just trans once? that's for them to conceptualise.
+Like genderqueers necessitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body. While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might (say) use unique pronouns, and hold a different conception of their transness - a trans person discovering their systemhood may have system members aligned to their _old_ gender; so are they cis, trans twice, or just trans once? that's for them to conceptualise.
 
 ### Sexuality
 A notable variance in _system configuration_ is in what bleeds over (or stays constant) between headmates.
@@ -29,4 +29,4 @@ Like furries, therians, otherkin, and other nonhuman subcultures online and othe
 
 ### Causality
 As covered in _More Than One_, many systems hold belief in why exactly they are plural - reasons accidental, deliberate, spiritual, or of course unknowable: a lack of belief, or a belief that their causality is fundamentally unimportant. 
-This _causal belief_ is not a concept unique to pluralfolk - nobody knows why exactly they're conscious, but many choose to hold faith. 
+This _causal belief_ is not a concept unique to pluralfolk - nobody knows why exactly they're conscious, but many choose to hold faith.

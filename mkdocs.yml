@@ -1,12 +1,13 @@
 site_name: Plural Respect
 site_url: https://pluralrespect.neocities.org
-site_description: An opinionated and possibly useful resource for systems and their aspiring friends.
+site_description: A crash course for/in plurality.
 #copyright: CC-BY-SA 4.0 International
 
 nav:
   - About This Site: index.md
   - Shattering Expectations: expectations.md
   - Building Understanding: understanding.md
+  - External Challenges: challenges.md
 
 theme: windmill
 
