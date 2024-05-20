@@ -5,7 +5,13 @@
 > It builds off the groundwork and terminology of [morethanone.info](https://morethanone.info/) - read that first.
 
 ### Purpose and Demographic (Foreword) 
-**Plural Respect** is intended to raise the level of plural nuance and intuition that can be gained from primer-style website. Where _more than one_ conveys an explanation sufficient to talk to pluralfolk or understand that you yourself are plural, *plural respect* aims to supply the neccesary understanding to be _friends_ with pluralfolk - or to become friendly with your own systemhood. To achieve this, it first works to dispel assumptions about systems and systemhood, discusses the ins and outs of living as (or, in) a system, and finally addresses the challenges to comfortable existence that pluralfolk face. 
+**Plural Respect** is intended to raise the level of plural nuance and intuition that can be gained from primer-style website. 
+
+Where _more than one_ conveys an explanation sufficient to talk to pluralfolk or understand that you yourself are plural, *plural respect* aims to supply the neccesary understanding to be _friends_ with pluralfolk - or to become friendly with your own systemhood.
+
+To achieve this, it first works to dispel assumptions about systems and systemhood, discusses the ins and outs of living as (or, in) a system, and finally addresses the challenges to comfortable existence that pluralfolk face. 
+
+What plural respect *isn't* is academia - every thought in these pages was acquired through observational understanding and lived experience, not by reviewing existing literature; quote us as people, not as a paper in the field.  
 
 This resource is for everyone - systems and singlets, know-alls and know-nothings - read it, share it, surpass and disagree with it, adapt it, revise it - if you're working towards understanding and acceptance, it's all yours.
 
