@@ -30,3 +30,12 @@ Like furries, therians, otherkin, and other nonhuman subcultures online and othe
 ### Causality
 As covered in _More Than One_, many systems hold belief in why exactly they are plural - reasons accidental, deliberate, spiritual, or of course unknowable: a lack of belief, or a belief that their causality is fundamentally unimportant. 
 This _causal belief_ is not a concept unique to pluralfolk - nobody knows why exactly they're conscious, but many choose to hold faith.
+
+### Words
+As pluralfolk, we model the language used to describe our internal experiences on that of the outside world.
+This language is not meant to be meaningless to an outsider, but it can't be taken at face value - as its meaning is being inscribed by the system conveying it.
+
+A _Minotaur headmate_ is not _The Bull of Minos_, but might resemble them.
+System members that call eachother _siblings_ might refer to a resemblance, bond, or rivalry - but could be using _sibling_ to mean _headmate_.
+System members with the names of fictional characters could be widely invested in displaying the attitudes and mannerisms of that character, or they just might like the look!
+System members that are described as instinctive animals, or as unintelligent, old, naive, or young would all appear to present striking, complicating, sometimes dangerous issues in the outside world - but as with the above, this language refers to nuanced experiences that only the individual system themselves can convey the ins and outs of. It's only through this per-system interpretation of the language we use that others can gain a genuine understanding of our experiences.
