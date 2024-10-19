@@ -10,7 +10,7 @@ These *system configurations* are diverse, and represent a variety of lived expe
 ### Names
 As pluralfolk, we always lay *between* the extremes of our bodies containing one person, and of being a multiple-bodied group of people. 
 System members might have a name each, a name for the whole system, both at the same time, many names each - maybe share *a* name with another headmate with whom their lines blur. A name could be a composite - representing the parts working in tandem to speak or act, or have layers of complexity below the surface.
-A newly self-discovered system might keep their old name to refer to the system, to refer to a specific headmate, or to refer to any arbitrary headmate in a kind of "hey, you!" fashion - it's all up to the them. 
+A newly self-discovered system might keep their old name to refer to the system, to refer to a specific headmate, or to refer to any arbitrary headmate in a kind of "hey, you!" fashion - it's all up to them. 
 
 ### Gender
 Like genderqueers necessitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body. While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might (say) use unique pronouns, and hold a different conception of their transness - a trans person discovering their systemhood may have system members aligned to their _old_ gender; so are they cis, trans twice, or just trans once? that's for them to conceptualise.
