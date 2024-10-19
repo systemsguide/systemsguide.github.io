@@ -1,6 +1,6 @@
 site_name: Plural Respect
 site_url: https://pluralrespect.neocities.org
-site_description: A crash course for/in plurality.
+site_description: A crash course in plurality for systems and singlets alike.
 #copyright: CC-BY-SA 4.0 International
 
 nav:
@@ -8,6 +8,8 @@ nav:
   - Shattering Expectations: expectations.md
   - Facing Challenges: challenges.md
   - Gaining Familiarity: familiarity.md
+  - Afterword: afterword.md
+  - "Self-Respect: The Fictive": fictive.md
 
 theme: windmill
 
