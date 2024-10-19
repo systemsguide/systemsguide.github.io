@@ -1,5 +1,7 @@
 ## Gaining Familiarity
 
+**Unfinished! Go read _systemhood_ and _systemhood expanded_ from v1. they're long and boring i know**
+
 > Becoming familiar with plurality is a strange, intuitive, and counterintuitive process that rewires the brain.<br/>
 > Here's a breakdown of what those oft-alluded _plural experiences_ tend to be, and what to expect on the observing end, too.
 
