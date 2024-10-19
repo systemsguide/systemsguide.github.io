@@ -6,7 +6,7 @@ site_description: A crash course for/in plurality.
 nav:
   - About This Site: index.md
   - Shattering Expectations: expectations.md
-  - Building Understanding: understanding.md
+  - Building Understanding: familiarity.md
   - External Challenges: challenges.md
 
 theme: windmill
