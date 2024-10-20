@@ -3,22 +3,28 @@
 > Systems are challenged in their self-acceptance, day in and day out, from without and from within.<br/>
 > Here's to look out for in the wild, and what that one internal conflict might just boil down to.
 
-### Sysphobia
+### Normativity
 
-Sysphobia, and internalised sysphobia, has its roots in fundamental misunderstandings of plurality and the experiences of plural systems.
-More than one's *myths* covers the basics, so here's some deeper examples.
+With more than one's _myths_ already covering the ways sysphobia is rooted in misunderstandings of plurality, this chapter shifts to focus on how the definition of "normal" held by systems and onlookers creates internal conflicts, hate, and exclusion.
 
-Wider society is entrenched in _singlet-normativity_ - the treating of singlethood as an assumed default and creating a view of plurality as "too complicated".
-This invites dismissing systems as "delusional" or "attention-seeking", as well as invoking fears in questioning plurals about the social impact of accepting oneself as a system.
-Singlet-normativity also enables onlookers to treat plural experiences as exceptional or alien, and justify dismissing system members requests or needs (seeing them as subhuman).
-Failing to understand the diversity of plural experience can easily lead to some systems feeling objectified (treated as "fun costumes" instead of people) while others might feel they can't express themselves as a system (treated too much like entirely separate individuals) - and of course, misunderstanding the umbrella can lead to missing your own plurality, too.
-These combined are often used to justify invasions of privacy - while some systems _choose_ to be open about their experiences, others are pressured by singlets that assume a system being "complicated" entitles them to know exactly how.
+_Singlet-normativity_ presents a basic but pervasive challenge. 
+Because wider society sees singlethood as a compulsory default, every deviation from that experience presents a challenge.
+Through singlet-normativity, elimination of systemhood through medical intervention is seen as essential.
+Through singlet-normativity, plural experience is unacceptably complex, such that it must be delusioned or fabricated in some way.
+Through singlet-normativity, the needs or desires of any system member can be dismissed as an obstacle.
+Through singlet-normativity, it becomes acceptable to demand the details of a system's composition or current front, as the "confusing" or "dangerous" complexity entitles others to know.
 
-The most persistent struggle through plurality is likely _impostor syndrome_.
-With the diversity of plural experience, there's no limit of ways to conceptualize oneself as an undeserving outsider - whether your experiences are too distressing, not distressing enough, too weird, too positive, or you just have too many headmates - each time your experiences change or develop, you might be challenged with self-doubt.
-Against this pressure is the knowledge that all systems are different, that you're unlikely to be experiencing plurality _wrong_, and that you are the master of your own experiences; most of the time, if an experience feels right, then you can trust that feeling and accept it.
+This creates a pressure to be "normal enough" that spreads far beyond accepting the existence of your own or another's systemhood. 
+Whenever a system _un-represses_ (or "gains") a new headmate, they're challenged with the question - how many headmates can a system have without becoming unacceptable?
+Faced with normative pressure, "a System of 2/3/4" feels more believable and acceptable than starting with "a System of 40" and suddenly feeling obligated to explain where exactly those lines blur in an attempt to seem "more normal" and avoid rejection.
+It's not just numbers either - whenever a plural experience doesn't line up with the simplest, most widely propagated analogies, it instills this fear. 
 
-Naturally this struggle is not all internal; as many - often through their own insecurity - will instead choose to elect external impostors.
+Through this rejection of plural diversity, restrictive definitions of plurality emerge harm systems of all kinds.
+Singlets with these limited understandings can easily leave one system feeling objectified (treated as "fun costumes"), and another unable to express their systemhood (treated as purely individuals).
+And of course, without a widely propagated diverse definition, questioning systems are left wondering if they can call themselves plural at all.
+
+Imposter syndrome, and the feeling that you might be being plural _wrong_, is pervasive.
+However, this struggle is not purely internal - many systems turn that fear of abnormality towards others, choosing their own imposters to exclude instead.
 
 ### Sysmedicalism
 
