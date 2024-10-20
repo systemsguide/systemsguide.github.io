@@ -5,11 +5,13 @@
 > It builds off the groundwork and terminology of [morethanone.info](https://morethanone.info/) - read that first.
 
 ### Foreword
-**Plural Respect** is a primer-style resource intended to impart additional nuance to an existing understanding of plurality. 
 
-While _More Than One_ is sufficient for talking to systems or realizing you're plural, _Plural Respect_ attempts to instill an intuition for plural experience sufficient to befriend the system you know - or the one inside. 
+**Plural Respect** is a primer-style resource intended to impart additional nuance to an existing understanding of plurality.
 
-What this *isn't* is academia - every thought in these pages was acquired through observational understanding and lived experience, not by reviewing existing literature. This is a firsthand account, so reference it that way if used.  
+While _More Than One_ is sufficient for talking to systems or realizing you're plural, _Plural Respect_ attempts to instill an intuition for plural experience sufficient to befriend the system you know - or the one inside.
+
+What this *isn't* is academia - every thought in these pages was acquired through observational understanding and lived experience, not by reviewing existing literature.
+This is a firsthand account, so reference it that way if used.
 
 This resource is for everyone - systems and singlets, know-alls and know-nothings - read it, share it, surpass and disagree with it, adapt it, revise it - if you're working towards understanding and acceptance, it's all yours.
 
