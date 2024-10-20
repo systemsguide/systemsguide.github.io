@@ -44,7 +44,7 @@ Anthropomorphic animals, robots and machines, spirits, monsters, or computer sof
 ### Causality
 
 As covered in _More Than One_, many systems hold belief in why exactly they are plural - reasons accidental, deliberate, spiritual, or of course absent!
-These _causal beliefs_ are of course not unique to pluralfolk - nobody knows why they exist and have consciousness, but many choose to hold faith.
+These _causal beliefs_ are of course not unique to pluralfolk - nobody knows why they're conscious, but many choose to hold faith.
 
 ### Words
 
