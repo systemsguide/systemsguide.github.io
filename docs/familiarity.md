@@ -30,9 +30,16 @@ Co-fronts, fronts "between" other fronts, a "nothing" or "blurry" feeling front,
 ### Discovery
 
 New fronts and newly discovered systemhood present their own unique and at times challenging experiences.
+Being new to systemhood can make everything suddenly clumsy, messy, and distressing.
+Over time, you learn to navigate each experience, resolve early-system internal conflicts, and develop functional masking and unmasking skills to take on the outside world.
+Feeling new to a more settled system can be a bit scary too - on a rational level, you worry about existing expectations of the system, and its friends, and pushing the against normative quantity bounds.
+On a more instinctual level, the feeling of _being_ new is texturally very strange - like tasting something you've never tasted anything like before. For some, that can feel good - freeing, a new experience that the system is capable of. But it's intimidating, and isolating, too. You rely on others, within and outside the system, to accept your place in it.
 
-- Sensations associated with new fronts and repressed systemhood, experiences of early fronting
-- Connecting the old with the new, reassociating and re-meeting new headmates
+Settling in fresh systemhood or a system member is a unique process of connecting the old with the new.
+There's a period of exploration, where you can find - or as a friend, can provide - sufficient space to feel out what feels right: in identity, language, self-expression, tastes, and so on.
+In the process of discovering the new, you often begin to recognize the old - from outside and in, parts of the new taste start to seem familiar.
+You might remember points in your past that felt the same, or a friend might recall a mannerism or interest you once had that's come back. 
+Through this process, we (and others) _re-meet_ new parts of ourselves like old friends, and only occasionally encounter entirely new aspects to express and embrace.  
 
 ### Relationships
 
