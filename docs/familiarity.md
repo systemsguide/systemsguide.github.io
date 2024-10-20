@@ -10,22 +10,23 @@ In this chapter, we'll primarily address switching systems, with some paragraphs
 
 At first, switches can be strange and unnatural.
 The sensations are unfamiliar, be it like "waking up", a new pair of glasses, or like something intangible is sliding into place in your head.
-This can make it look strange, too - daydreamy eye-glazing, sudden adjustments in posture, wincing, and so on. 
+This can make it look strange, too - daydreamy eye-glazing, sudden adjustments in posture, wincing, and so on.
 It's not all accidental - stretching, yawning, scrunching your nose, and clearing your throat, can all help deliberately settle in a new front.
 This works because different headmates tend to utilize the body differently: posture, gait, voice, facial expressions, or even just their "resting" face.
 
 Over time, you become accustomed to the differences between fronts.
 As a system, this helps fronts settle better, be more accepting of your own differences, or help you be able to switch fronts deliberately - which some systems can do.
 As an observer, recognizing fronts gets easier, beyond obvious clues like clothing or speech patterns.
-This is never completely reliable (and it's rude to guess a front unprompted!), but it can help you understand a system a bit more. 
+This is never completely reliable (and it's rude to guess a front unprompted!), but it can help you understand a system a bit more.
 Realistically, it's more practical for a system to deliberately signal a change of front.
 The obvious "hi, it's [name]" is functional, but can feel a bit objectifying.
 Instead, you could swap a name tag or accessory, change up decorations in chat messages (e.g. an emoji or signature), or ask someone to guess your front.
 
 In systems that switch, the word "front" can also provide a more intuitive model for system composition, rather than a permanent roster of "system members".
 In just one example of a way a system might conceptualize themselves - a front may not be purely the presence of a permanent resident, but rather a combination of aspects of the overall system.
-Through a changing self-conceptualization, systems are able to adjust to understand new experiences. 
-Co-fronts, fronts "between" other fronts, a "nothing" or "blurry" feeling front, or a "variant" on a usual front are all experiences that can challenge our model of systemhood. Don't be afraid to adapt if something new feels right.
+Through a changing self-conceptualization, systems are able to adjust to understand new experiences.
+Co-fronts, fronts "between" other fronts, a "nothing" or "blurry" feeling front, or a "variant" on a usual front are all experiences that can challenge our model of systemhood.
+Don't be afraid to adapt if something new feels right.
 
 ### Discovery
 
@@ -33,13 +34,16 @@ New fronts and newly discovered systemhood present their own unique and at times
 Being new to systemhood can make everything suddenly clumsy, messy, and distressing.
 Over time, you learn to navigate each experience, resolve early-system internal conflicts, and develop functional masking and unmasking skills to take on the outside world.
 Feeling new to a more settled system can be a bit scary too - on a rational level, you worry about existing expectations of the system, and its friends, and pushing the against normative quantity bounds.
-On a more instinctual level, the feeling of _being_ new is texturally very strange - like tasting something you've never tasted anything like before. For some, that can feel good - freeing, a new experience that the system is capable of. But it's intimidating, and isolating, too. You rely on others, within and outside the system, to accept your place in it.
+On a more instinctual level, the feeling of _being_ new is texturally very strange - like tasting something you've never tasted anything like before.
+For some, that can feel good - freeing, a new experience that the system is capable of.
+But it's intimidating, and isolating, too.
+You rely on others, within and outside the system, to accept your place in it.
 
 Settling in fresh systemhood or a system member is a unique process of connecting the old with the new.
 There's a period of exploration, where you can find - or as a friend, can provide - sufficient space to feel out what feels right: in identity, language, self-expression, tastes, and so on.
 In the process of discovering the new, you often begin to recognize the old - from outside and in, parts of the new taste start to seem familiar.
-You might remember points in your past that felt the same, or a friend might recall a mannerism or interest you once had that's come back. 
-Through this process, we (and others) _re-meet_ new parts of ourselves like old friends, and only occasionally encounter entirely new aspects to express and embrace.  
+You might remember points in your past that felt the same, or a friend might recall a mannerism or interest you once had that's come back.
+Through this process, we (and others) _re-meet_ new parts of ourselves like old friends, and only occasionally encounter entirely new aspects to express and embrace.
 
 ### Relationships
 
