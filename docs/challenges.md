@@ -30,15 +30,15 @@ However, this struggle is not purely internal - many systems turn that fear of a
 
 _Sysmedicalists_ are those that ostracize systems based on adherence to medical models, diagnoses, and associated assumptions. They exclude systems from communities and support, and insist they do not fit under the plural umbrella.
 Recommendations for diagnosis of and the impacts of DID are changing slowly, and practice even slower - diagnosis criteria excludes many system configurations and systems not in distress, improper and abusive treatment for DID is still widespread, and a DID diagnosis is still a common blocker for voluntary medical procedures and asylum discharges.
-As a result, sysmedicalism pushes out and shames a large portion of systems by insisting that plurality is objectively observable, and that only a select few are capable of doing the observing.
-In practice, this resembles transmedicalism, where trans people are excluded for lacking a gender dysphoria diagnosis, or not undergoing medical interventions.
+As a result, sysmedicalism pushes out and shames a large portion of systems by insisting that plurality is objectively observable, and that only medical criteria and professionals can guide that observation.
 
-Predominant online sysmedicalist views focus on causality.
-By insisting that a system's cause for existence can be objectively observed, and that there are "unacceptable" or "fake" causes, systems suspected of these qualities can be excluded from plural spaces.
-Language is key here, even among the inclusive - when [more than one's _causes_](https://morethanone.info/#causes) use the phrases "trauma plurals" and "plurals who were not originally plural", they accidentally imply that it _is_ possible to know why a person exists, and therefore that it's possible to exclude them on that basis.
-Similarly, sysmeds propagate categorizing plural systems as "traumagenic" (exists due to trauma) and "endogenic" (does not) - language which enforces the idea that these are facts, not beliefs.
-Despite being flimsy on inspection, the usage of this language enables the "us vs.
-them" narrative that these sysmeds require to operate, even if not all those using the terms are attempting to be exclusionary (in the usual "endos dni"-type fashion) at all.
+Owing to the medical classification of DID as a "trauma disorder", predominant online sysmedicalism focuses on whether a system exists "through trauma" (deemed acceptable), or through some other mechanism (deemed fake, or unacceptable).
+The main flaw is immediately visible here - how can anybody be expected to know for sure why they exist? This setup divides systems into the diagnosed and the overconfident as the in-group, and everyone else as the out-group. 
+This specific distinction on whether plurality (and therefore causality) can be objectively observed and concluded upon by a system or onlooker is fundamental to this avenue for exclusion.
+That means language is key, even among the inclusive - when [more than one's _causes_](https://morethanone.info/#causes) use the phrases "trauma plurals" and "plurals who were not originally plural", they accidentally enforce this idea of objective observation.
+When sysmeds promote usage of the words "traumagenic" and "endogenic" (the in- and out-groups) to categorize all plural systems, this is an attempt to deliberately enforce these as observable facts, _not_ beliefs. 
+This means that often, inclusive bystanders use language that validates the method by which Sysmedicalists select those to exclude - even if they're not the "endos dni" types themselves.
+
 
 ### Syscourse
 
