@@ -14,5 +14,5 @@ Feel free to skim them in any order!
 ### _Aside:_ 2.0
 
 This primer is a 2024 rewrite of the original 2022 *plural respect* - made with less redundancy, more consistency, more conviction, a better understanding of ourselves, and of course - the help of our friends.
-1.0 is long, meandering, and at times incorrect - but is available [here](/v1) with even _less_ warranty - just in case it's more complete.
+1.0 is long, meandering, and at times incorrect - but is available <a href="https://pluralrespect.neocities.org/v1/#" data-wm-adjusted="done">here</a> with even _less_ warranty - just in case it's more complete.
 
