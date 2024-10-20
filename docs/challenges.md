@@ -33,12 +33,11 @@ Recommendations for diagnosis of and the impacts of DID are changing slowly, and
 As a result, sysmedicalism pushes out and shames a large portion of systems by insisting that plurality is objectively observable, and that only medical criteria and professionals can guide that observation.
 
 Owing to the medical classification of DID as a "trauma disorder", predominant online sysmedicalism focuses on whether a system exists "through trauma" (deemed acceptable), or through some other mechanism (deemed fake, or unacceptable).
-The main flaw is immediately visible here - how can anybody be expected to know for sure why they exist? This setup divides systems into the diagnosed and the overconfident as the in-group, and everyone else as the out-group. 
+The main flaw is immediately visible here - how can you know for sure why you exist? This setup divides systems into the diagnosed and the overconfident as the in-group, and everyone else as the out-group. 
 This specific distinction on whether plurality (and therefore causality) can be objectively observed and concluded upon by a system or onlooker is fundamental to this avenue for exclusion.
 That means language is key, even among the inclusive - when [more than one's _causes_](https://morethanone.info/#causes) use the phrases "trauma plurals" and "plurals who were not originally plural", they accidentally enforce this idea of objective observation.
-When sysmeds promote usage of the words "traumagenic" and "endogenic" (the in- and out-groups) to categorize all plural systems, this is an attempt to deliberately enforce these as observable facts, _not_ beliefs. 
-This means that often, inclusive bystanders use language that validates the method by which Sysmedicalists select those to exclude - even if they're not the "endos dni" types themselves.
-
+When sysmeds promote usage of the words "traumagenic" and "endogenic" (the in- and out-groups) to categorize all plural systems, this is an attempt to deliberately enforce these as observable facts, not beliefs. 
+Critically, this means that bystanders often unknowingly validate and enforce sysmedicalist exclusion by using their language - even if it's used not in an exclusive ("endos dni") fashion.
 
 ### Syscourse
 
