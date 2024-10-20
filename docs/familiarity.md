@@ -46,4 +46,9 @@ Without a way to directly communicate, these opinions form the bases of non-spea
 Without a word to one another, system members can still do things they know their other headmates struggle with, speak to friends about how they feel about eachother, make little comments right after getting into the front, and in many cases, bubble up their feelings and thoughts without being in the front - like your ears burning when someone says your name.
 It's often quite unlike a relationship between two bodies, but as you've likely realised, it simply does not need to be.
 
-- Behind-curtain relations with systems and system members - providing support, mediation, helping with intrasystem relations, engaging with metaphysicality
+Past that initial invitation behind the curtain, being plural continues to colour our external relationships. 
+Developing bonds always sit somewhere between the individual headmate you spent time with, and the system as a whole.
+Over time, friends can come to understand the workings of a system, and recognize some or all of its inhabitants fondly.
+Through this process, friends outside the system may be able to provide better support - helping shift unhappy fronts, perceiving subtle differences, and even helping mediate conflict or feelings between members of a system.
+The tolerance to the strangeness of plural existence of a friend can provide a system with a rare moment to relax and let their guard down - front less popular headmates, let the body language of a front get weirder than usual, or speak honestly to their own experiences and feelings.
+As systems, to be known is often a source of terror - but it can also a source of peace.
