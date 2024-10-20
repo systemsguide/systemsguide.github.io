@@ -9,13 +9,13 @@ Sysphobia, and internalised sysphobia, has its roots in fundamental misunderstan
 More than one's *myths* covers the basics, so here's some deeper examples.
 
 Wider society is entrenched in _singlet-normativity_ - the treating of singlethood as an assumed default and creating a view of plurality as "too complicated". This invites dismissing systems as "delusional" or "attention-seeking", as well as invoking fears in questioning plurals about the social impact of accepting oneself as a system.
-Singlet-normativity also enables onlookers to treat plural experiences as exceptional, or alien - justifying dismissing system members requests or needs (seeing them as subhuman), or that systems can uniquely have the reasons they exist be observed and concluded on.
+Singlet-normativity also enables onlookers to treat plural experiences as exceptional or alien, and justify dismissing system members requests or needs (seeing them as subhuman).
 Failing to understand the diversity of plural experience can easily lead to some systems feeling objectified (treated as "fun costumes" instead of people) while others might feel they can't express themselves as a system (treated too much like entirely separate individuals) - and of course, misunderstanding the umbrella can lead to missing your own plurality, too.
 These combined are often used to justify invasions of privacy - while some systems _choose_ to be open about their experiences, others are pressured by singlets that assume a system being "complicated" entitles them to know exactly how.
 
 The most persistent struggle through plurality is likely _impostor syndrome_.
-With the diversity of plural experience, there's no limit of ways to conceptualize oneself as an undeserving outsider - whether your experiences are too distressing, not distressing enough, too weird, too positive - each time your experiences change or develop, you might be challenged with self-doubt.
-Against this pressure is the knowledge that all systems are different - and that you're unlikely to be experiencing plurality _wrong_ - and that you are the master of your own experiences; most of the time, if an experience feels right, then you can trust that feeling and accept it.
+With the diversity of plural experience, there's no limit of ways to conceptualize oneself as an undeserving outsider - whether your experiences are too distressing, not distressing enough, too weird, too positive, or you just have too many headmates - each time your experiences change or develop, you might be challenged with self-doubt.
+Against this pressure is the knowledge that all systems are different, that you're unlikely to be experiencing plurality _wrong_, and that you are the master of your own experiences; most of the time, if an experience feels right, then you can trust that feeling and accept it.
 
 Naturally this struggle is not all internal; as many - often through their own insecurity - will instead choose to elect external impostors.
 
@@ -27,8 +27,8 @@ As a result, sysmedicalism pushes out and shames a large portion of systems by i
 In practice, this resembles transmedicalism, where trans people are excluded for lacking a gender dysphoria diagnosis, or not undergoing medical interventions.
 
 Predominant online sysmedicalist views focus on causality. By insisting that a system's cause for existence can be objectively observed, and that there are "unacceptable" or "fake" causes, systems suspected of these qualities can be excluded from plural spaces.
-Language is key here, even among the inclusive - when [more than one's _causes_](https://morethanone.info/#causes) use the phrases "trauma plurals" and "plurals who were not originally plural", they accidentally imply it _is_ possible to know why a person exists, and therefore that it's possible to exclude them on that basis.
-Similarly, sysmeds propagate categorizing plural systems as "traumagenic" (exists due to trauma) and "endogenic" (does not) - language which validates the idea that these are facts, not beliefs. Despite being flimsy on inspection, the usage of this language thus enables the objective "us vs. them" narrative that these sysmeds require to operate, even if those using them are not attempting to be exclusionary (in the usual "endos dni"-type fashion) at all.
+Language is key here, even among the inclusive - when [more than one's _causes_](https://morethanone.info/#causes) use the phrases "trauma plurals" and "plurals who were not originally plural", they accidentally imply that it _is_ possible to know why a person exists, and therefore that it's possible to exclude them on that basis.
+Similarly, sysmeds propagate categorizing plural systems as "traumagenic" (exists due to trauma) and "endogenic" (does not) - language which enforces the idea that these are facts, not beliefs. Despite being flimsy on inspection, the usage of this language enables the "us vs. them" narrative that these sysmeds require to operate, even if not all those using the terms are attempting to be exclusionary (in the usual "endos dni"-type fashion) at all.
 
 ### Syscourse
 

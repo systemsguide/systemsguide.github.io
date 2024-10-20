@@ -5,3 +5,8 @@ footer p:last-of-type {
 nav li ul li:first-of-type {
     display: none;
 }
+
+blockquote {
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
