@@ -6,27 +6,26 @@
 ### Switching
 
 At this point we need to narrow our focus somewhat - switching fronts is not a universal plural experience, but it has unique impacts both internally and externally that warrant discussion.
-At first, switches look (to an onlooker) and feel (to the system) rather strange and unnatural.
-The sensations are unfamiliar, be it like "waking up", like you've put on new prescription glasses, or like there's something intangible sliding into place in your head.
-These unfamiliar sensations can create unfamiliar looking reactions - daydreamy eye-glazing, sudden adjustments in posture, wincing, and so on.
+In this chapter, we'll primarily address switching systems, with some paragraphs that can be applied more generally.
 
-Of course, it's not all accidental, as many steps can be taken to help "settle" a new front - standing up and stretching, yawning or scrunching up the face, clearing the throat, and all manner of extras that might work better for specific systems, or specific system members.
-The reason these adjustments work is that different system members often unconsciously prefer to utilize the body in different ways: posture, gait, vocal tone/pitch/timbre, facial expressions, and their "resting" face.
-As a singlet, one tends to assume that these things are physically part of the body - so it can be surprising or even disconcerting to observe these varying initially.
+At first, switches can be strange and unnatural.
+The sensations are unfamiliar, be it like "waking up", a new pair of glasses, or like something intangible is sliding into place in your head.
+This can make it look strange, too - daydreamy eye-glazing, sudden adjustments in posture, wincing, and so on. 
+It's not all accidental - stretching, yawning, scrunching your nose, and clearing your throat, can all help deliberately settle in a new front.
+This works because different headmates tend to utilize the body differently: posture, gait, voice, facial expressions, or even just their "resting" face.
 
-Over time, you become accustomed to the differences between fronts, and this tends to cause some rewiring.
-As a system, this might help you settle into fronts, better recognize and allow certain habits, tastes, or urges associated with a front, or develop the skill to prompt a switch deliberately, which some systems have.
-As an observer, you'll find the way you recognize people subtly diversifies beyond more obvious clues like clothes or speech patterns.
-Faces and bodies that were "the same" before become distinct, and you might start to recognize (or at least narrow down) fronts by sight.
-Of course, this is never completely reliable, nor is it particularly polite to "guess" at a system's front unprompted - and as always, all systems vary.
+Over time, you become accustomed to the differences between fronts.
+As a system, this helps fronts settle better, be more accepting of your own differences, or help you be able to switch fronts deliberately - which some systems can do.
+As an observer, recognizing fronts gets easier, beyond obvious clues like clothing or speech patterns.
+This is never completely reliable (and it's rude to guess a front unprompted!), but it can help you understand a system a bit more. 
+Realistically, it's more practical for a system to deliberately signal a change of front.
+The obvious "hi, it's [name]" is functional, but can feel a bit objectifying.
+Instead, you could swap a name tag or accessory, change up decorations in chat messages (e.g. an emoji or signature), or ask someone to guess your front.
 
-On a more practical level, when an observer is familiar to the system ("behind the curtain" as _more than one_ puts it), it may be practical to signal a front.
-The obvious "hi, it's [name]" is functional, but quite often feels awkward, unnatural, or even objectifying.
-Instead, a system might opt to swap out a name tag or other accessory, change a decorator on their chat messages (such as an emoji or signature), or make a game of it and prompt someone to guess at their front.
-
-So far, "front" and "system member" have been used relatively interchangeably, but it's worth understanding that in a system that does switch, fronts may provide a more intuitive model of their composition, rather than a permanent roster of members.
-A front may not be purely the presence of a permanent resident, but rather a combination of aspects of the overall system.
-This model is by no means universal - rather one example of the many ways a plural system might conceptualize themselves - but is a decent basis to understand how a system might end up with a front "between" two fronts (rather than a _cofront_, where it feels like two members are present), a front expressed as "no front" (often a big blurry feeling, between all fronts), or a front that feels like a "variant" of a regular front, with slight but distinct differences.
+In systems that switch, the word "front" can also provide a more intuitive model for system composition, rather than a permanent roster of "system members".
+In just one example of a way a system might conceptualize themselves - a front may not be purely the presence of a permanent resident, but rather a combination of aspects of the overall system.
+Through a changing self-conceptualization, systems are able to adjust to understand new experiences. 
+Co-fronts, fronts "between" other fronts, a "nothing" or "blurry" feeling front, or a "variant" on a usual front are all experiences that can challenge our model of systemhood. Don't be afraid to adapt if something new feels right.
 
 ### Discovery
 
@@ -46,7 +45,7 @@ Without a way to directly communicate, these opinions form the bases of non-spea
 Without a word to one another, system members can still do things they know their other headmates struggle with, speak to friends about how they feel about eachother, make little comments right after getting into the front, and in many cases, bubble up their feelings and thoughts without being in the front - like your ears burning when someone says your name.
 It's often quite unlike a relationship between two bodies, but as you've likely realised, it simply does not need to be.
 
-Past that initial invitation behind the curtain, being plural continues to colour our external relationships. 
+Past that initial invitation behind the curtain, being plural continues to colour our external relationships.
 Developing bonds always sit somewhere between the individual headmate you spent time with, and the system as a whole.
 Over time, friends can come to understand the workings of a system, and recognize some or all of its inhabitants fondly.
 Through this process, friends outside the system may be able to provide better support - helping shift unhappy fronts, perceiving subtle differences, and even helping mediate conflict or feelings between members of a system.
