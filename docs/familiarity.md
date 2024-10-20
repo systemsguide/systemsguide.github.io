@@ -22,9 +22,9 @@ On a more practical level, when an observer is familiar to the system ("behind t
 The obvious "hi, it's [name]" is functional, but quite often feels awkward, unnatural, or even objectifying. 
 Instead, a system might opt to swap out a name tag or other accessory, change a decorator on their chat messages (such as an emoji or signature), or make a game of it and prompt someone to guess at their front.
 
-So far, "front" and "system member" have been used relatively interchangably, but it's worth understanding that in a system that does switch, fronts may provide a more intuitive model of their composition, rather than a permanent roster of members.
+So far, "front" and "system member" have been used relatively interchangeably, but it's worth understanding that in a system that does switch, fronts may provide a more intuitive model of their composition, rather than a permanent roster of members.
 A front may not be purely the presence of a permanent resident, but rather a combination of aspects of the overall system. 
-This model is by no means universal - rather one example of the many ways a plural system might conceptualize themselves - but is a decent basis to understand how a system might end up with a front "between" two fronts (rather than a _cofront_, where it feels like two members are present), a front expressed as "no front", often a big blurry feeling smearing over all known fronts, or a front that feels like a "variant" of a regular fronter, with slight but distinct differences.
+This model is by no means universal - rather one example of the many ways a plural system might conceptualize themselves - but is a decent basis to understand how a system might end up with a front "between" two fronts (rather than a _cofront_, where it feels like two members are present), a front expressed as "no front" (often a big blurry feeling, between all fronts), or a front that feels like a "variant" of a regular front, with slight but distinct differences.
 
 ### Discovery
 
