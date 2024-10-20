@@ -31,10 +31,10 @@ This model is by no means universal - rather one example of the many ways a plur
 New fronts and newly discovered systemhood present their own unique and at times challenging experiences. 
 
 - Sensations associated with new fronts and repressed systemhood, experiences of early fronting
-- Connecting the old with the new, consensually
+- Connecting the old with the new, reassociating and re-meeting new headmates
 
 ### Relationships
 
 - Diversity in intrasystem communication - headspace, notes, chat
 - Intrasystem relationships - backchatter, cofronting, opinions, mediation
-- Behind-curtain relations with system members - rapport smearing, engaging with metaphysicality
+- Behind-curtain relations with systems and system members - providing support, engaging with metaphysicality
