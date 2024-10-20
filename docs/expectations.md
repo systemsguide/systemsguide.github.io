@@ -17,7 +17,7 @@ A newly self-discovered system might keep their old name to refer to the system,
 
 ### Gender
 
-Like genderqueers necessitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body. While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might (say) use unique pronouns, and hold a different conception of their transness - a trans person discovering their systemhood may have system members aligned to their _old_ gender; so are they cis, trans twice, or just trans once? that's for them to conceptualise.
+Like genderqueers necessitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body. While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might use unique pronouns, and hold a different conception of their transness: a trans person discovering their systemhood may have system members aligned to their _old_ gender; so are they cis, trans twice, or just trans once? that's for them to conceptualise.
 
 ### Sexuality
 
@@ -45,7 +45,7 @@ As pluralfolk, we model the language used to describe our internal experiences o
 This language is not meant to be meaningless to an outsider, but it can't be taken at face value - as its meaning is being inscribed by the system conveying it.
 
 A _Minotaur headmate_ is not _The Bull of Minos_, but might resemble them.
-A "sexual relationship" between headmates can sound quite serious - but in sharing a body with a libido, many see this as largely unimpactful and obviously implied!
-System members with the names of fictional characters could be widely invested in displaying the attitudes and mannerisms of that character, or they just might like the look!
-System members that call eachother _siblings_ might refer to a resemblance, bond, or rivalry - but could be using _sibling_ to mean _headmate_.
+A "sexual relationship" between headmates can sound quite serious - but in sharing a body with a libido, many see this as largely unimpactful and obviously implied.
+System members with the names of fictional characters could be widely invested in displaying their attitudes and mannerisms, or they just might like the look!
+System members that call eachother _siblings_ might refer to a resemblance, bond, or rivalry - but could easily be using _sibling_ to mean _headmate_.
 System members that are described as instinctive animals, or as unintelligent, old, naive, or young would all appear to present striking, complicating, sometimes dangerous issues in the outside world - but as with the above, this language refers to nuanced experiences that only the individual system themselves can convey the ins and outs of. It's only through this per-system interpretation of the language we use that others can gain a genuine understanding of our experiences.
