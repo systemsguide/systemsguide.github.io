@@ -1,10 +1,10 @@
-# Plural Respect
+## Foreword
 
 > Welcome to Plural Respect! <br/>
 > This is a crash course in plurality for systems and singlets alike.<br/>
 > It builds off the groundwork and terminology of [morethanone.info](https://morethanone.info/) - read that first.
 
-### Foreword
+### Purpose
 
 **Plural Respect** is a primer-style resource intended to impart additional nuance to an existing understanding of plurality.
 
