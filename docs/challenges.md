@@ -19,7 +19,7 @@ Whenever a system _un-represses_ (or "gains") a new headmate, they're challenged
 Faced with normative pressure, "a System of 2/3/4" feels more believable and acceptable than starting with "a System of 40" and suddenly feeling obligated to explain where exactly those lines blur in an attempt to seem "more normal" and avoid rejection.
 It's not just numbers either - whenever a plural experience doesn't line up with the simplest, most widely propagated analogies, it instills this fear.
 
-Through this rejection of plural diversity, restrictive definitions of plurality emerge harm systems of all kinds.
+Through this rejection of plural diversity, restrictive definitions of plurality emerge that harm systems of all kinds.
 Singlets with these limited understandings can easily leave one system feeling objectified (treated as "fun costumes"), and another unable to express their systemhood (treated as purely individuals).
 And of course, without a widely propagated diverse definition, questioning systems are left wondering if they can call themselves plural at all.
 
