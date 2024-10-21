@@ -8,7 +8,7 @@
 With more than one's _myths_ already covering the ways sysphobia is rooted in misunderstandings of plurality, this chapter shifts to focus on how the definition of "normal" held by systems and onlookers creates internal conflicts, hate, and exclusion.
 
 _Singlet-normativity_ presents a basic but pervasive challenge.
-Because wider society sees singlethood as a compulsory default, every deviation from that experience creates a threat of ostacization.
+Because wider society sees singlethood as a compulsory default, every deviation from that experience can lead to social rejection.
 Through singlet-normativity, elimination of systemhood through medical intervention is seen as essential.
 Through singlet-normativity, plural experience is unacceptably complex, such that it must be delusioned or fabricated in some way.
 Through singlet-normativity, the needs or desires of any system member can be dismissed as an obstacle.
