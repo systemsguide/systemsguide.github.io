@@ -13,7 +13,7 @@ These *system configurations* are diverse, and represent a variety of lived expe
 ### Names
 
 As pluralfolk, we always lay *between* the extremes of our bodies containing one person, and of being a multiple-bodied group of people.
-A system might have names for each of their members, an overall system name but no member names, a system name *and* member names, many names per member, two headmates that share a name, patterned names that reflect how the system works, and much more!
+A system might have names for each of their members, an overall system name but no member names, a system name *and* member names, many names per member, two headmates that share a name, a few members without names, patterned names that reflect how the system works, and much more!
 A newly self-discovered system might keep their old name to refer to the system, to refer to a specific headmate, or to refer to any arbitrary headmate in a kind of "hey, you!" fashion - it's all up to them.
 
 ### Gender
