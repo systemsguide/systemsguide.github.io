@@ -13,7 +13,7 @@ These *system configurations* are diverse, and represent a variety of lived expe
 ### Names
 
 As pluralfolk, we always lay *between* the extremes of our bodies containing one person, and of being a multiple-bodied group of people.
-System members might have a name each, a name for the whole system, both at the same time, many names each - they might share *a* name between two headmates where the lines blur.
+System members might have a name each, a name for the whole system, both at the same time, many names each - they might share *a* name between two headmates where the lines blur, or have one headmate in the bunch with no name at all.
 A name could be a composite - representing the parts working in tandem to speak or act, or have layers of complexity below the surface.
 A newly self-discovered system might keep their old name to refer to the system, to refer to a specific headmate, or to refer to any arbitrary headmate in a kind of "hey, you!" fashion - it's all up to them.
 
@@ -22,13 +22,12 @@ A newly self-discovered system might keep their old name to refer to the system,
 Like genderqueers necessitate understanding gender as distinct from sex, pluralfolk necessitate understanding gender as distinct from the body.
 While both have their exceptions, different parts of a system can vary in that "gut feeling" of gender, and so might use unique pronouns, and hold a different conception of their transness: a trans person discovering their systemhood may have system members aligned to their _old_ gender; so are they cis, trans twice, or just trans once? that's for them to conceptualise.
 
-### Sexuality
+### Relationships
 
 A notable variance in _system configuration_ is in what bleeds over (or stays constant) between headmates.
 The answer always lies between the extremes, but where exactly varies - memory might be totally contiguous, or almost completely individualised.
-Headmates may share beliefs, but differ in opinions - share interests, but differ in tastes.
-Sexuality falls under this concept - a varying taste in other people throughout the system, minorly or majorly.
-With this in mind, systems may feel that relationships to others exist across all headmates, individualised to each headmate, or somewhere in between - rapport accrued by one headmate always "smearing" across others to some extent.
+Headmates may share beliefs, but differ in opinions - share interests, but differ in tastes - share gender, but differ in sexuality!
+With this in mind, systems may feel that relationships to others exist mostly across all headmates, individualised to each headmate, or somewhere in between - rapport accrued by one headmate always "smearing" across others to some extent.
 
 ### Appearance
 
