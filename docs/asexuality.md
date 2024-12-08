@@ -6,7 +6,7 @@ So question - how do you have sex with a plural system? or, a member of a plural
 
 You were listening before - that sounds completely loaded, right? it'll be some vaguery like "it's different for every system and headmate" and go nowhere. And like, yes, but I also think as a resource we have a responsibility to make sure that a system's sexual preferences aren't held back by a limited imagination over their options - so, let's dance.
 
-We're sex-having asexuals, which means that we hate all the sex acts people think of as fun and like all the sex acts people think of as boring or childish. I think this gave us an unfair advantage figuring out how to have sex as a system because there was far less "I can't suggest what I want, nobody will understand the appeal!" in the system to begin with.
+We're sex-having asexuals, which means that we hate all the sex acts people think of as fun and like all the sex acts people think of as boring or childish. I think this gave us an unfair advantage unashamedly figuring some of these things out, so we'll try to share.
 
 Remember how we said that even headmates that can't talk at all, or leave notes, or use text chats, can still develop relationships? I think understanding that there's an underlying process that works even when almost everything is taken away is equally helpful for sex, too.
 
