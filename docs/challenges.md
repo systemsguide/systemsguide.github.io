@@ -28,7 +28,7 @@ However, this struggle is not purely internal - many systems turn that fear of a
 
 ### Sysmedicalism
 
-_Sysmedicalists_ are those that ostracize systems based on a lack of diagnoses, adherence to medical models, and associated qualia. They exclude systems from communities and support, and insist they do not fit under the plural umbrella.
+_Sysmedicalists_ are those that ostracize systems for not adhering to medical models of plurality, lacking an associated diagnosis, or lacking specific related qualia. They exclude systems from communities and support, and insist they do not fit under the plural umbrella.
 Recommendations for diagnosis of and the impacts of DID are changing slowly, and practice even slower - diagnosis criteria excludes many system configurations and systems not in distress, improper and abusive treatment for DID is still widespread, and a DID diagnosis is still a common blocker for voluntary medical procedures and asylum discharges.
 As a result, sysmedicalism pushes out and shames a large portion of systems by insisting that plurality is objectively observable, and that only medical criteria and professionals can guide that observation.
 
