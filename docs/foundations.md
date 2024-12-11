@@ -25,7 +25,5 @@ Knowing exactly what those experiences are is less important than allowing indiv
 This means someone with experiences others understand as plural might still choose a singlet model, and even those using a plural model may decide to keep it purely to themselves. 
 To this end, the intent of plural advocacy is not to have more people be openly plural, but to offer more options with which to understand ourselves and eachother.
 
-### Respect
-
 Plurality is an umbrella that provides support and community for those with specific, undeniably human experiences - whether they're personally understood as medical, spiritual, cultural, or psychological.
-Plurality is also a movement: advocating for plural systems' right to exist, be recognized and understood, and have the same autonomy, privacy, and participation in life as any singlet does - just like many other rights movements before us.
+It's also a movement: advocating for plural systems' right to exist, be recognized and understood, and have the same autonomy, privacy, and participation in life as any singlet does - just like many other rights movements before us.
