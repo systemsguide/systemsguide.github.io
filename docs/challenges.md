@@ -43,6 +43,7 @@ Taken this way, all of our previous nuanced examples can easily be made objectio
 The Minotaur is cultural appropriation, intrasystem relationships are cheating, familial terms are disrespectful to "real family", _Fictives_ are copyright infringement and stealing, and the cultural and moral expectations of family members, children, and animals in the outside world can be placed strictly on headmates that resemble them - inviting exclusion based on singlet definitions of irresponsible caretaking, immaturity, and inhumanness - along with the occasional accusation of incest, rape, and bestiality.
 
 Seeing past this moral panic requires a certain nuance towards experiences, identities, and activities that outwardly resemble outside-world bad behaviour but have little capability to do actual harm.
-This challenges many people, and is the subject of more mainstream online debates such as those around depictions of conventionally-unhealthy relationships in fan works (*proshipping discourse*) and those around reinterpretations of (usually, young) characters for pornographic fan art (*aging-up discourse*). 
-Systems (naturally) tend to have less control over their identity than an artist does over their work, but through outward similarities these debates can affect systems personally.
-Generally, engaging with the stranger and more complex details of a system requires a level of trust, and systems are forced to carefully navigate this around others to avoid unnecessary conflict. 
+This the also subject of similar-sounding online debates around depictions of conventionally-unhealthy relationships in fan works (*proshipping discourse*) and those around reinterpretations of (usually, young) characters for pornographic fan art (*aging-up discourse*). 
+Through similarities to their own identity, a system can be personally affected by these debates - or even made into a target themselves if they resemble a relevant fictional character.
+
+Engaging with the stranger, more complex details of a system requires a level of trust - and many systems are forced to carefully navigate this trust in order to avoid unnecessary conflict. 
