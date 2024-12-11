@@ -10,9 +10,9 @@ These **plural systems** identify multiple "selves" within their body - each wit
 
 ### Terminology
 
-- **Headmates** - the individuals that comprise a plural system (aka its *members*) - used similarly to "roommates". May or may not be able to communicate with one another.
-- **Fronting** - A system member possessing control of the body they're in (i.e. being "in the front" of the body; at the wheel.)
-- **Switching** - Headmates exchanging control of the body (i.e "switching in" to the front and "switching out" to the back). Some plural systems do not experience this phenomenon, and instead have a permanent front.
+- **Headmates** - The individuals that comprise a plural system (aka its *members*) - used similarly to "roommates". May or may not be able to directly communicate with one another.
+- **Fronting** - A system member having control of the body they're in (i.e. being "in the front" of the body; at the wheel). Usually not black-and-white, with partial and shared fronting common.
+- **Switching** - Headmates exchanging control of the body (i.e "switching in" to the front and "switching out" to the back). Not universal, but a common experience.
 
 ### Relevance
 
