@@ -5,7 +5,7 @@
 
 ### Normativity
 
-With more than one's _myths_ already covering the ways sysphobia is rooted in misunderstandings of plurality, this chapter shifts to focus on how the definition of "normal" held by systems and onlookers creates internal conflicts, hate, and exclusion.
+Having already discussed the ways sysphobia is rooted in misunderstandings of plurality, this chapter shifts to focus on how the definition of "normal" held by systems and onlookers creates internal conflicts, hate, and exclusion.
 
 _Singlet-normativity_ presents a basic but pervasive challenge.
 Because wider society sees singlethood as a compulsory default, every deviation from that experience can lead to social rejection.
@@ -28,22 +28,32 @@ However, this struggle is not purely internal - many systems turn that fear of a
 
 ### Sysmedicalism
 
-_Sysmedicalists_ are those that ostracize systems for not adhering to medical models of plurality, lacking an associated diagnosis, or lacking specific related qualia. They exclude systems from communities and support, and insist they do not fit under the plural umbrella.
-Recommendations for diagnosis of and the impacts of DID are changing slowly, and practice even slower - diagnosis criteria excludes many system configurations and systems not in distress, improper and abusive treatment for DID is still widespread, and a DID diagnosis is still a common blocker for voluntary medical procedures and asylum discharges.
-As a result, sysmedicalism pushes out and shames a large portion of systems by insisting that plurality is objectively observable, and that only medical criteria and professionals can guide that observation.
+_Sysmedicalists_ are those that ostracize systems for lacking an associated diagnosis such as DID, or otherwise adhering poorly to medical models of plurality.
+Through these criteria, systems are excluded communities and support, and experience targeted sysphobia (e.g. accusations of "faking" systemhood) from what should be their peers. 
+Setting aside the clear harm this does, there are several key problems with the way sysmedicalism selects acceptable plural systems.
 
-Owing to the medical classification of DID as a "trauma disorder", predominant online sysmedicalism focuses on whether a system exists "through trauma" (deemed acceptable), or through some other mechanism (deemed fake, or unacceptable).
-The trouble with making this differentiation is that it's not falsifiable - there's no way to validate that you possess an objective and correct understanding of the reason a system exists as it does, even in yourself. As a result, this form of sysmedicalism segregates systems into the diagnosed and the overconfident as the in-group, and everyone else as the out-group.
-The distinction of whether plurality (and therefore causality) is able to be objectively observed and concluded upon by a system or onlooker is fundamental to this avenue for exclusion.
-That means language is key, even among the inclusive - when [more than one's _causes_](https://morethanone.info/#causes) use the phrases "trauma plurals" and "plurals who were not originally plural", they accidentally enforce this idea of objective observation.
-When sysmeds promote usage of the words "traumagenic" and "endogenic" (the in- and out-groups) to categorize all plural systems, this is an attempt to deliberately enforce these as observable facts, not beliefs. 
-Critically, this means that bystanders often unknowingly validate and enforce sysmedicalist exclusion by using their language - even if it's used not in an exclusive ("endos dni") fashion.
+The first issue lays with plural-associated medical diagnoses.
+Diagnostic criteria for DID and OSDD are strictly defined, and exclude the experiences of many systems - especially those not actively distressed by their plurality.
+Even where it's possible, a mix of limited recommendations and poor practice means a diagnosis can invite medical discrimination or even genuine danger to a system.
+This can range from pressure to be "fixed" by psychologists, to difficulty being cleared for voluntary medical procedures, or even trouble being discharged from a ward.
+For these reasons, sysmedicalism selects for a privileged few who suit certain diagnostic criteria, are unlikely to be put in danger by a diagnosis, have the means to get a diagnosis, and who then _choose_ to get one.
+Not only is this narrow, but it places pressure on fellow systems to put themselves in danger for the privilege of being accepted.
+
+The second issue lays with language, causality, and the concept of objective observation.
+Sysmedicalists fundamentally believe that they and others are capable of objectively observing plural systems (including their own), and that medical criteria can then guide their observation to validate whether a system is acceptable.
+This means that even when the intent is inclusive, the use of objective language to describe plural systems validates this base assumption and enables sysmedicalist exclusion.
+This is widely weaponized online, where (owing to the medical classification of DID as a "trauma disorder") sysmedicalists focus on whether a system exists "through trauma" (or "traumagenic", deemed acceptable), or through some other mechanism (or "endogenic", deemed unacceptable).
+This is naturally not falsifiable - there's no way to validate that you possess an objective and correct understanding of the reason a system exists as it does, even in yourself.
+However, by propagating the two key terms as a natural, objective categorization of systems, sysmedicalists are able to twist online discourse towards whether "endogenic" systems are acceptable, rather than whether these classifications have any right to exist at all.
+
 
 ### Syscourse
 
 On a finer level, all kinds of systems are ostracized for having specific experiences - with a majority of systems and purported allies having a "weird" or "problematic" line above which a system being visible in public becomes unacceptable.
 Most of this discourse boils down to applying a generic singlet-like understanding of plural internal experiences and the language used to describe them.
+
 Taken this way, all of our previous nuanced examples can easily be made objectionable.
 The Minotaur is cultural appropriation, intrasystem relationships are cheating, familial terms are disrespectful to "real family", _Fictives_ are copyright infringement and stealing, and the cultural and moral expectations of family members, children, and animals in the outside world can be placed strictly on headmates that resemble them - inviting exclusion based on singlet definitions of irresponsible caretaking, immaturity, and inhumanness - along with the occasional accusation of incest, rape, and bestiality.
+
 In many ways this resembles _proship discourse_, wherein the same accusations are placed on fanfiction.
 Naturally, if someone can't accept the reinterpretation of usually-wrong actions and relationships in fiction, they're quite unlikely to accept those reinterpretations within the nuanced individually-defined language of plural experience.

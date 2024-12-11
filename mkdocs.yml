@@ -5,6 +5,7 @@ site_description: A crash course in plurality for systems and singlets alike.
 
 nav:
   - Foreword: index.md
+  - Establishing Foundations: foundations.md
   - Shattering Expectations: expectations.md
   - Facing Challenges: challenges.md
   - Gaining Familiarity: familiarity.md
@@ -18,6 +19,6 @@ extra_css:
     - css/theme-adjustments.css
 
 extra:
-  version: 2.0.0
+  version: 2.1.0
   logo: img/custom-journey-flag.png
   article_nav_top: false

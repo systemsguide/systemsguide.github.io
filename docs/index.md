@@ -1,14 +1,12 @@
 ## Foreword
 
-> Welcome to Plural Respect! <br/>
-> This is a crash course in plurality for systems and singlets alike.<br/>
-> It builds off the groundwork and terminology of [morethanone.info](https://morethanone.info/) - read that first.
+> Welcome to **Plural Respect**, a crash course in plurality for systems and singlets alike!<br/>
+> Here's a short overview of the contents of the site.
 
 ### Purpose
 
-**Plural Respect** is a primer-style resource intended to impart additional nuance to an existing understanding of plurality.
-
-While _More Than One_ is sufficient for talking to systems or realizing you're plural, _Plural Respect_ attempts to instill an intuition for plural experience sufficient to befriend the system you know - or the one inside.
+**Plural Respect** is a multi-layered overview of plurality intended to provide a ground-up intuition for the nuances of plural experience.
+Through this intuition, it aims to provide not just a passing understanding, but a familiarity with plurality sufficient to befriend a system you know - or the one inside.
 
 What this *isn't* is academia - every thought in these pages was acquired through observational understanding and lived experience, not by reviewing existing literature.
 This is a firsthand account, so reference it that way if used.
