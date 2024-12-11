@@ -27,5 +27,5 @@ To this end, the intent of plural advocacy is not to have more people be openly 
 
 ### Respect
 
-Plurality is an umbrella term intended to provide support and community for those with specific, undeniably human experiences - whether they're personally understood as medical, spiritual, cultural, or psychological.
+Plurality is an umbrella that provides support and community for those with specific, undeniably human experiences - whether they're personally understood as medical, spiritual, cultural, or psychological.
 Plurality is also a movement: advocating for plural systems' right to exist, be recognized and understood, and have the same autonomy, privacy, and participation in life as any singlet does - just like many other rights movements before us.
