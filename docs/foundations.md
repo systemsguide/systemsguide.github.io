@@ -20,7 +20,7 @@ As with non-conventional differences in gender or sexuality (or anything else pe
 While diagnoses like DID (previously Multiple Personality Disorder) can inspire dismissal of plurality as an disordered delusion that just needs "fixing", plural systems without a diagnosis (or those with plural experiences not classified under DID) can equally have their experiences dismissed as baseless attention-seeking.
 
 As such, it's productive to understand that plurality is a new term, but one that seeks to describe widespread, pre-existing phenomena.
-Those that choose to use a plural identity model do so because it's the most comfortable way (or, indeed, the only way) to describe their life experiences.
+Those that choose to use a plural identity model do so because it's the best way (or, indeed, the only way) to describe their life experiences.
 What exactly those experiences are take a back seat to the system's own decision that this model helps make sense of themselves.
 Of course, those with experiences that some understand as plural may instead feel comfortable under a singlet model, and many utilizing a plural model do so purely on a personal level, with no desire to share that understanding socially - the goal of plurality as a movement is not to push others to utilze a plural identity model, but to help people be understood, and to help people understand themselves.
 
