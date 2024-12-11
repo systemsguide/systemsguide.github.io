@@ -5,21 +5,17 @@
 
 ### Normativity
 
-Having already discussed the ways sysphobia is rooted in misunderstandings of plurality, this chapter shifts to focus on how the definition of "normal" held by systems and onlookers creates internal conflicts, hate, and exclusion.
+Outside of basic non-acceptance or misunderstandings of the nature of plurality, the most widespread root of sysphobia is _singlet-normativity_ - the idea that singlethood is a privileged default expected of everyone.
+Because wider society is not exposed to plurality, deviations from expectations associated with a singlet identity model can lead to rejection, distress, and danger.
 
-_Singlet-normativity_ presents a basic but pervasive challenge.
-Because wider society sees singlethood as a compulsory default, every deviation from that experience can lead to social rejection.
-Through singlet-normativity, elimination of systemhood through medical intervention is seen as essential.
-Through singlet-normativity, plural experience is unacceptably complex, such that it must be delusioned or fabricated in some way.
-Through singlet-normativity, the needs or desires of any system member can be dismissed as an obstacle.
-Through singlet-normativity, it becomes acceptable to demand the details of a system's composition or current front, as the "confusing" or "dangerous" complexity entitles others to know.
+Though a lens where singlethood is the only "normal", plurality is unacceptably complex and must be a fabricated delusion, the privacy of a system is irrelevant compared to keeping others aware of the abnormality, and the needs and desires of a system can be dismissed in pursuit of restoring that normalcy through medical intervention.
 
-This creates a pressure to be "normal enough" that spreads far beyond accepting the existence of your own or another's systemhood.
+This creates a pressure to be "normal enough" that affects systems far beyond the point of self-acceptance.
 Whenever a system _un-represses_ (or "gains") a new headmate, they're challenged with the question - how many headmates can a system have without becoming unacceptable?
-Faced with normative pressure, "a System of 2/3/4" feels more believable and acceptable than starting with "a System of 40" and suddenly feeling obligated to explain where exactly those lines blur in an attempt to seem "more normal" and avoid rejection.
+Faced with normative pressure, "a System of 2/3/4" feels more believable and acceptable than "a System of 40" - even when both systems comfortably understand themselves.
 It's not just numbers either - whenever a plural experience doesn't line up with the simplest, most widely propagated analogies, it instills this fear.
 
-Through this rejection of plural diversity, restrictive definitions of plurality emerge that harm systems of all kinds.
+Through this rejection of plural diversity, restrictive definitions of plurality emerge.
 Singlets with these limited understandings can easily leave one system feeling objectified (treated as "fun costumes"), and another unable to express their systemhood (treated as purely individuals).
 And of course, without a widely propagated diverse definition, questioning systems are left wondering if they can call themselves plural at all.
 
