@@ -17,7 +17,7 @@ These **plural systems** identify multiple "selves" within their body - each wit
 ### Relevance
 
 As with non-conventional differences in gender or sexuality (or anything else perceived as "in the brain"), plurality is largely met with skepticism.
-Where diagnoses like DID (previously Multiple Personality Disorder) invite dismissing plurality as an invalid delusion that needs to be "fixed", plural systems without a diagnosis (or plural experiences not classified under DID) are equally dismissed as unprincipled attention-seeking.
+While diagnoses like DID (previously Multiple Personality Disorder) can inspire dismissal of plurality as an disordered delusion that just needs "fixing", plural systems without a diagnosis (or plural experiences not classified under DID) can equally be dismissed as unprincipled attention-seeking.
 
 As such, it's productive to understand that plurality is a new term, but one that seeks to describe pre-existing phenomena.
 Those that choose to use a plural identity model do so because it's the most comfortable way to describe their personal experiences - in many cases, it's the only way they can explain them at all.
