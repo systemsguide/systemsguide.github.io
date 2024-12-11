@@ -28,24 +28,16 @@ However, this struggle is not purely internal - many systems turn that fear of a
 
 ### Sysmedicalism
 
-_Sysmedicalists_ are those that ostracize systems for lacking an associated diagnosis such as DID, or otherwise adhering poorly to medical models of plurality.
-Through these criteria, systems are excluded communities and support, and experience targeted sysphobia (e.g. accusations of "faking" systemhood) from what should be their peers. 
-Setting aside the clear harm this does, there are several key problems with the way sysmedicalism selects acceptable plural systems.
+_Sysmedicalists_ are those that ostracize systems for lacking a medical diagnosis, or otherwise adhering poorly to medical models of plurality.
+Through these criteria, systems are excluded communities and support, and experience targeted sysphobia (e.g. accusations of "faking" systemhood) from what should be their peers.
 
-The first issue lays with plural-associated medical diagnoses.
-Diagnostic criteria for DID and OSDD are strictly defined, and exclude the experiences of many systems - especially those not actively distressed by their plurality.
-Even where it's possible, a mix of limited recommendations and poor practice means a diagnosis can invite medical discrimination or even genuine danger to a system.
-This can range from pressure to be "fixed" by psychologists, to difficulty being cleared for voluntary medical procedures, or even trouble being discharged from a ward.
-For these reasons, sysmedicalism selects for a privileged few who suit certain diagnostic criteria, are unlikely to be put in danger by a diagnosis, have the means to get a diagnosis, and who then _choose_ to get one.
-Not only is this narrow, but it places pressure on fellow systems to put themselves in danger for the privilege of being accepted.
+This targets a substantial population - DID and OSDD diagnoses exclude many systems by focusing primarily on individual traumatic history and self-reported criteria like personal distress.
+Additionally, this places pressure on systems who fit these criteria to _get_ a diagnosis, whereupon a mix of limited recommendations and poor practice means they invite medical discrimination (including a pressure to get "fixed") or even genuine danger to themselves in the form of rejected voluntary medical procedures or psych ward discharges.
 
-The second issue lays with language, causality, and the concept of objective observation.
-Sysmedicalists fundamentally believe that they and others are capable of objectively observing plural systems (including their own), and that medical criteria can then guide their observation to validate whether a system is acceptable.
-This means that even when the intent is inclusive, the use of objective language to describe plural systems validates this base assumption and enables sysmedicalist exclusion.
-This is widely weaponized online, where (owing to the medical classification of DID as a "trauma disorder") sysmedicalists focus on whether a system exists "through trauma" (or "traumagenic", deemed acceptable), or through some other mechanism (or "endogenic", deemed unacceptable).
-This is naturally not falsifiable - there's no way to validate that you possess an objective and correct understanding of the reason a system exists as it does, even in yourself.
-However, by propagating the two key terms as a natural, objective categorization of systems, sysmedicalists are able to twist online discourse towards whether "endogenic" systems are acceptable, rather than whether these classifications have any right to exist at all.
-
+Sysmedicalist beliefs and language are widely propagated online, especially exclusion focusing on whether a system exists "through trauma" ("traumagenic", which is deemed acceptable), or through some other mechanism ("endogenic", which is deemed unacceptable).
+This is naturally not falsifiable - there's no way to validate that you possess an objective and correct understanding of the reason a system exists as it does, even in yourself (this is why we instead discuss causality as a personal belief, just like it's seen for singlets).
+However, by propagating the two key terms as a natural, objective categorization of systems, sysmedicalists frequently twist online discourse towards whether "endogenic" systems are acceptable, rather than whether these classifications have any right to exist at all.
+Thankfully, this is invalidated by simply refusing to use this false-assumption-riddled language at all.
 
 ### Syscourse
 
