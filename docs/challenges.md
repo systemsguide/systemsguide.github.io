@@ -25,7 +25,7 @@ However, this struggle is not purely internal - many systems turn that fear of a
 ### Sysmedicalism
 
 _Sysmedicalists_ are those that ostracize systems for lacking a medical diagnosis, or otherwise adhering poorly to medical models of plurality.
-Through these criteria, systems are excluded communities and support, and experience targeted sysphobia (e.g. accusations of "faking" systemhood) from what should be their peers.
+Through these criteria, systems are excluded from communities and support, and experience targeted sysphobia (e.g. accusations of "faking" systemhood) from what should be their peers.
 
 This targets a substantial population - DID and OSDD diagnoses exclude many systems by focusing primarily on individual traumatic history and self-reported criteria like personal distress.
 Additionally, this places pressure on systems who fit these criteria to _get_ a diagnosis, whereupon a mix of limited recommendations and poor practice means they invite medical discrimination (including a pressure to get "fixed") or even genuine danger to themselves in the form of rejected voluntary medical procedures or psych ward discharges.
