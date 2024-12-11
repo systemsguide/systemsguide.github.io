@@ -42,7 +42,7 @@ Most of this discourse relies on applying a generic, singlet-like interpretation
 Taken this way, all of our previous nuanced examples can easily be made objectionable.
 The Minotaur is cultural appropriation, intrasystem relationships are cheating, familial terms are disrespectful to "real family", _Fictives_ are copyright infringement and stealing, and the cultural and moral expectations of family members, children, and animals in the outside world can be placed strictly on headmates that resemble them - inviting exclusion based on singlet definitions of irresponsible caretaking, immaturity, and inhumanness - along with the occasional accusation of incest, rape, and bestiality.
 
-Seeing past this moral panic requires a certain nuance towards experiences, identities, and activities that outwardly resemble outside-world bad behaviour but have little capability to do actual harm.
+Seeing past this moral panic requires a certain nuance towards experiences, identities, and activities that outwardly resemble outside-world bad behaviour but have little capacity to do actual harm.
 This is also the subject of similar-sounding online debates around depictions of conventionally-unhealthy relationships in fan works (*proshipping discourse*) and those around reinterpretations of (usually, young) characters for pornographic fan art (*aging-up discourse*). 
 Through similarities to their own identity, a system can be personally affected by these debates - or even made into a target themselves if they resemble a relevant fictional character.
 
