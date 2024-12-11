@@ -35,9 +35,8 @@ This targets a substantial population - DID and OSDD diagnoses exclude many syst
 Additionally, this places pressure on systems who fit these criteria to _get_ a diagnosis, whereupon a mix of limited recommendations and poor practice means they invite medical discrimination (including a pressure to get "fixed") or even genuine danger to themselves in the form of rejected voluntary medical procedures or psych ward discharges.
 
 Sysmedicalist beliefs and language are widely propagated online, especially exclusion focusing on whether a system exists "through trauma" ("traumagenic", which is deemed acceptable), or through some other mechanism ("endogenic", which is deemed unacceptable).
-This is naturally not falsifiable - there's no way to validate that you possess an objective and correct understanding of the reason a system exists as it does, even in yourself (this is why we instead discuss causality as a personal belief, just like it's seen for singlets).
-However, by propagating the two key terms as a natural, objective categorization of systems, sysmedicalists frequently twist online discourse towards whether "endogenic" systems are acceptable, rather than whether these classifications have any right to exist at all.
-Thankfully, this is invalidated by simply refusing to use this false-assumption-riddled language at all.
+This is naturally not falsifiable - there's no way to validate that you possess an objective and correct understanding of the reason a system exists as it does, even in yourself.
+However, by propagating the two key terms as an objective categorization of all systems, online discourse is twisted towards whether "endogenic" systems are acceptable - rather than whether these classifications are appropriate to use, or even possible to define.
 
 ### Syscourse
 
