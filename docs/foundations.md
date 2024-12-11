@@ -23,7 +23,7 @@ As such, it's productive to understand that plurality is a new term, but one tha
 Those that choose to use a plural identity model do so because it's the best way (or, indeed, the only way) to describe their life experiences.
 What those experiences are is less important than allowing individuals to choose the model that works for them.
 This means someone with experiences others understand as plural might still choose a singlet model, and even those using a plural model may decide to keep it purely to themselves. 
-To this end, the intent of plural advocacy is not to have more people be plural, but to offer up options with which to understand ourselves and eachother.
+To this end, the intent of plural advocacy is not to have more people be plural, but to offer more options with which to understand ourselves and eachother.
 
 ### Respect
 
