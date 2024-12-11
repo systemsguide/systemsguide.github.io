@@ -44,5 +44,5 @@ The Minotaur is cultural appropriation, intrasystem relationships are cheating, 
 
 Seeing past this moral panic requires a certain nuance towards experiences, identities, and activities that outwardly resemble outside-world bad behaviour but have little capability to do actual harm.
 This challenges many people, and is the subject of more mainstream online debates such as those around depictions of conventionally-unhealthy relationships in fan works (*proshipping discourse*) and those around reinterpretations of (usually, young) characters for pornographic fan art (*aging-up discourse*). 
-Systems (naturally) tend to have less control over their identity than an artist does over their work - but they share a thread with these debates through the often-cited desire to express a complex personal experience to others.
+Systems (naturally) tend to have less control over their identity than an artist does over their work, but through outward similarities these debates can affect systems personally.
 Generally, engaging with the stranger and more complex details of a system requires a level of trust, and systems are forced to carefully navigate this around others to avoid unnecessary conflict. 
