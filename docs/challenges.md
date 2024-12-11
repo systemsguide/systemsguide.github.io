@@ -37,7 +37,7 @@ However, by propagating the two key terms as an objective categorization of all 
 ### Syscourse
 
 On a finer level, all kinds of systems are ostracized for having specific experiences - with a majority of systems and purported allies having a "weird" or "problematic" line above which a system being visible in public becomes unacceptable.
-Most of this discourse boils down to applying a generic singlet-like understanding of plural internal experiences and the language used to describe them.
+Most of this discourse relies on applying a generic, singlet-like interpretation to plural internal experiences, as well as language used to describe them.
 
 Taken this way, all of our previous nuanced examples can easily be made objectionable.
 The Minotaur is cultural appropriation, intrasystem relationships are cheating, familial terms are disrespectful to "real family", _Fictives_ are copyright infringement and stealing, and the cultural and moral expectations of family members, children, and animals in the outside world can be placed strictly on headmates that resemble them - inviting exclusion based on singlet definitions of irresponsible caretaking, immaturity, and inhumanness - along with the occasional accusation of incest, rape, and bestiality.
