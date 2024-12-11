@@ -19,12 +19,12 @@ These **plural systems** identify multiple "selves" within their body - each wit
 As with non-conventional differences in gender or sexuality (or anything else perceived as "in the brain"), plurality is largely met with skepticism.
 While diagnoses like DID (previously Multiple Personality Disorder) can inspire dismissal of plurality as an disordered delusion that just needs "fixing", plural systems without a diagnosis (or those with plural experiences not classified under DID) can equally have their experiences dismissed as baseless attention-seeking.
 
-As such, it's productive to understand that plurality is a new term, but one that seeks to describe pre-existing phenomena.
+As such, it's productive to understand that plurality is a new term, but one that seeks to describe widespread, pre-existing phenomena.
 Those that choose to use a plural identity model do so because it's the most comfortable way to describe their personal experiences - in many cases, it's the only way they can explain them at all.
 What exactly those experiences are take a back seat to the system's own decision that this model helps make sense of themselves.
 Of course, those with experiences that some understand as plural may instead feel comfortable under a singlet model, and many utilizing a plural model do so purely on a personal level, with no desire to share that understanding socially - the goal of plurality as a movement is not to push others to utilze a plural identity model, but to help people be understood, and to help people understand themselves.
 
 ### Respect
 
-Plurality is an umbrella and model to help understand and provide support for those with specific, undeniably human experiences - whether they're personally understood as medical, spiritual, cultural, or psychological.
-Plurality is also a movement: advocating for plural systems' right to exist, be recognized and understood, and have the same autonomy, privacy, and participation in life as any singlet does - just like many other acceptance movements before us.
+Plurality is an umbrella term intended to provide support and community for those with specific, undeniably human experiences - whether they're personally understood as medical, spiritual, cultural, or psychological.
+Plurality is also a movement: advocating for plural systems' right to exist, be recognized and understood, and have the same autonomy, privacy, and participation in life as any singlet does - just like many other rights movements before us.
