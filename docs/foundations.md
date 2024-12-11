@@ -1,7 +1,7 @@
 ## Establishing Foundations
 
 > Plurality is still relatively unknown to much of wider society, many definitions are still being actively debated.<br/>
-> Here's the basic concepts again as a refresher - or maybe for the first time, as an introduction.
+> Here's the basic concepts again as a refresher - or if it's your first time, as an introduction.
 
 ### Plurality
 
