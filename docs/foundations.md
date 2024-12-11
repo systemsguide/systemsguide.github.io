@@ -21,8 +21,8 @@ While diagnoses like DID (previously Multiple Personality Disorder) can inspire 
 
 As such, it's productive to understand that plurality is a new term, but one that seeks to describe widespread, pre-existing phenomena.
 Those that choose to use a plural identity model do so because it's the best way (or, indeed, the only way) to describe their life experiences.
-What exactly those experiences are take a back seat to the system's own decision that this model helps make sense of themselves.
-Of course, those with experiences that some understand as plural may instead feel comfortable under a singlet model, and many utilizing a plural model do so purely on a personal level, with no desire to share that understanding socially - the goal of plurality as a movement is not to push others to utilze a plural identity model, but to help people be understood, and to help people understand themselves.
+What those experiences are is less important than allowing individuals to choose the model that helps them make sense of themselves.
+This means someone with experiences others understand as plural might still choose a singlet model, and even those using a plural model may decide to keep it purely to themselves - the goal of plurality is not to push others to be openly plural, but to help people be understood and to understand themselves.
 
 ### Respect
 
