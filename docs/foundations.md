@@ -6,7 +6,7 @@ Conventionally, we treat a human body and an identity as a one-to-one relationsh
 A body represents (or, contains) one person, and while they may change over time, they remain the same individual. 
 This "singlet" model of identity suits the majority of the population. 
 However, there is a significant minority (roughly 1 in 50) that instead utilise a "plural" model.
-These **plural systems** identify multiple "selves" within their body, each with recognisable traits such as attitude, preferences, memory, or even (by exchanging control of their body) voices, skills, and relationships.
+These **plural systems** identify multiple "selves" within their body - each with potentially differing attitudes, memories, or even (by exchanging control of their body) voices, skills, and relationships.
 
 ### Terminology
 
