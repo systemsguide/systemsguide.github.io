@@ -17,7 +17,7 @@ This works because different headmates tend to utilize the body differently: pos
 Over time, you become accustomed to the differences between fronts.
 As a system, this can help fronts settle better, foster acceptance for your own differences, and help you learn to switch fronts deliberately - which some systems can do.
 As an observer, recognizing fronts gets easier, beyond obvious clues like clothing or speech patterns.
-This is never completely reliable (and it can be rude to guess a front unprompted!), but it can help you understand a system a bit more.
+This is never completely reliable (and it can be rude to guess a front unprompted), but it can help you understand a system a bit more.
 Realistically, it's more practical for a system to deliberately signal a change of front.
 The obvious "hi, it's [name]" is functional, but often feels awkward and objectifying.
 Instead, you could swap a name tag or accessory, change up decorations in chat messages (e.g. an emoji or signature), or ask someone to guess your front.
