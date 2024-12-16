@@ -41,7 +41,7 @@ Anthropomorphic animals, robots and machines, spirits, monsters, or computer sof
 
 ### Causality
 
-Each system has an individualised understanding of their own plurality. Most systems have reasoning for why a plural model is right for them, but some systems additionally believe that their plural experiences owe to a specific cause. These "causalities" - including spiritual and cultural truths, psychological mechanisms, and deliberate actions - aren't neccesary to understand oneself as as plural, but help an individual system understand themselves - even if that understanding is "we are how we are - it doesn't matter why".
+Each system has an individualised understanding of their own plurality. Most systems have reasoning for why a plural model is right for them, but some systems additionally believe that their plural experiences owe to a specific cause. These "causalities" - including spiritual and cultural truths, psychological mechanisms, and deliberate actions - aren't neccesary to understand oneself as as plural, but can help an individual system understand themselves - even if that understanding is "we are how we are - it doesn't matter why".
 
 ### Words
 
