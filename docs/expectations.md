@@ -41,8 +41,7 @@ Anthropomorphic animals, robots and machines, spirits, monsters, or computer sof
 
 ### Causality
 
-To fully understand a system, it's key to understand how the system understands themselves. As alluded to earlier, many systems hold belief in why exactly they are plural - whether cultural, psychological, spiritual, or absent!
-These _causal beliefs_ are by no means unique to pluralfolk - nobody knows why they're conscious, but many choose to hold faith.
+Each system has an individualised understanding of their own plurality. Most systems have reasoning for why a plural model is right for them, but some systems additionally believe that their plural experiences owe to a specific cause. These "causalities" - including spiritual and cultural truths, psychological mechanisms, and deliberate actions - aren't neccesary to understand oneself as as plural, but may shape the way a system interacts with systemhood.
 
 ### Words
 
