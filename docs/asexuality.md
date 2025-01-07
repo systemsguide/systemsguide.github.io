@@ -18,9 +18,9 @@ There's a lot of unknowns, right?
 Genitalia might be off limits due to a self-perception mismatch or plain old dysphoria.
 Hell, touching bodies together in general might be off the table in some cases.
 And you're going, "[systemname], how the Fuck does your baseline model for sex not involve touch" and - we're asexual!
-The word "sex" roughly resolves to "intimacy session", and that's both intimacy with another person but *also* intimacy with yourself.
+The word "sex" roughly resolves to "intimacy session", and that's both intimacy with another person but _also_ intimacy with yourself.
 
-To us, plural sex is *perception*.
+To us, plural sex is _perception_.
 It's seeing a headmate as themselves (or you as yourself) to the fullest possible extent - removing the obstructions of masking, of being distracted by the physical body, or of unfamiliarity - and then seeing where that makes you want to go!
 And sure that might be stereotypical sex acts and power to you, good perception fuels lots of things, but it could equally just be a bit of a staring session.
 A middle ground might be a bit of body-perception mapping - placing a hand down somewhere on the system's body, then stating (or asking) what's underneath it metaphysically - relaxing, really, after fighting to feel seen even by yourself for so long. 
@@ -30,7 +30,7 @@ It only sounds different because we don't personally slap "popular sex act" on t
 
 Needless to say, this does apply to intrasystem relationships as well.
 No need to have some fancy co-fronting skills or a perfect friend for two-body threesome - "Just masturbate while correctly perceiving a headmate" is an incredibly simple thing nobody can fault you for calling "intrasystem sex".
-Normally you'd perceive them as *hot* during that process but I don't know your life. Is this narcissistic? Great question. dunno. Do you care? 
+Normally you'd perceive them as _hot_ during that process but I don't know your life. Is this narcissistic? Great question. dunno. Do you care? 
 
 Also, I think a lot of people in nonhuman communities reach for cybersex or other role play to fulfil that "sex as perception" type of desire.
 Plurality similarly benefits from it well. There's no body to map to, but no body to mismatch - Just mime out what conceptually attracts you! simple enough, once you find what tense and case it feels comfortable typing in.

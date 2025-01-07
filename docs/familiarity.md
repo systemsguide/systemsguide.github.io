@@ -49,12 +49,12 @@ Through this process, we (and others) _re-meet_ new parts of ourselves like old 
 
 Within a system, the ability to communicate between headmates varies wildly.
 Some systems can hold conversations in their own heads, others leave notes for eachother, others still talk in private chat rooms, and some can't do any of those things at all.
-Without a direct line of communication, one would assume that there's no way to foster positive intra-system relationships between system members.
+Without a direct line of communication, one would assume that there's no way to foster positive _intra-system_ relationships between system members.
 This is true under a singlet-normative understanding of interpersonal relationships, but we can do a bit better.
 By observing others interacting with the world and mutual friends outside the system, a system's members can slowly develop opinions of eachother.
 Without a way to directly communicate, these opinions form the bases of non-speaking intrasystem relationships.
-Without a word to one another, system members can still do things they know their other headmates struggle with, speak to friends about how they feel about eachother, make little comments right after getting into the front, and in many cases, bubble up their feelings and thoughts without being in the front - like your ears burning when someone says your name.
-It's often quite unlike a relationship between two bodies, but as you've likely realised, it simply does not need to be.
+Without a word to one another, system members can still do things they know their other headmates struggle with, speak to friends about how they feel about eachother, make comments right after getting into the front, and in many cases, bubble up their feelings and thoughts without being in the front - like your ears burning when someone says your name.
+It's often quite unlike a relationship between two bodies, but as you've likely realised, they simply do not need to be.
 
 Of course, being plural adds layers to forming _extra-system_ relationships, too.
 Extrasystem bonds always sit somewhere between the individual headmate time is spent with, and the system as a whole.

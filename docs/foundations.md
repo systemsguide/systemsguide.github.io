@@ -9,11 +9,11 @@ Conventionally, we treat a human body and an identity as a one-to-one relationsh
 A body represents (or, contains) one person, and while they may change over time, they remain the same individual. 
 This "singlet" model of identity suits the majority of the population. 
 However, there is a significant minority (roughly 1 in 50) that instead utilise a "plural" model.
-These **plural systems** identify multiple "selves" within their body - each with potentially differing attitudes, memories, or even (by exchanging control of their body) voices, skills, and relationships.
+These _plural systems_ identify multiple "selves" within their body - each with potentially differing attitudes, memories, or even (by exchanging control of their body) voices, skills, and relationships.
 
 ### Terminology
 
-- **Headmates** - The individuals that comprise a plural system (aka its *members*) - used similarly to "roommates". May or may not be able to directly communicate with one another.
+- **Headmates** - The individuals that comprise a plural system (aka its _members_) - used similarly to "roommates". May or may not be able to directly communicate with one another.
 - **Fronting** - A system member having control of the body they're in (i.e. being "in the front" of the body; at the wheel). Usually not black-and-white, with partial and shared fronting common.
 - **Switching** - Headmates exchanging control of the body (i.e "switching in" to the front and "switching out" to the back). Not universal, but a common experience.
 

@@ -6,7 +6,7 @@
 ### Normativity
 
 Outside of basic non-acceptance or misunderstandings of the nature of plurality, the most widespread root of sysphobia is _singlet-normativity_ - the idea that singlethood is a privileged default expected of everyone.
-Because wider society is not exposed to plurality, deviations from expectations associated with a singlet identity model can lead to rejection, distress, and danger.
+Because wider society is not exposed to plurality, deviations from singlet behaviours and experiences can lead to rejection, distress, and danger.
 
 Though a lens where singlethood is the only "normal", plurality is unacceptably complex and must be a fabricated delusion, the privacy of a system is irrelevant compared to keeping others aware of the abnormality, and the needs and desires of a system can be dismissed in pursuit of restoring that normalcy through medical intervention.
 
@@ -43,7 +43,7 @@ Taken this way, all of our previous nuanced examples can easily be made objectio
 The Minotaur is cultural appropriation, intrasystem relationships are cheating, familial terms are disrespectful to "real family", _Fictives_ are copyright infringement and stealing, and the cultural and moral expectations of family members, children, and animals in the outside world can be placed strictly on headmates that resemble them - inviting exclusion based on singlet definitions of irresponsible caretaking, immaturity, and inhumanness - along with the occasional accusation of incest, rape, and bestiality.
 
 Seeing past this moral panic requires a certain nuance towards experiences, identities, and activities that outwardly resemble outside-world bad behaviour but have little capacity to do actual harm.
-This is also the subject of similar-sounding online debates around depictions of conventionally-unhealthy relationships in fan works (*proshipping discourse*) and those around reinterpretations of (usually, young) characters for pornographic fan art (*aging-up discourse*). 
+This is also the subject of similar-sounding online debates around depictions of conventionally-unhealthy relationships in fan works (_proshipping discourse_) and those around reinterpretations of (usually, young) characters for pornographic fan art (_aging-up discourse_). 
 Through similarities to their own identity, a system can be personally affected by these debates - or even made into a target themselves if they resemble a relevant fictional character.
 
 Engaging with the stranger, more complex details of a system requires a level of trust - and many systems are forced to carefully navigate this trust in order to avoid unnecessary conflict. 
