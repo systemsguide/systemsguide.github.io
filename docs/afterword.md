@@ -11,6 +11,16 @@ With the intuition from the primer, we hope you can interpret the potential for 
 
 We expect this section to expand over time - feel free to skim them in any order.
 
+### Printable Version
+
+Plural Respect is also available as a zine - for adding to queer pamphlet racks, keeping in your wallet for emergencies, or sharing anywhere where zines are celebrated.
+
+It's designed to be printed in duplex B/W on A4, trimmed to have symmetrical margins, then folded using a standard zine fold.
+With a single copy, chapters 1 and 2 have to be refolded to display chapters 3 and 4 respectively.
+Alternatively, two copies can be printed to allow the full text to be read without refolding.
+
+You can download the PDF for printing [here](/downloads/Plural_Respect_A7_Zine.pdf).
+
 ### _Aside:_ 2.0
 
 This primer is a 2024 rewrite of the original 2022 _plural respect_ - made with less redundancy, more consistency, more conviction, a better understanding of ourselves, and of course - the help of our friends.
