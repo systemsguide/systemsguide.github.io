@@ -20,13 +20,6 @@ A system might have names for each of their members, an overall system name but 
 Like trans-ness necessitates understanding gender as distinct from sex, plurality necessitates understanding gender as distinct from the body.
 Owing to variance in that gender "gut-feeling", different parts of a system often have their own pronouns, gendered language, and relationship to words like "trans" and "cis".
 
-### Relationships
-
-A notable variance in system configuration is in what stays constant between headmates.
-The answer always lies between the extremes, but where exactly varies - memory might be totally contiguous, or almost completely individualised.
-Headmates may share beliefs, but differ in opinions - share interests, but differ in tastes - share gender, but differ in sexuality!
-With this in mind, systems may feel that relationships to others exist mostly across all headmates, individualised to each headmate, or somewhere in between - rapport accrued by one headmate always "smearing" across others to some extent.
-
 ### Appearance
 
 In most of our society, how you appear is a key part of your identity and individuality.
@@ -37,6 +30,13 @@ Pluralfolk can rarely make exclusive claim to the appearance of the body, so sel
 Like furries, therians, otherkin, and other nonhuman subcultures, the metaphysical appearance of a system member need not be human.
 Without an obvious "human starting point" (the body) to dispel, pluralfolk often reach this conclusion intuitively and without fanfare.
 Anthropomorphic animals, robots and machines, spirits, monsters, or software - the _form_ (metaphysical appearance) of a system member helps convey and express what makes them unique.
+
+### Relationships
+
+A notable variance in system configuration is in what stays constant between headmates.
+The answer always lies between the extremes, but where exactly varies - memory might be totally contiguous, or almost completely individualised.
+Headmates may share beliefs, but differ in opinions - share interests, but differ in tastes - share gender, but differ in sexuality!
+With this in mind, systems may feel that relationships to others exist mostly across all headmates, individualised to each headmate, or somewhere in between - rapport accrued by one headmate always "smearing" across others to some extent.
 
 ### Causality
 
