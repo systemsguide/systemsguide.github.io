@@ -13,7 +13,7 @@ We expect this section to expand over time - feel free to skim them in any order
 
 ### Printable Version
 
-Plural Respect is also available as a zine - for adding to queer pamphlet racks, keeping in your wallet for emergencies, or sharing anywhere where zines are celebrated.
+Plural Respect is also available as a zine - for adding to queer pamphlet racks, keeping in your wallet for emergencies, or sharing anywhere zines are celebrated.
 
 It's designed to be printed in duplex B/W on A4, trimmed to have symmetrical margins, then folded using a standard zine fold.
 With a single copy, chapters 1 and 2 have to be refolded to display chapters 3 and 4 respectively.
