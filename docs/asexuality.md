@@ -6,7 +6,8 @@ So question - how do you have sex with a plural system?
 Or, a member of a plural system? 
 
 You were listening before - that sounds completely loaded, right?
-It'll be some vaguery like "it's different for every system and headmate" and go nowhere. And like, yes, but I also think as a resource we have a responsibility to make sure that a system's sexual preferences aren't held back by a limited imagination over their options - so, let's dance.
+It'll be some vaguery like "it's different for every system and headmate" and go nowhere.
+And like, yes, but I also think as a resource we have a responsibility to make sure that a system's sexual preferences aren't held back by a limited imagination over their options - so, let's dance.
 
 We're sex-having asexuals, which means that we hate all the sex acts people think of as fun and like all the sex acts people think of as boring or childish. 
 I think this gave us an unfair advantage unashamedly figuring some of these things out, so we'll try to share.

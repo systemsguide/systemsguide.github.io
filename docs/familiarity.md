@@ -7,7 +7,8 @@
 
 At first, switches can feel strange.
 The sensations are unfamiliar, be it like "waking up", a new pair of glasses, or a sliding-into-place sensation inside your head.
-They can look strange, too - daydreamy eye-glazing, sudden adjustments in posture, wincing, and so on. It's not necessarily accidental, mind - stretching, yawning, scrunching your nose, and clearing your throat can all help deliberately settle in a new front.
+They can look strange, too - daydreamy eye-glazing, sudden adjustments in posture, wincing, and so on.
+It's not necessarily accidental, mind - stretching, yawning, scrunching your nose, and clearing your throat can all help deliberately settle in a new front.
 This works because different headmates tend to utilize the body differently: posture, gait, voice, expression, or even "resting" face.
 
 Over time, you become accustomed to these differences between fronts.
@@ -31,8 +32,10 @@ Over time, you learn to navigate each experience, resolve early-system internal 
 
 Feeling new to an already settled system can be scary too.
 You naturally worry over the existing expectations of the system and its friends – and the ways you might push the boundaries of what’s acceptably normal.
-_Being_ new feels uniquely strange, too - like tasting something you've never imagined before. For some, that’s a nice feeling - freeing, a new experience that the system is capable of.
-But it's intimidating, and isolating, too. You rely on others, within and outside the system, to accept your place in it.
+_Being_ new feels uniquely strange, too - like tasting something you've never imagined before.
+For some, that’s a nice feeling - freeing, a new experience that the system is capable of.
+But it's intimidating, and isolating, too.
+You rely on others, within and outside the system, to accept your place in it.
 
 Settling as a system or headmate is a unique process of connecting the old with the new.
 This begins with a period of exploration, where you can find - or as a friend, can provide - sufficient space to feel out what feels right: in identity, language, self-expression, tastes, and so on.
