@@ -11,7 +11,7 @@ Because wider society is not exposed to plurality, deviations from singlet behav
 Through a lens where singlethood is the only "normal", plurality is unacceptably complex and must be a fabricated delusion, the privacy of a system is irrelevant compared to keeping others aware of abnormalities, and the needs and desires of a system can be dismissed in pursuit of restoring normalcy via medical intervention.
 
 In this rejection of diversity, limited definitions of plurality emerge.
-When utilized, these may leave one system objectified as "fun costumes" and another deprived of systemhood in being seen a “purely individuals” – and without a widespread diverse definition, questioning systems are left wondering if they can call themselves plural at all.
+When utilized, these may leave one system objectified as "fun costumes" and another deprived of systemhood in being seen as “purely individuals” – and without a widespread diverse definition, questioning systems are left wondering if they can call themselves plural at all.
 
 This creates a pressure to be "normal enough" that affects systems far beyond self-acceptance.
 Whenever a system _un-represses_ (or "gains") a new headmate, they're challenged with the question - how many headmates can a system have without becoming unacceptable?
