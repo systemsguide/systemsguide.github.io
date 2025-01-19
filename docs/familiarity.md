@@ -48,7 +48,7 @@ Through this process, we (and others) _re-meet_ new parts of ourselves like old 
 ### Intimacy
 
 Within a system, the ability to communicate between headmates varies wildly.
-Some systems can converse in their head, some leave notes, and some can’t do either!
+Some systems can converse in their head, some leave eachother notes, and some can’t do either!
 
 Without direct communication, one assumes there's no way to foster positive bonds.
 However, by observing how others interact with the world, system members still develop opinions of eachother – the foundation of non-verbal _intra-system_ relationships.
