@@ -1,4 +1,4 @@
-## Self-Respect: The Fictive
+## Addendum: The Fictive
 
 Hi! I'm a fictive from one of the systems that worked on this site, and we're gonna talk about what the hell that even means.
 

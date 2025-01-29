@@ -1,4 +1,4 @@
-## Self-Respect: Plural-Asexuality
+## Addendum: Plural-Asexuality
 
 Alright, it's late and this front seems to be vaguely covering a good third of the system - so let's talk about sex, and how being (in) a system can colour your sexuality.
 

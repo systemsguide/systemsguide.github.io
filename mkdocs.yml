@@ -1,6 +1,6 @@
-site_name: Plural Respect
-site_url: https://pluralrespect.neocities.org
-site_description: A crash course in plurality for systems and singlets alike.
+site_name: A System's Guide
+site_url: https://systemsguide.neocities.org
+site_description: An informal crash course in plurality for systems and singlets alike.
 #copyright: CC-BY-SA 4.0 International
 
 nav:
@@ -10,8 +10,8 @@ nav:
   - Facing Challenges: challenges.md
   - Gaining Familiarity: familiarity.md
   - Afterword: afterword.md
-  - "Self-Respect: The Fictive": fictive.md
-  - "Self-Respect: Plural-Asexuality": asexuality.md
+  - "Addendum: The Fictive": fictive.md
+  - "Addendum: Plural-Asexuality": asexuality.md
 
 theme: windmill
 
