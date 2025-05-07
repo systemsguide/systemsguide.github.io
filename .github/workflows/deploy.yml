@@ -49,7 +49,10 @@ jobs:
           clean: false
 
       - name: Commit changes
-        run: git add .
+        run: |
+          git status
+          git add .
+          git commit -m "add downloads"
 
       - name: Push to gh-pages
         uses: ad-m/github-push-action@v0.8.0
