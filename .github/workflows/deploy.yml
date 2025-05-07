@@ -31,13 +31,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CUSTOM_DOMAIN: 'sys.guide'
-  copy-downloads:
+  downloads:
+    name: Copy downloads folder
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
         with:
+          ref: 'gh-pages'
+
+      - name: Checkout main/downloads
+        uses: actions/checkout@v4
+        with:
+          ref: 'main'
           sparse-checkout: 'downloads'
-      - name: Copy To Branches Action
-        uses: planetoftheweb/copy-to-branches@v1.2
-        env:
-          key: gh-pages
+          clean: false
+
+      - name: Push to gh-pages
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: 'gh-pages'
