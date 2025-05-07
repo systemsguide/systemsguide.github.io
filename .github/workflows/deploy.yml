@@ -43,4 +43,5 @@ jobs:
       - uses: tuftsrt/copy-to-branch@v1
         with:
           destination-branch: gh-pages
-          copy: downloads/*
+          copy: |
+            downloads|
