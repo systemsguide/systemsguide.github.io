@@ -35,21 +35,23 @@ jobs:
     name: Copy downloads folder
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout gh-pages
-        uses: actions/checkout@v4
-        with:
-          ref: 'gh-pages'
-
       - name: Checkout main/downloads
         uses: actions/checkout@v4
         with:
           ref: 'main'
           sparse-checkout: 'downloads'
           sparse-checkout-cone-mode: false
+
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: 'gh-pages'
           clean: false
 
       - name: Commit changes
         run: |
+          git config --global user.email "actions@example.com"
+          git config --global user.name "Actions"
           git status
           git add .
           git commit -m "add downloads"
