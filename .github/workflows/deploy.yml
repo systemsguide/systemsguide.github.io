@@ -45,6 +45,7 @@ jobs:
         with:
           ref: 'main'
           sparse-checkout: 'downloads'
+          sparse-checkout-cone-mode: false
           clean: false
 
       - name: Commit changes
