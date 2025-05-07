@@ -13,7 +13,9 @@ nav:
   - "Addendum: The Fictive": fictive.md
   - "Addendum: Plural-Asexuality": asexuality.md
 
-theme: windmill
+theme:
+  name: windmill
+  custom_dir: custom/
 
 extra_css:
     - css/theme-adjustments.css
