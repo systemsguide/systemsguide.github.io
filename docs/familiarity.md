@@ -1,8 +1,5 @@
 ## Gaining Familiarity
 
-> Becoming familiar with plurality is a strange, intuitive, and counterintuitive process that rewires the brain.<br/>
-> Here's what some of those oft-alluded _plural experiences_ tend to be, to a system or to an observer.
-
 ### Switching
 
 At first, switches can feel strange.

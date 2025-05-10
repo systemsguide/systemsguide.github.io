@@ -2,7 +2,7 @@
 
 ---
 
-## Foreword
+### Foreword
 
 This is a handbook for Plurality - a new identity umbrella encompassing likely-familiar terms such as _Split Personality_, _Dissociative Identity Disorder_, and _Multiple Personality Disorder_.
 
@@ -13,3 +13,5 @@ This resource is for everyone - plural or not, knowledgeable or not, questioning
 Thank you.
 
 -S
+
+---

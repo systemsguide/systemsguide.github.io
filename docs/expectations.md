@@ -1,8 +1,5 @@
 ## Shattering Expectations
 
-> Plurality encompasses a range of experiences poorly defined by any one conception.<br/>
-> Whether you're talking to a system, or considering what's inside yourself, here's what not to take for granted.
-
 ### Numbers
 
 A body and an individual is not necessarily a 1:1 relationship.

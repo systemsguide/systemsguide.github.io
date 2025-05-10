@@ -1,8 +1,5 @@
 ## Facing Challenges
 
-> Systems are challenged in their self-acceptance, day in and day out, from without and from within.<br/>
-> Here's what to look out for in the wild, and what that one internal conflict might just boil down to.
-
 ### Normativity
 
 Outside of basic non-acceptance or misunderstandings of the nature of plurality, the most widespread root of sysphobia is _singlet-normativity_ - the idea that singlethood is a privileged default expected of everyone.
