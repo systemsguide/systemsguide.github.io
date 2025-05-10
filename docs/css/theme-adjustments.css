@@ -10,3 +10,7 @@ blockquote {
     font-size: 12px !important;
     font-weight: bold !important;
 }
+
+#wm-search-form {
+    display: none;
+}
