@@ -1,20 +1,10 @@
-## Foreword
+# A System's Guide to Plurality
 
-> Welcome to _A System's Guide_, an informal crash course in plurality for systems and singlets alike!<br/>
-> Here's a short overview of the contents of the site.
+This is a handbook for Plurality - a new identity umbrella encompassing likely-familiar terms such as _Split Personality_, _Dissociative Identity Disorder_, and _Multiple Personality Disorder_.
 
-### Purpose
+We speak to this topic from lived experience, and with honesty towards our stake: We're plural, as are our co-writers, and many of our friends. Their feelings, and the realities of their personal experiences, are what line these pages. 
 
-_A System's Guide (to Plurality)_ is a multi-layered overview intended to provide a ground-up intuition for the nuances of plural experience.
-Through this intuition, it aims to impart not just a passing understanding, but a familiarity with plurality sufficient to befriend a system you know - or the one inside.
+This resource is for everyone - plural or not, knowledgeable or not, questioning or not. Please share it wherever it might help, and redistribute or adapt it as you see fit. We only ask that you treat this site as standalone art - and don't bother the authors for explanations or adjustments.
 
-What this _isn't_ is academia - every thought in these pages was acquired through observational understanding and lived experience, not by reviewing existing literature.
-This is a firsthand account, so reference it that way if used.
-
-This resource is for everyone - systems and singlets, know-alls and know-nothings - read it, share it, surpass and disagree with it, adapt it, revise it - if you're working towards understanding and acceptance, it's all yours.
-
-### Disclaimer
-
-_System's Guide_ is provided as-is.
-This text stands alone as a piece of art created at one point in time, with no assurance that the authors believed a single word that was written.
-You are not entitled to any correction or adjustment of the text, nor are you entitled to the views or intents of the authors - we will not respond to demands of this ilk made through any channel.
+Thank you. 
+-S
