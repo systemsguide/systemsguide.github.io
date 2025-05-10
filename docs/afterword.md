@@ -19,7 +19,7 @@ So, if nobody's said it to you yet - welcome; and I mean it.
 Thanks immensely to our co-writers, without whom this text would not have been developed into a genuine primer rather than an extension of more than one - and without whom we'd certainly trail into a confusing pointless mass of words every single paragraph.
 Thanks to our friends and all the systems we've met over the years - on whom the diversity in any of our explanations rely. 
 
-And of course, thanks to you - and whoever else you might be - for reading.
+And of course, thanks to you - and anyone else you might be - for reading.
 
 -S
 
