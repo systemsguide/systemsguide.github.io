@@ -1,0 +1,391 @@
+## Letters: Am I Plural?
+
+This is an archive of an anonymous ask box taking questions about systemhood, along with responses.
+
+We feel the real-life anecdotes of both the ask-ers and responders are valuable, particularly for fledgling systems, and have preserved them with permission.
+
+> **NOTE**: While some asks and responses refer openly to sexuality, we do not consider this addendum to be "NSFW" or "18+", 
+> nor do we feel it would be productive to mark it such. 
+> Segments with explicit and detailed sexual content are elided or, where we feel they're essential, made collapsible.
+
+---
+
+#### "Wanting to be plural"
+
+> **ANON:** Hey uh, not sure if there's anything to elaborate on wrt the "wanting to be plural is a symptom of being plural" post, but is that true? Because I've been avoiding that possibility, if only because I've been so sure that it isn't a possibility. I don't really know what I'm saying here it's just, could that post really be true?
+
+**AAA:** So we thought we were the only ones selling this kind of perspective to people, but recently **[this website]** (which we already liked re: intrasys relationships) started including something similar, but with more structure.
+
+It breaks down like this: Singlets choose to interpret their personal experiences as being one person. It gets privileged as the default because that's how we're socialised, but a (usually unconscious) choice is being made to view all their experiences - including kinda plural-coded stuff like code switching, masking, genderfluidity, weird dreams, varying vibes day-on-day, internal conflict, etc - as representing a singular identity.
+
+There are also a lot of people who's experiences can't realistically be interpreted singletwise - folks that experience switches with totally separate memory is an extreme example. The plural explanation is the only thing that makes any sense of it at all.
+
+This creates this big grey area that encompasses all those interpreted-singlets with kinda-plural experiences, and those interpreted-plurals who could reasonably interpret themselves as singlets (again) if they wanted to. Within this grey area, you have the wiggle room to observe your personal experiences, and conceptualise your identity one way, or the other way.
+
+One of those ways might feel more "right" to you, more sensical, more comfortable, safer - so in that sense, yeah. wanting to be plural is a symptom of being plural. Fantasising about what it would be like to understand yourself in the other way is probably a sign that you should try it - see how thinking of yourself that way feels, just for a day or whatever. If it's too weird, go back. If not, keep going.
+
+Now, letting yourself have an open mind may invite experiences that make a singlet interpretation less sensible - so only test the waters if both possible conclusions are safe for you to have. Outside of that, you can always change your mind - so, give it a shot.
+
+---
+
+#### "Making myself plural"
+
+> **ANON:** Hope you don't mind more "but am I plural" asks, but.... 
+> 
+> I feel like, I *do* want to be plural, but. Idk, I don't feel anything? Like, I think it sounds so neat to have other people in here with me, but.... I look inward, and I really don't feel anyone else here
+> 
+> I sometimes wish I could just, make myself plural? But it feels, disingenuous somehow. Disrespectful. And I wouldn't really know how to go about it anyway....
+
+**AAA:** Look we're not gonna sit here and be like "go do tulpamancy" or do pop therapy on what's got you feeling that way or something something - but we can talk about a personal experience.
+
+Half a decade ago, we were both a singlet and also desperate to jam ourselves into some kind of romantic polyamorous queer commune (hilarious as a loud aro I know). The experience was pretty suffocating, we didn't always really understand why we felt that way, and we made a lot of dumb decisions as a result.
+
+Soon after we realised we were a system, we also realised that that desperation had gone away? And the funny thing about that is, years prior to this, we'd kind of internally ruled out being plural? Plurality was something we'd seen in other people - dramatic switches and isolated memory. People we liked, but experiences we knew we did not have. Because we knew we weren't plural, we couldn't want it either.
+
+So we always wonder if the unhinged sense of romance we had for purely a brief period of our life - that presented itself almost exclusively as a desire to be permanently surrounded by people we were close with and felt safe around - was in some ways, along with general (less ravenous) desire for good relationships, a desire for our own eventual systemhood?
+
+We can't know, obviously - but I think that adage that strong desires have to come from somewhere rings true. Is it possible to want to be plural when you do not, on some level, have plural experiences waiting to be embraced somehow? At first I want to say no, because it's just no fun to deny someone a desire to conceptualise themselves in a certain way. But then I think - wasn't it possible for us to want to be surrounded in romantic relationships so so badly when we did not, in retrospect, possess a genuine desire for romance as we now understand it?
+
+Wanting to be plural is definitely a symptom of being plural, but also god sometimes we as people are completely wrong in ways that we do not at all understand. Just do your best for yourself.
+
+...
+
+**???:** So what it means to be plural is kind of a complicated question right? and it might make sense to try and clarify for yourself what the thing you're longing for is exactly.
+
+On a very base experiential level we might conceptualise "being plural" as equivalent to having some of a number of different plural experiences. Anywhere from the most overt plural stuff, "someone shows up and wants a different name and to be percieved and treated entirely differently", memory gaps, seperate internal voices, etc. - to the more mundane potential plural experiences where someone might be conceptualising themselves as containing multiple modes/parts/etc. without even necessarily describing this as plural.
+
+A lot of these experiences can come with significant difficulties to overcome as a system, both in purely pragmatic ways (working around faulty memory, disagreements, etc.) and interpersonal ways (trying to get other people to understand you as a system). And you're probably not actually envious of these difficulties.
+
+But there are also lots of parts of plurality that may well be desirable. Constant companionship, being able to take a break and let someone else take over for you, the breadth of different attitudes and expression a system can contain - these all make sense as points of potential envy.
+
+The other senses in which someone does "being plural" are the steps at which they begin interpreting their own experiences as plural and (potentially) begin communicating this to other people around them.
+
+It can definitely be tempting to focus on the first sense, to hope you can find some way to suddenly sense another presence within you, but this isn't the only method for plural discovery.
+
+In our personal experience, much of our life was actually characterised by a severe *lack* of identity. The combination of autism people pleasing and bullying trauma had us feeling like we had to become different people for different situations and we didn't even like all the people we were being. When we were asked about our interests or distinctive traits about us we often struggled to find things to point at that felt like us.
+
+We had already made some progress on this front when we started exploring potential plurality. Gender transition. "What if I'm kind of a furry and want to be treated like a dog sometimes". Various explorations of identity.
+
+And while our plural exploration was catalysed by a very sudden late night feeling of multiple presences while under great distress, this had dissapeared by the morning. What really helped us understand we were plural at all, was experimenting with being plural in those second and third senses. Talking through the different ways we felt from day to day with trusted friends and experimenting with being treated and referred to differently.
+
+Eventually this began teasing out distinctions in what had once seemed like a unitary self that could no longer coexist within one singular identity. The highly affectionate furry versus the cold hearted bitch (which retroactively explained a lot of relationship problems). Versions of us as a kid that still lived on and who had desires and wants that had remained unfulfilled. Confident self obsessed sluts who could not exist at all until we had unlearned our own negative self image enough to set those parts of our self free.
+
+But a critical thing of note - we did not feel especially plural before this. Even looking back, while we can project certain identities onto parts of life they feel like they originated in or are responsible for, it does not feel like we were secretly deep down always plural in the moment. In fact, many of our most identifiably plural experiences came after we changed our self conception.
+
+Identifying the differing self conceptions and wants within us allowed those parts to develop distinct voices and senses of self. We feel our voice or our train of thought shift around in ways that are attributable to different headmates now. and we can talk to each other a bit, tho we just as often blur together these days.
+
+Basically, it can be easy to think of the experience as always preceding the identity - but this isn't exactly true. If you find there are ways you only want to be sometimes, you can try giving that a name and see how it feels. A fursona, a character you roleplay as, a personality you try to embody for the space of a kink scene - any form of identity play can be useful for exploring the bounds of the self. Maybe you'll end up still feeling like a singular person at the end of it, but you deserve the space to experiment with plural identity the same as any other identity to see if it fits.
+
+The same way trying crossdressing, gay sex, or a new kink, might help you learn things about your own desires and identity.
+
+And yeah, early on it kinda did feel like wishful thinking, we kind of wanted to be plural even though our experiences didn't feel like they were enough to count. It doesn't mean anything for certain, but it's worth exploring the full range of things your desires might be pointing to.
+
+...
+
+**AAA:** we thought we weren't plural because we thought "well, there's nobody else in this head other than me!" the thing is. we were completely correct! there wasn't! there still isn't! because our perception of "me" completely encompassed what we now experience as *several people* lmao.
+
+Systems around us was like "it was just me, but then whoah! another person!" and that made us rule out that plural possibility because we were CONFIDENT that there was nobody else in the system, because it felt very very clear internally that it was just... us.
+
+lmao. lmfao. it's so fucking stupid in hindsight but this happens CONSTANTLY so heads up to anyone reading: the multiple parts of your hypothetical system could easily be inside *or* outside what you currently call "me". thank you goodnight
+
+---
+
+#### "Standard parts of the human experience"
+
+> **ANON:** wait, does everybody really not wish they were plural? I just kinda always thought that and like talking to yourself all the time (but out loud and not auditory hallucinations so its normal) and only being able to access certain emotions sometimes and then feeling them overwhelmingly, and like having multiple names that you switch between at any given time were just standard parts of the human experience, and being plural meant you had to like lose large swathes of memory and wake up in the middle of situations and events (grown adult woman just now realizing this)
+
+**AAA:** GIRL!!!
+no!!!!! 
+like with transness most people do NOT dedicate much time to wishing they were plural.
+and no you don't need memory gaps or jarring switches to be plural.
+also.
+you can consider yourself a singlet if you WANT.
+but that sounds pretty fucking plural to me
+ 
+> **ANON:** sure the other day I was packing up my apartment to move out and there was so much to do and I was overwhelmed so I said out loud like “hey can you help me please?” And then disassociated for like a few hours while I packed everything up and then I gave myself a soft and nice kiss on the mirror as a thank you but that’s just called like self love and respect. Idk. I’m scared I’m not plural enough lol i don’t want to fake it for attention
+
+**???:** look we had a headmate who for a long time we only interfaced with when we had fully drained our reserves of executive function and would hand off a wishlist of tasks ("hey can you get up and brush our teeth and get a drink of water so we can go to sleep") and would then watch out body just get up and autopilot thru those tasks independently. plural experience or just a cool cognitive trick to get your body to do things? well... she started talking back to us eventually dkfjkgkg
+
+**AAA:** Anon you don't have to be scared that you're not plural enough because you ARE plural. You're having FLAMINGLY plural experiences - At this point I'd only be cautious about calling you plural if I knew you were scared or unsure of conceptualising yourself/ves that way - but you said you wanted it from the start!
+
+Listen to me very closely. I am not telling you "you're definitely secretly plural inside in ways you don't know about and it's gonna come out any second now!" I'm telling you the things that you are experiencing are already plurality. The only difference accepting it is going to make is that suddenly you can look at the things you're experiencing head-on and they might make a lot more sense.
+
+Do you understand? You can't be faking it because there's nothing to fake. There are multiple elements inside you that shift around, and you have complicated feelings about them. Cross out "one woman with nobody else in the body and no variation inside" and let yourself take the time to choose some better feeling words. okay? okay.
+
+---
+
+#### "I'm not plural, but [thing that is, come on, so fucking plural]"
+
+> **ANON:** I am not a system, but my internal dialogue is performed by a consistent set of voices with their own interests and peculiarities. Every thought I've had is spoken by one of them. They are fundamentally incomplete individually; together they constitute the single person sending you this ask.
+>
+> Reading your blog and thereby contemplating the idea of my internal greek chorus conducting their own relationships gives rise to one of the strangest emotions I've ever felt. I have no idea what to call it, or even if it's positive or negative.
+>
+> Thanks for making my life weirder!
+
+**AAA:** look anon you're completely allowed to call yourself a singlet but plural system configurations are definitely inclusive of one person comprised of many voices. it's such a common configuration that it's even got a nickname we never use (median). bringing urself to the plural label is completely ur decision but I wouldn't kick you out of a plural bar is what im saying. u can come sit at the table whenever u want. ur not a half-anything u've literally already identified the parts of you. usually that comes *with* using the plural word. if u wanna start admitting to ur closest people when someone said something funny inside that's cool. if it feels better for all of it to stay inside that's also cool. you can call either of those things plural. ok? ok
+
+---
+
+#### "Faking it for attention"
+
+> **ANON:** I feel like i want to explore being plural but i also dont feel like i understand it enough and i live in constant fear that im disrespectful, misunderstanding, and just faking it to feel special.
+>
+> I do feel like there is a disconnect in who i am at different times, the most jarring between me being ace and slightly sex repulsed normally and then suddenly just moments of extreme horniness. But i also just dont feel like i have continuity of character at all, like every version of me before and after Right Now This Moment is an entirely different person
+
+**???:** many many many systems are made to feel like they're "just faking things for attention". plural imposter syndrome is so common i don't think i know a single system who hasn't had to work thru it to some degree.
+
+you cannot disrespect other plural systems by exploring a potential plural explanation for your own experiences - it helps to be conscious of the variety of plural experiences out there and not expect everyone else's experience to be the same as yours, but that only matters for your interactions with other systems.
+
+if you're worried about misunderstanding plurality it always helps to listen to a variety of other systems' experiences, as usual **[this website]** is a good starting point but there's a lot to be gained from just hearing other systems' personal experiences too.
+
+splits between "very horny part of the system" and "not at all horny part of the system" are pretty common! plenty of systems have some headmates who are very dtf and others who want that shit kept far away from them. it's not unheard of as a kind of fluctuating asexuality either, but that doesn't mean you can't explore both possibilities.
+
+and yeah uhhhh. been there with the feeling like you don't have a stable continuous identity thing. for us plurality helped resolve a lot of that, both via providing more identity structure for us to glom onto and by helping identify patterns of identity that were already there. I can't guarantee it's what will work for you and plurality certainly isn't the answer to all identity problems. but like,
+
+these are all fairly common experiences for plural systems. i think it's worth exploring the possibility, especially if that's something you already want to do. 
+
+---
+
+#### "Does it ever get better?"
+
+> **ANON:** Dear mods... thank you for running this blog, and this ask might come off as desperate at first but it's really funny once you think about it in hindsight.
+> 
+> The thing is; I have alters, which have their own states of being, they can switch to the front and even some of them have their specific phantom sensation, some have their own writing styles, they have their own belongings in my room, their own social media accounts, we have a headspace, we have a subsystem AND they have their own headspace, I can talk to some in the headspace, we have shared and non-shared memories, in fact one of my headmates is reading this with me and yet...
+> 
+> I fear that one day it'll turn out that all of this is not real.
+>
+> Does it ever get better?
+
+**AAA:** Yeah, I think so. We still have the rare off day where we feel tinges of that "you're pushing it" or "surely this is a bit fabricated" feeling - especially when we're experimenting with something new.
+
+It's always a possible feeling, but i think it gets less frequent and especially I think it loses its bite - the different way I'm wording it probably shows some of that already.
+
+For one, external support is huge - someone who knows you who can smack sense into you when you're worried that experiences they've SEEN HAPPEN are somehow complete acts is a serious help. Hell, having someone that sees you at all takes such a weight off - if you're stuck being the only one seeing yourself/ves, it can take a real toll trying to stay confident in what you're feeling.
+
+But also, I think your definitions change? Your personal perceptions and experience actually matter a lot. Early on its easy to get caught up in this narrative of objective "realness" and be scared of delusions. But over time it's like - you are having this experience right now. you're there. you're in the experience, you're accepting it. you're talking to a gimmick blog on the internet about it. It's too late, you can't erase it anymore. If you say tomorrow you realised you're actually just a singlet, that's fine, but you will still have been plural today - not even you can take that away from you.
+
+Lastly, and this is gonna sound dumb but, just plain old exposure. We've been going for three years now and we've seen ourselves shrug off all kinds of junk. We've had fronts stick for weeks and completely forgotten what switching feels like, only to have it happen out of boredom or external stimulus and be shocked to feel the cog move again. We've repeatedly assumed things about ourselves only to then realise that we are wrong and that the system works differently to the way we think it does. At this point, suddenly being a singlet would be like starting from scratch - our being a system is so much of us, being "wrong" just isn't as thinkable.
+
+idk, I love us, and I think other people do too. try unrealize _that_.
+
+---
+
+#### "Plurality is a distinct thing"
+
+> **ANON:** It's so frustrating that I feel like I'm questionning plurality in the exact same way I questionned being trans years ago, just a constant feeling of "I can't be [plural/trans] because those people are actually cool and special while I'm boring and nothing like that and if I even try to question it I'll just embarass myself and I don't know enough about it anyway and I'll never know enough without talking to people like that and that just comes back to the embarass myself thing."
+>
+> except being trans was a matter of "If I want to be a girl I can be a girl" whereas plurality is a distinct thing I can't just decide I want to be so it's the same feeling and frustration but not the same easy solution
+
+**AAA:** \*ahem\*
+
+so anyway wanting to be plural is a symptom of being plural (wants have to come from somewhere, why not there?), being plural is a decision to interpret your own experiences as multiple or multi-part identities (for which there are many motivations, not just the one "distinct thing" you're thinking of), I as part of a system would like to personally implore you to question it (and don't think it's embarrassing to do so or be lost and confused about it)
+
+---
+
+#### "It's probably not fair to call you the angry one, huh?"
+
+> **ANON:** a few days ago I saw a post from someone else about how the only requirement for being plural is feeling like plurality is a helpful framework for you. at the time I thought, neat! I don't think that applies to me though. but today I had a moment where I was in an irritable mood for no real reason, and then realized that actually, I get a lot of randomly irritable moods where my needlessly snippy responses feel like they're not me. and I get other weird moods/modes, too. and also in the past I've become obsessed with fictional systems + wished to be a system. I proceeded to think more about it in the shower, thinking of the irritable-mood-potential-alter as 'the angry one', then thought: "it's probably not fair to call you the angry one, huh?"
+>
+> immediately felt myself disassociate in real time - like crossing my eyes or having the camera lens unfocus, except instead of my vision going blurry it was my thoughts. weird as hell. post shower I went to read more plurality resources, tried testing the notion of thinking of myself as single again, and felt strong resistance against it.
+> 
+> so. I might be plural? I feel like I'm always conscious, but sometimes someone else takes the wheel while I sit in the passenger seat. I wanted to tell someone about this realization, even if only anonymously. thanks for reading.
+
+**AAA:** Sounds like you're in for a ride anon, be nice to yourself if things get messy or confusing or difficult for a bit ok?
+
+But yeah, keep an open mind, step through various possibilities and see what clicks nicely, and as a favour to me, try not to judge anything inside your body at face value.
+
+You said you thought it'd be nice if you were or were in a system. Well, you're that system now, so. Be patient, and learn to look after yourself/ves and eachother - make it nice.
+
+---
+
+#### "internal _dialogue_"
+
+> **ANON:** im a system that just recently learned that they were a system; for as long as i can remember i have had an "internal dialogue", that is, every thought i've had has been commented on and discussed by another voice. only until very recently have i started considering that voice another person. and now she's my big sister! and i love her! she's protective and sweet and i wish i knew how to show her how happy she makes me. i'm not alone anymore and im so grateful
+
+---
+
+#### "are you a system if..."
+
+> **ANON:** Are you a system if sometimes you respond to your own rhetorical questions and switch between emotions and views on others really quickly, but like don’t hear other people in… i kinda do though… oh shit.
+
+---
+
+#### "contradictory advice?"
+
+> **ANON:** I feel like the biggest problem i have with whether im plural or not is that a lot of the advice just feels contradictory? Like when i ask someone what it's like to question if you're plural, I'm told that it's just a way to see yourself, and consider if your experiences make more sense when read as plural, which they absolutely do.
+>
+> But then the experience most plural people talk about is headspaces, talking between headmates, and fronting, which i don't experience, so at times it just feels like conflicting messages of whether plural is something i can be if it makes me happy (á la a label), or if its some specific experience and if you dont have that experience you're not plural (á la adhd). 
+
+**AAA:** People speak to what they personally experience a lot I think, and that perspective kinda colours the way they describe the significant bits. Like personally we don't have internal spaces, and we don't have internal dialogue. We do have switching fronts, but like. plenty of people don't.
+
+This specific diversity of experience is why we're seeing a rise of meaningful umbrella language. To reference **[this website]** - plurality is about identifying multiple "selves" inside the body, instead of just one. In inclusive circles, I think the remaining confusion stems from some people accepting a reinterpretation of themself/ves as plural, and going on to have some of these more singlet-incompatible experience as a result of that acceptance. It happens, it's just not universal.
+
+Hope that helps! 
+
+---
+
+#### "but like... how?"
+
+> **ANON:** hm, hi! been scrolling your blog for a bit and almost everything you've mentioned regarding your time before tapping into your systemhood is painfully relatable, but i've known this for a bit and i know it would be literally fine for me to explore this. but like... how? i just, don't know what or how to approach this (but tbf i keep procrastinating on this and could probably figure out Something myself, but), any advice? i literally have a discord server with just me, pk and a close plural friend lying around, i've just not done anything w it, lmao
+>
+> thank you for taking your time to reply.. means a lot to me :)
+
+**AAA:** honestly just. think about it. at some point you just kind of catch yourself in a state where you feel more connected to what you is than normal. and then just. wonder what might be.
+
+it doesn't have to be idly. it might be in the company of a friend or while listening to music or playing a familiar videogame. but yeah you just, trail your finger along your existence a bit and check for ridges. Follow scents and strings and see where they go.
+
+---
+
+#### "is it ok to want to be a system?"
+
+> **ANON:** i have always wanted to have an extra person(s) in my head... like... is it ok to want to be a system?
+
+**AAA:** thoughtcrime isn't real. You can think whatever you want. That said, wanting to be a system does usually mean *something*. Have a think about it, see what works and what doesn't. Worst comes to worst, you were chasing ghosts and just really needed a good hug. Doesn't sound so bad.
+
+---
+
+#### "obsessive research"
+
+> **ANON:** i thought i was a system for two years? i had imaginary, i guess, interactions with the "others" and did in fact dissociate a lot, not overly severely usually, i never like. felt like i was watching someone else pilot the body or anything. it never felt, like, concrete you know? and i did act differently as the different "alters" but i guess in the end i felt like i was just acting. and then i did more and more and more obsessive research about things and was like well. i guess i'm NOT a system. and i feel like im definitely not a system but damn if i don't still feel like... fragmented. what the fuck does this even mean.
+>
+> i still interact with the few that stuck around, but it's more like a form of talking to myself if anything. sometimes i feel more like them but i am still me, i still like the same things, and care about the same things, it just feels like some things about my attitude and general disposition change. hard to explain, it's odd. i just feel odd all of the damn time.
+
+**AAA:** Gonna be honest anon it sounds like you just hit the books a little too hard.
+
+A lot of people preach specific qualifiers for plurality but it doesn't mean all of them are any good. You've chosen to identify multiple inside things that form how you experience you - now come sit at the table.
+
+---
+
+#### "exactly one guy at a time"
+
+> **ANON:** Plural Hotline call! I do still consider myself a singlet, and will probably continue that But! I can definitely see someone else in the same situation calling themself plural. I am only ever exactly one guy at a time, but I do shift fairly regularly between a bunch of different guys in a way that is sometimes, but not always, discontinuous. It's based on who I'm with/the general situation I'm in/what clothes I'm wearing/etc. It's only ever one guy at a time, and the other guys don't exist when they're not me, they're not like in the backseat of my brain, they fully don't exist. I definitely feel like realizing that I am multiple separate guys has been very helpful to me, but I think promoting the ability to be multiple guys At Once would probably be more effort than it's worth, for the benefits I would get out of it? But I guess maybe it could be helpful enough to be worth it? Idk
+
+**AAA:** look there's nothing wrong with being guy-fluid but yknow if it's productive to identify the selves you cycle through as their own people, even if they don't exist at the same time, that's still a plurality to me. even if it's completely linear and you're never the same person twice, I still feel like you'd meaningfully benefit from engaging with other systems, like and unlike you, and applying plural advice to your personal circumstance if you find anything useful.
+
+---
+
+#### "being referred to in a plural way"
+
+> **ANON:** hiya, don't know where else to throw this but. recently realized that being referred to in a plural way is,,, very nice,, (using we, being called darlings and puppies by those close to me (us?)) and this has been really interesting to feel and experience, especially since I had already been using we occasionally for a while before hand? talking to myself too but idk how unique that is to plurality..
+> 
+> this is a bit of a ramble but point is; very unsure, don't know if any of this means anything, and don't know how to find out if it does. need to do something to try and figure that out so; why not throw this here...?
+
+**???:** oh we had 100% started sometimes using "we" or other plural language about ourself before we figured out we were plural lol
+
+and you're 100% allowed to experiment with that stuff or ask friends to use it for you if it feels good. regardless of if that leads to a plural self-conception down the line.
+
+being plural? awesome
+
+being a singlet but using plural pronouns and shit? awesome
+
+like. it probably means something. being referred to in ways that gesture at multiplicity feeling good probably means that reflects some way you are, or want to be treated or percieved. but it's yours to explore and decide the degree to which that does/doesn't change how many people all of you think you are.
+
+---
+
+#### "but it's not like..."
+
+> **ANON:** hey, I’ve been talking to people in my head but sometimes they feel more faint and sometimes they’re voices are less loud. They also have bad consistency, sometimes I make a deal with them and they completely forget it. They also don’t talk to me naturally, sometimes they comment on things but it’s not like there’s a hundred voices talking to each other, in fact, they barley ever talk to each other—only to me. They never/barely ever fully front and only co front. Do you think I am a system or is my mind just gaslighting me?
+
+---
+
+#### "idk if i should worry about this"
+
+> **ANON:** had the weirdest experience yesterday where i uh. got stressed out and responded by acting like i was a whole different person? like i fully felt like 'yes i am a completely separate person', went around taking care of shit, and reaching out to a system i know to say 'hey im wondering if i might be plural'. which is uh. weird. and right now i'm like hey. hello. (i can still remember doing everything, i didn't black out. but yeah. idk if i should worry about this or no)
+
+**???**: this is definitely a kind of plural experience we have had, repeatedly even. if ur already reaching out to other systems for support I don't think you need to worry. but that's definitely an experience worth exploring thru a plural lens. im sure there are singlets out there who feel like they go into a different "mode" to handle tasks when stressed but, like, it's a very common kind of plural experience. best of luck!
+
+---
+
+#### "which ones are NOT me"
+
+> **ANON:** Okay so looking at your blog has made me start to realize that consistently experiencing every thought I have as a conversation between two or more people is probably Not Singlet Behavior. And I’ve spent a long time sort of envying systems or feeling like I’m supposed to discover my own plurality one day. So your advice about trying out plurality and seeing how it feels to interpret oneself as a system is helpful. But I feel like I’m running into a roadblock because I have no idea where to draw the line between which internal voices are the same as one another and which are distinct. Is the voice that pops in to give words of encouragement the same voice that argues with me about what to have for dinner? Or are those two different people? And since I spent so long interpreting all of these voices as simply “me”, how do I decide which ones are NOT me and are actually someone distinct? And which voice do I get to claim as myself? Idk. It’s all so confusing. Thank you for being here, this blog has been helpful ❤️
+
+**???:** while you might find patterns in specific voices opinions, preferences, etc. and use those to try and assign stable identities. i think it's also worth thinking about medianity as a possibility - if all the voices feel like you, but they exist more fluidly rather than as stable or fully seperate individuals, that's also a totally valid experience of plurality.
+
+basically, look for patterns and try assigning names to voices you want to keep track of, but don't force yourself to fit one idea of what being plural should look like.
+
+---
+
+#### "self-sabotage"
+
+> **ANON:** i think i might be plural, and i think it’s a good idea to get to know the others better, but right now, i’m sort of always in control, even if they’re fronting.  i’m scared if i let them develop more and think of themselves as more independent, this won’t be the case, and i don’t want to lose my control or my continuity of memory, but i don’t want to self-sabotage the unit by intentionally starving parts of my brain, either. do i just have to take the risk?
+
+**AAA:** I think "plurality is like when aliens take over your brain and you get to use it and your body less and less" is one of those deliberately flawed interpretations of systemhood cooked up by people intent to undermine plural voices via shock value.
+
+When you accept your own plurality, the definition of "I" changes. I think a lot of people think that this is conditional, that this isn't always true: I think it's always true. Some, if not many properties you once associated with "I" shift over to "we". Even if your sense of self feels contiguous and undivided, and you keep your name and pronouns as a member of your own system - "I" has changed.
+
+Yes, it is functional, useful, to speak of many pluralfolk as multiple people. But we do not exist at this extreme any more than we exist as singlets. Your headmates are always a little bit you, and you are always a little bit your headmates - and that's okay. You can still have your own experiences, have your own feelings, but there is a thread that connects you. As much as the symptoms of that very system to system, it's always there. That's why acceptance of systemhood is a leap of faith - you're releasing the death grip on what you (your system) is capable of experiencing, and being scared that thread isn't there, hoping it'll keep you grounded when you need it.
+
+*ahem* anyway outside of philosophising, contiguous memory is a matter of system configuration, not of acceptance. Either you already have weird gaps in your memory wherein accepting and working with yourselves as a system can help make that experience more workable and comfortable, or you don't and (realistically) you won't - at least not in the way you're imagining.
+
+---
+
+#### "probably a singlet"
+
+> **ANON:** Ok so I'm probably a singlet but I do have some other beings in my head
+
+---
+
+#### "me who is not me"
+
+> **ANON:** I am not a diagnosed system and my psychologist thinks it's just my BPD being BPD, but ever since I could remember there were voices other than mine in my head and everyone instinctively had their own "appearance" and personality and our views have clashed in the past and they clash even now, which is a bit of a problem because the other ones (I call them "the Me who is not me" and a number because "Me" is what people perceive us as but "me" is me as an individual and since we're all in this body, we collectively form what people perceive as "Me" but none of the voices have anything to do with me as an individual. But I digress.) sometimes have control over the body and our actions. we don't really do it anymore but when we were younger and we'd get into an argument with ourselves, sometimes the visual image of us having the argument in our head would devolve into a really wild make out session.
+>
+> Anyway we don't do that anymore because as I said I'm not a system as far as I know. But anyway hope this random blurb finds you well.
+
+**???:** if there's a "me that isn't me" in ur head, u instinctively have different appearances, personalities, disagreements, and can switch control of your body...
+
+"I'm not a system" is probably a counterproductive belief to hold.
+
+You can just call yourself a system, look into what tools and strategies other systems find useful and try using them yourself. Someone formally diagnosing you isn't necessary.
+
+You're describing extremely familiar experiences to lots of systems i know. And yeah I think you should try making out with your headmates again and see how you feel about it.
+
+---
+
+#### "relinquishing control"
+
+> **ANON:** I've heard voices throughout most of my life, but every time, I've allowed myself to lean into the idea of system acceptance... Everything gets chaotic, and my life gets out of sorts. It's like everything is in perfect order when I just ignore them, but as soon as I allow myself to relinquish any semblance of control....it suddenly becomes a dissociated and confusing tailspin.
+> 
+> I want to accept this, to listen to them. But I worry that my entire-life will suddenly veer off track, I still feel as though that's inevitable.
+> 
+> I guess I'm asking for some pointers or advice? Is the chaos something I should just accept? At the risk of sounding juvenile; is it supposed to feel...cringy? But also natural? And scary? Is this what a system is supposed to feel like?
+
+**AAA:** let's start easy - yeah, it'll feel cringe, juvenile even, to allow and accept your own plural experiences. yeah, it's scary to loosen a vicegrip on what "you" means. and yeah, despite those things, there's something familiar and automatic about letting your sense of self inhabit all the spaces it's always wanted to sit within, instead of just those that are practical to inhabit simultaneously.
+
+i think this is where you have to start - with feelings. "what if x happens" is contextless - how do you feel? There's nothing wrong with coming away with any specific result here - you work with your feelings until one way makes sense.
+
+The last thing that's important to remember is that you've had decades of practice for being a singlet. Early systemhood can be all kinds of messy because that practice isn't fully transferable - you have to relearn some things (masking, self-care, intimacy...) partly from scratch.
+
+Apply rational thought to erode those knee-jerk insecurities, and then start trusting your gut. Allow yourself a mask for function, not for denial. Learn what "this feels good, but I'm judging myself" feels like, learn what "this is exciting, but we're stretched too thin and need to recenter" feels like. Find ways to ground yourself. Find ways to back out. Acceptance is a leap of faith, yes - but living as a system is something you can take as slow as you need to keep yourselves safe and see what's right for you, if it's right for you. 
+
+---
+
+#### "called out for them to wait"
+
+> **ANON:** ok. i am asking for advice. when i was much younger, preteen-tween age, i imagined my 'self' as a committee of selves that had different roles and mannerisms. that faded as i grew older, and i didn't really 'hear voices' as much as i sometimes had arguments or conversations with a sort of mirrored version of myself that usually mentioned how they 'had to go' very quickly after they were done with. whatever they were doing. and that was just kind of The Way Things Were Done around here.
+> 
+> but now, more than 15 years later, i heard that voice saying they 'had to get out of here', and i called out for them to wait. and they did. and then She was someone else, like a fog cleared. and then She left. and that keeps happening, i'll be minding my own business, i'll hear a murmur of a thought, and i'll ask them to hold on, not to leave- and then they're people. i've even seen Her again a few times, and one of the others took the reigns when i was having an extremely stressful moment! but i don't think any of them have stuck around for very long.
+> 
+> i've been nervous to bring this up to my friends who are plural because- like, this sounds fake, right? having like, blips of plurality even though most of the time i'm pretty alone up here with my radio (the radio might also be someone else? it doesn't talk to me often though so i still feel lonely). and even though i can distinguish them and some of them are VERY different, i. i've never felt like, the disconnect of 'there's someone else in my head'. i've always seen them as, me, but not in the sense of 'yes that is myself' but in the sense that, if they Are here, we're all united under one banner. they are 'i' because they're all working together with me to be 'i', so there's no reason to think of them as outsiders. even if 'my' opinions or feelings change suddenly, even if its seemingly without cause, there IS a cause- they are 'i' just as much as i am. but people have said that's. not plural? when i tell them that? so i'm really second guessing myself.
+> 
+> i'm worried, is all. do you have any advice?
+
+**???:** "they're all me, we work together to be 'i'" is like. textbook for what a lotta folks would describe as a "median system". something where the parts involved don't see themselves as fully seperate personalities but aspects of one larger self.
+
+nothing you've said here sounds "fake" to me at all. to be perfectly honest
+
+we personally find we shift back and forth between having strong distinctions between each other and our different senses of self. and acting more like a combined self where the handoffs between different headmates are less distinct and more fluid.
+
+there's a wonderful range of plural experience and someone going "that's not plural" because it doesn't fit what they've seen or experienced is being kind of a dick.
+
+having folks who only pop into front or communicate infrequently is a common enough experience too. I genuinely think if none of you is unhappy with the current state of things; the way you communicate, how your plurality functions, then there's nothing for you to worry about.
+
+what you might find helpful, is trying to make more space for communication. If you feel lonely up there, wish you heard from folks more, sitting down and giving yourself time and space to try and communicate thru whatever methods feel most natural could be a good idea.
+
+In the course of that you might find how you function as a system or how you conceptualize yourself shift somewhat. But it's also totally fine if it doesn't. Your plural experiences are yours, and they don't need to fit anyone else's expectations.
+
+---
+
+<3 
+
+-S
