@@ -1,5 +1,6 @@
-# Plural Affordances
-## An essay on plural communication practices, and the design concerns therein
+## Addendum: Plural Affordances
+
+### An essay on plural communication practices, and the design concerns therein
 
 When reading posts online, I often find myself imagining the speaker as the avatar they use to represent themself. This varies depending on platform and how representative a particular profile picture is, and I can work against this habit, but it is at least partially an instinctive response for my brain.
 
