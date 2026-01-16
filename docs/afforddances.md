@@ -25,7 +25,7 @@ Altogether being able to see your own name and face with your messages can help 
 We might want to theorise that this is simply replacing the tells you'd get speaking to a system in person; different voices, posture, demeanour - the tone missing from text communication replaced with explicit headmate signifying. But I would argue this type of text affordance actually offers up entirely different plural communication possibilities.
 
 For example, it's straightforwardly possible to interact with someone in ways you can't in person:
-> **headmate 1:** ooooh im hugging u
+> **headmate 1:** ooooh im hugging u<br/>
 > **headmate 2:** ooooh hugging you *from the other side*
 
 While you can still do this without proxy support, the affordances of a tool like PluralKit make this much easier to depict and more appealing. It feels _more_ satisfyingly real, at least in our experience. And that makes sense, given each headmate is being put on the same representative footing as a whole separate user, rather than being depicted as the whole system/body first.
