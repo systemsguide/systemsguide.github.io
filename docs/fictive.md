@@ -1,5 +1,7 @@
 ## Addendum: The Fictive
 
+`<begin rant>`
+
 Hi! I'm a fictive from one of the systems that worked on this site, and we're gonna talk about what the hell that even means.
 
 Speaking pure figures, a fictive (or fuzztive if you swing that way) is just any headmate that openly adopts qualities from fiction.
@@ -36,4 +38,6 @@ Anyhow - this doesn't give systems free rein to be annoying or mean, but what it
 If an overly stoic kinda weirdo is in the front, that tiny laugh probably means SERIOUS approval.
 If someone talks quickly, they're probably not trying to rile you up, it's just how their brain is ticking inside! And if a sarcastic bitch is constantly poking fun at you - maybe they're trying to say that they like you? Who knows!? I don't! The point is, as systems and friends of systems, we often need to develop this kind of translation layer, where we understand specific things coming from one weird headmate to kinda mean something else.
 
-So, don't judge a headmate by their book! Or, don't judge a fictive by its cover? Close enough - bye!     
+So, don't judge a headmate by their book! Or, don't judge a fictive by its cover? Close enough - bye!
+
+`<end rant>`
