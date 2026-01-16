@@ -7,7 +7,7 @@ I'm aware this does not hold for everyone - many people make choices with their 
 
 The thing about plurality however, perhaps its defining feature, is a distaste for holding a singular stable identity. While it is possible to simply change features of your online presence along with each change in identity, any frequent switching between repeated states gets annoying.
 
-Hence, tools like PluralKit ([https://pluralkit.me/](https://pluralkit.me/)) emerge, hacking existing communication tools (in this case Discord) to represent multiple identity states.
+Hence, tools like [PluralKit](https://pluralkit.me/) emerge, hacking existing communication tools (in this case Discord) to represent multiple identity states.
 
 ![A discord screenshot: user "twilight (she/her)" says "wow this is so convenient". user "vriska (she/it)" says "much simpler than updating your profile every time you switch". twilight's avatar is an image of the character twilight sparkle from my little pony friendship is magic. vriska's avatar is an image of the character vriska serket from homestuck. both users have the "APP" tag, indicating their messages have been proxied by pluralkit.](/img/plural-affordances-1.png)
 
