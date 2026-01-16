@@ -1,4 +1,7 @@
-# Front Attitude Calibration
+## Addendum: Front Attitude Calibration
+
+### An essay on the interpretation of a switching/speaking system
+
 If you are interacting with plural systems, you should be, at a baseline, expecting system members to behave differently from each other. This means calibrating your expectations differently for each headmate, which then requires some effort to figure out or ask who you're talking to.
 
 The most common way to encounter this reality tends to be with fronts that are ruder or more hostile than average. While it's important to respect the boundaries of people your system interacts with, sentiments like "I don't like that alter they're scary/mean/rude" or "i miss the other you who was more affectionate" from bad allies, are frequently a result of simply failing to do this calibration.
@@ -17,5 +20,7 @@ While it's inevitable to hit some front mismatches, or miss a switch that requir
 
 This will both make it easier to interact with rougher headmates ("the girl with the crude sense of humor told me to suck her dick but i know that means she trusts me and feels comfortable here") and make you safer for the gentler ones ("oh the age regressor is in front again, I'll shelve the heavy discussion for later and get out a plush so they can manage this state better"). Eventually, building your instincts for these differences in attitude can allow you to recognise specific headmates by them, or even more general tendencies within a system. And these skills can transfer, learning to meet singlets where they're at too - plural experiences here aren't unique, simply heightened in comparison to the singlet equivalents.
 
+---
 
-\- mk
+-mk
+
