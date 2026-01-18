@@ -17,6 +17,7 @@ Having the ability to directly and easily associate different images and names w
 ![A discord screenshot: the user "plural system" posts an emote depicting twilight sparkle followed by the text "< you can do a hackier equivalent of this with emotes but it's kinda mid". the user's avatar is the plural journey flag](/img/plural-affordances-2.png)
 
 The difference in expressive possibilities here becomes obvious if you spend much time in plural spaces;
+
 - Users who proxy as the wrong person will frequently comment on how wrong it feels seeing a message come from someone else's "mouth" especially when it would be out of character for them.
 - On the other hand, a message being proxied can help cement a weak front, or even pull someone _into_ front (in the case of a misproxy).
 - Even in person, sometimes switching to communicating over a text chat with proxying can help elucidate fronts, or include a back and forth between headmates in a way that's harder to communicate verbally with the one mouth.
