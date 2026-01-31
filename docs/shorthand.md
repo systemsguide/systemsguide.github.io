@@ -153,7 +153,7 @@ It's not a moral issue for a kid to want to regurgitate a bunch of funny memes t
 
 The principle that headmates do not always look like the body has an often uncomfortable implication that we do have to address before we can finish here - sometimes people's headmates look like a different race to their body.
 
-While there are nuances to self perception, and many systems have some degree of choice on how they conceptualise themselves (a fictive might choose to distance themself from elements of their depiction deemed racist, for example), that kind of control does not appear to be absolute and universal. Bottom line, these identifications do and will exist, whether we like it or not.
+While there are nuances to self perception, and many systems have some degree of choice on how they conceptualise themselves (a fictive might choose to distance themself from elements of their depiction deemed racist, for example), that kind of control does not appear to be absolute. Bottom line, these identifications do and will exist, whether we like it or not.
 
 It's important here, to make sure we have some distinctions clear;
 
