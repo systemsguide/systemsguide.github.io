@@ -7,7 +7,7 @@
 
 ## Foreword
 
-*The arguments that follow are the result of 4 years of experience in a variety of plural spaces online. I hope to elaborate a specific perspective on plural identity here, but also to cut through the confusion created when we use the same words to discuss both personal identity and material relationships to oppression. If you find me too kind/too harsh to a given perspective, consider we may be responding to different people or communities, who may have put forward these views in vastly different ways. I am trying to forge a path through some very difficult terrain here, and I hope you will take my writing in good faith.*<br/>
+*The arguments that follow are the result of 4 years of experience in a variety of plural spaces online. I hope to elaborate a specific perspective on plural identity here, but also to cut through the confusion created when we use the same words to discuss both personal identity and material relationships to oppression. If you find me too kind/too harsh to a given perspective, consider we may be responding to different people or communities, who may have put forward these views in vastly different ways. I am trying to forge a path through some very difficult terrain here, and I hope you will take my writing in good faith.*
 *\- mk*
 
 ## Intro: Language, Metaphor and Identity
@@ -18,7 +18,7 @@ Yet language is inexact and polysemous. To say that I have a particular identity
 
 Metaphorical uses of language, and the shorthands they create, are central to a number of contentious questions of identity within plural and nonhuman spaces. It is my hope that by outlining these subjects and our approaches to them, we can help other systems avoid a number of painful arguments and misunderstandings we have either borne witness to or experienced first hand.
 
-## Part 1: Furry Philosophy
+## Part 1: Furries
 
 _"A girl says her boyfriend is "a golden retriever". Is she simply gesturing at a particular set of affable personality traits? Or is he a furry, who presents online with an anthropomorphic depiction of the animal? Does he adopt more behavioural traits, ask for pets, wear a collar, eat from a bowl? Is he a therian and holds some spiritual or metaphysical belief in his golden retriever-ness?"_
 
@@ -36,7 +36,7 @@ One blessing for communicating these kinds of shorthanding accurately is the too
 
 These principles, which I first observed in furry communities, are why I choose to use "furry" as my core theoretical tool of analysis here - preferring to centre interaction over more metaphysical identity-focused terminology. This is also a basis I carry with me into discussions of identity play and other queer or non-normative identities generally. Having established this groundwork, we can move further into these discussions.
 
-## Part 2: Fictive Philosophy
+## Part 2: Fictives
 
 Much of the preceding discussion of furry identity also applies to those who identify with/as a fictional character. However fictives are often treated with significantly more suspicion and apprehension than those with non-human identities - often incurring accusations of outright delusional thinking.
 
@@ -52,7 +52,7 @@ Having spaces where fictives can be open with their identities like this, withou
 
 And these kinds of identity are in fact normal. On smaller scales people appropriate pieces of identity from media all the time. Buying the cool jacket you saw someone wear in a movie, naming yourself after a character you liked, dyeing your hair, getting tattoos or piercings to look more like a girl you thought was cute, emulating or avoiding the decisions of a character in a story - all of these behaviours are essentially mundane. We live in a cultural milieu of both media and other people from which to form our identities, where subcultural styles like "goth" or "punk" can coalesce around particular media and a collection of aesthetic signifiers. As such, it is hardly a shade stranger to watch the development of a "furry" aesthetic, or to see a confluence of girls all identifying as "twilight sparkle".
 
-## Part 2.5: The Factive
+## Part 2.5: Factives
 
 The apprehension felt around fictive identities is only magnified for headmates identifying with real (living or dead) people - often referred to as "factives" or "introjects". While our prior discussion of fictives still largely applies here, and any identification will naturally be an act of reading based on ones own perceptions, this can actually create greater hostility. To claim to in some sense "be" another person, who you only know through a limited view into their life, is often treated like a highly disrespectful kind of "playing pretend".
 
@@ -62,7 +62,7 @@ There are some reasonable concerns when it comes to navigating factive identity.
 
 Knowing you affected someone else in this way can stir up a lot of complicated feelings, but having an influence on other people's identity formations is a really special thing. Avoid getting an ego about it ("I made you this way" tends to suck no matter the realisation you helped with), but understand it as a natural part of living as a social animal, and the sharing of such information as an act of deep trust.
 
-## Part 3: Age Regressor Philosophy
+## Part 3: Age Regressors
 
 There are a myriad of reasons one might identify with an age different to the age of their body, but what this identification is taken to mean varies a lot, especially across different communities.
 
@@ -84,7 +84,7 @@ What's important in these discussions is to take care and be clear about what we
 
 Fundamentally the choice of how to treat a system's experience of differing age feelings is their own to make. But with any discussion of the complex intersections of sexuality and this felt age, its important to avoid kneejerk disgust and be clearheaded about what does and does not constitute material harm.
 
-## Part 4: Family Philosophy
+## Part 4: Family
 
 The use of familial terms to describe headmate relationships holds much in common with the preceding discussion of age.
 
@@ -94,7 +94,7 @@ The shorthanding or metaphorical element here is clear – biological relations,
 
 At the same time it's hard to ignore the elephant in the room here - kink. The same closeness that can create familial feelings between headmates often also leads to sexual relationships, and where these intersect it can often be in the form of incest roleplay. Even if the familial terms are never involved in sex for a pair of headmates, mentioning both aspects of a relationship may invoke the association in others. This can lead to situations where systems feel like they can only disclose either the sexual/romantic parts of their relationship or the familial, rather than risk disclosing both and making someone uncomfortable with information they can't take back. Both these aspects of headmate relationships can have deep importance, and omitting parts of them from explanations of your system may feel like giving someone an incomplete picture. Yet discomforts with the blurring of the two are also understandable.
 
-This dilemma is not unique to plurality however - many singlets have important kink relationships in their lives and similarly have to tiptoe around describing them. While the malleability of identity in kink roleplay can facilitate self exploration, the relationships formed this way often permeate beyond the scene itself ([Hale 1997](#References)). While a role like "daddy" or "pet" might have a sexual context within a scene, aspects of such a role might continue entirely non-sexually outside of such (similar to calling one’s partner “baby”). These relationships can become extremely significant and important in someone's life, as with similar relationships within systems.
+This dilemma is not unique to plurality however - many singlets have important kink relationships in their lives and similarly have to tiptoe around describing them. While the malleability of identity in kink roleplay can facilitate self exploration, the relationships formed this way often permeate beyond the scene itself ([Hale 1997](#references)). While a role like "daddy" or "pet" might have a sexual context within a scene, aspects of such a role might continue entirely non-sexually outside of such (similar to calling one’s partner “baby”). These relationships can become extremely significant and important in someone's life, as with similar relationships within systems.
 
 We should accept that it may be important to recognise a 24/7 relationship with a day collar in the same way we do a marriage with a wedding ring, and not stigmatise such practices. A similar degree of understanding must also be given to pets and their owners, mommies/daddies and their littles, and so on. The relationship need not be 24/7, allowing for fluid identification as needed (often who needs to be the kid getting cared for flips back and forth in my relationships and system). And while there may be discomfort or triggers associated for some, accommodating this can happen on a case by case basis, avoiding foregrounding or referring to these relationships where necessary, or adjusting what language is used depending on the rules or needs of a space. What is crucial is making sure there are spaces where these relationships can be talked about openly, normalising their existence rather than banishing them to a realm of unspeakable stigma.
 
@@ -106,7 +106,7 @@ When reasoning about trans identity and gendered oppression, from a specifically
 
 The same procedure may be denied to a trans youth but pressured onto an intersex youth, based on which genders the medical, legal and social systems around them have decided they each should be. This is the process of gender assignment.
 
-At the same time, how someone transgresses the gendered order is perceived differently based on the nature of the transgression. Feminine gender expressions are devalued, associated with artificiality, and thus transfeminine gender expressions are most strongly marginalised within society. This is the phenomena of transmisogyny ([Serano 2007](#References)).
+At the same time, how someone transgresses the gendered order is perceived differently based on the nature of the transgression. Feminine gender expressions are devalued, associated with artificiality, and thus transfeminine gender expressions are most strongly marginalised within society. This is the phenomena of transmisogyny ([Serano 2007](#references)).
 
 On a personal and a practical level, as a transfem system, while some of our headmates identify as boys and have corresponding self images, our body being transfeminized makes all of us subject to institutional transmisogyny. We know the history of how bodies like ours have been simultaneously fetishized and reviled, and that people like us are more often than not the primary target of trans panics.
 
@@ -165,7 +165,7 @@ Take the case of a white US-American system with a "black" headmate. While their
 
 Simply put, experiences of racialization and culture exist irrespective of internal appearance and identity. "Is my furry headmate white? I mean they're not even human" is a confusion solved by simply separating your concept of "race" from how someone looks.
 
-Keeping a clear head about these distinctions when discussing these topics is essential. If we know which things we're referring to and everyone involved is on the same page, shorthanding around racialized features may be possible, similar to how we conceptualised gender. But it's again important to be conscious of how and where you invoke these shorthands, and I'd advise greater caution here. It would be obviously inappropriate to use a headmate's appearance as an argument for your epistemic authority in discussions of race, but its also important to avoid appearing to trivialise these matters more generally.
+Keeping a clear head about these distinctions when discussing these topics is essential. If we know which things we're referring to and everyone involved is on the same page, shorthanding around racialized features may be possible, similar to how we conceptualised gender. But it's again important to be conscious of how and where you invoke these shorthands, and I'd advise greater caution here. It would be obviously inappropriate to use a headmate's appearance as an argument for your epistemic authority in discussions of race, but its also important to avoid seeming to trivialise these matters more generally.
 
 This is also where the prior discussion of optics and "bad looks" becomes important. The question of, say, how a fictive of a character from another culture should present, is mostly one of pragmatics. Using a name from a culture that is not your own, artistic depictions of yourself as a race other than your body - these may all be possible in contexts with close friends who are on the same page as you with regards to these issues. But in broader public spaces its often going to be necessary to adjust your behaviour, to avoid seeming to present yourself as a race/ethnicity you are not. It can suck as a fictive, identifying strongly with your canon depiction, but needing to choose e.g. alternate names to use in more public spaces, so as not to unintentionally deceive acquaintances and come off like a white girl race-faking online, but this is inevitably worth doing.
 
@@ -193,9 +193,11 @@ The question of how to square these realities is simply another variation on our
 
 A "deaf headmate" in a hearing system will need to be respectful in their interactions with Deaf culture and learning sign languages, as any hearing person would.
 
-## Part 8: Fatness
+## Part 8: Fat
 
 [WIP]
+
+## Conclusion
 
 ## References
 
