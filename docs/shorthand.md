@@ -2,7 +2,7 @@
 
 > *On Shorthanding* is a multi-part feature essay on the minutia of headmate identity, the language used to articulate it, and how to reconcile this with the world around us.<br/>
 > We recommend it to those seeking clarity on these topics, but acknowledge that it goes beyond the scope of relevancy for a casual reader with little exposure to living, breathing plural systems.<br/>
-> **Discussion of sensitive topics (sexuality, kink, oppression, abuse) lay within**, as is essential in addressing these nuanced concerns in full.<br/>
+> Discussion of sensitive topics (sexuality, kink, oppression, abuse) lay within, as is essential in addressing these nuanced concerns in full.<br/>
 > -S
 
 ## Foreword
@@ -169,7 +169,7 @@ Keeping a clear head about these distinctions when discussing these topics is es
 
 This is also where the prior discussion of optics and "bad looks" becomes important. The question of, say, how a fictive of a character from another culture should present, is mostly one of pragmatics. Using a name from a culture that is not your own, artistic depictions of yourself as a race other than your body - these may all be possible in contexts with close friends who are on the same page as you with regards to these issues. But in broader public spaces its often going to be necessary to adjust your behaviour, to avoid seeming to present yourself as a race/ethnicity you are not. It can suck as a fictive, identifying strongly with your canon depiction, but needing to choose e.g. alternate names to use in more public spaces, so as not to unintentionally deceive acquaintances and come off like a white girl race-faking online, but this is inevitably worth doing.
 
-It's not a bad thing to identify with works from, or aspects of, another culture. And I don't believe plural systems, fictives, or factives, are any more prone to being disrespectful than singlets are. For any system playing too fast and loose with names they liked from an anime, or cultural practices they lack a claim to, there's a singlet who's also become obsessed with that culture and engages with it in similarly inappropriate ways. The only difference is the plural system has specific headmates to pin these behaviours on. There's certainly plenty of white rap fans singing along with the n-word, wearing dreadlocks, or picking up aspects of hip-hop style without needing to claim they have a black headmate - some of these are obviously inappropriate behaviours, some require a level of discernment about an individuals distance from, or engagement with, the culture who's styles they are emulating.
+It's not a bad thing to identify with works from, or aspects of, another culture. And I don't believe plural systems, fictives, or factives, are any more prone to being disrespectful than singlets are. For any system playing too fast and loose with names they liked from an anime, or cultural practices they lack a claim to, there's a singlet who's also become obsessed with that culture and engages with it in similarly inappropriate ways. The only difference is the plural system has specific headmates to pin these behaviours on. There's certainly plenty of white rap fans singing along with the n-word, wearing dreadlocks or cornrows, or picking up aspects of hip-hop style without needing to claim they have a black headmate - some of these are obviously inappropriate behaviours, some require a level of discernment about an individuals distance from, or engagement with, the culture who's styles they are emulating.
 
 There are nuances to these matters too. Racialized systems may have more leeway when identifying with the dominant culture (a "white girl headmate" is more clearly a claim to identification with dominant cultural tropes than to a *lack* of racialization), but should still be cautious around identifications with differently racialized groups. For mixed race systems, or those who've been raised cross-culturally, there may be genuine cultural connections to multiple different groups, which may express themselves across different headmates (e.g. some headmates speaking a mother tongue better than others). What matters is having sensitivity to the cultures you're engaging with, and being authentic and open about your own experiences.
 
@@ -177,30 +177,50 @@ Negotiating these dynamics is inevitably hard, and each system will have to find
 
 ## Part 7: Disability
 
-[WIP]
-
 Differences between internal identities and a system's body also come into play for discussions of disability. It's not uncommon for headmates to have differences in height, limbs, or sense organs, and while this is largely unproblematic for the 40ft tall eight-eyed dogtaur, it can become a point of discomfort where it aligns with real world disabilities.
 
-Mismatches between body and sense of self *can* be really painful. Dysphoria about height. Wishing you had non-human features like a tail or claws. Any feeling of wrongness like this is deeply personal and sensitive.
+Mismatches between body and sense of self *can* be really painful. Dysphoria about height. Desires non-human features like a tail or claws. Outright alienation from a "human" body. Any feeling of wrongness like this is deeply personal and sensitive.
 
-But, while the 10cm tall faerie can use this language to describe her idealised size with ease, a headmate closer to 4ft, who's body is taller, will have to contend with the fact there are many people that height, some of whom are adults who've faced significant discrimination due to their stature.
+But, while the 10cm tall faerie can use this language to describe her idealised form with ease, a headmate closer to 4ft, who's body is taller than this, will have to contend with the fact there are many people that height, some of whom are adults who've faced significant discrimination due to their stature.
 
-A headmate who's self conception lacks vision may find their body's sight actively painful, but significant vision impairments are disabling within society, and its important to be sensitive to this fact.
+Phantom limbs can hurt, and many systems' headmates limbs differ from their bodies'. The werewolf headmate can wear a tail to substitute for missing sensations. The headmate who's form lacks legs, in an able-bodied system, has to be sensitive to the experiences of those with disabling limb differences.
 
-Phantom limbs can hurt, and many systems' headmates limbs differ from their bodies'. The werewolf headmate can wear a tail to substitute for missing sensations. The headmate without legs in an able-bodied system has to be sensitive to the experiences of those with disabling limb differences.
+A headmate who's self conception lacks vision may find their body's sight actively painful, but significant vision impairments are still disabling within society, and its important to remain sensitive to this fact. Similarly, a "deaf headmate" in a hearing system still will need to be respectful in their interactions with Deaf culture and when learning sign languages, as any hearing person would.
 
 The question of how to square these realities is simply another variation on our prior discussions of shorthanding. Distinguish between internal perceptions and physical impairments. Be more careful where your language could be ambiguous as to which it refers. And talk to those in your life affected by the discrimination at hand.
 
-A "deaf headmate" in a hearing system will need to be respectful in their interactions with Deaf culture and learning sign languages, as any hearing person would.
+## Part 8: Fatness
 
-## Part 8: Fat
+### 8.1 In Society
 
-[WIP]
+When we talk about differences between headmates internally felt appearances and their systems' bodies, these matters exist on a spectrum. Race is a matter of lived experience that may shift contextually as someone moves through different cultural contexts, but is relatively static. Disability is a category many people enter at different points in their lives, but can also be lifelong. Species is essentially fixed, but good allegories and communication can shift perceptions. Gendering is deeply malleable, and often the way someone is gendered is simply down to a handful of cues the people around them have learned to make predictions from. So where in this should we place the category of "fat"?
+
+People who's bodies are deemed unacceptably "fat" are discriminated against in all layers of society. From large scale issues of medical neglect, clothing and the built environment rarely considering the needs of fat bodies, to bullying, harassment and abuse in interpersonal contexts. Many people are fat their whole lives, and most attempts to change this are actively harmful.
+
+Yet this category *is* malleable. Definitions of "fat" are not fixed, with many people leaving the category and many more entering it at any given time. It is also, straightforwardly, not wrong to want to *become* fatter. Intentional weight gain, be it for eating disorder recovery, weight gain kink, or any other reason, is just as beautiful an act of bodily autonomy and self-creation as gender transition or body modification (including for species affirmation).
+
+### 8.2 In Kink
+
+With kink based weight gain, there's a line to be walked between these tensions. Lots of fat fetish art deliberately plays with negative tropes associated with fatness, depicting it as gross, unhealthy, or a result of poor diet and lack of exercise. Bringing these tropes around your fat friends, who have likely experienced discrimination over their weight, or at least lived in the cultural milieu in which fat people are the butt of the joke across most popular media, can easily be rude or outright triggering. But not all weight related kink art is this way.
+
+I would personally credit a lot of fetish art directly with improving our own body image. Fatfur and fat fetish art that expanded our conceptions of bodies that could be desirable to be or be with (often the distinction making art "fat fetish" content is simply that someone is depicted as fat and desirable). Weight gain art that depicted eating and gaining weight as joyous and healing. Putting on more body fat directly helped our dysphoria, due to shifts across all of our body - not just those parts deemed socially acceptable to be large.
+
+It is reasonable, as a fat person, to want to be kept away from the more negative tropes around weight gain kink, feedism and fat fetish art. The same way a trans woman might want to avoid forcefem and sissification kinks for the way they often treat becoming a woman as a humiliating and shameful thing. Yet in both cases we must understand these categories to not be fully separate. Many trans women come to their identities through feminisation kink spaces, and many weight gain kinksters are fat, or are becoming so (it's kind of the whole point). Barring those with unpalatable kinds of body desires from our communities only hurts our most vulnerable, though careless evocation of tropes and stereotypes can too. So we must again balance the comforts of the marginalised in our communities, with that which we find expressive or affirming.
+
+### 8.3 In Plural Systems
+
+When this comes down to the matter of headmate depictions, there are a few concerns at play. For some, gesturing at the concept of "fat headmates" and "skinny headmates" can seem trivializing in ways that bristle against personal histories of oppression. Yet understanding members of our system's ideal forms as fatter allowed us to intentionally work towards that as a goal for our body. At this point the "skinny headmates" are those who have not kept up, associating themselves with past forms of our body, or struggling to conceptualize their aesthetics as something available to larger bodies.
+
+It's always worth taking care in the comforts of those around you, but understand people's body images as deeply personal too, and be careful when approaching any seeming mismatches in descriptions of weight. That "fat headmate" might also have a fat body, or a complicated and sensitive history with their body's weight too.
 
 ## Conclusion
+
+We have avoided, for most of this essay, moralizing the shapes anyone's headmates take. But I do think it is productive, as a system, to think about your headmates' representations and what they reflect. Fictives often have to reject parts of their sources with which they disagree or find objectionable, and thinking about what tropes and biases may be reflected by the shape of your system is important. But it's also easy to trap yourself in a specific realm of expression based on what seems available to you. Deciding you can't have a "sexual alter" and be forward or provocative or even *hot* due to self esteem issues or fears of how those behaviours would be construed. Deciding to sideline the "straight boy" parts of your identity or sexuality in favour of those that seem more politically liberated. Defaulting to seeing your headmates as skinny because being fat while being hot or having a cool aesthetic is almost never depicted in media you see.
+
+These perceptions can change, and exposure to good media and accepting friends often opens up new possibilities for personal expression. Maybe your body doesn't always need to change to meet your internal self, letting these perceptions exist in dialogue with one another. The hormones that change your body, the allegories and signifiers you adorn yourself with - horn headbands and collars, and the allowance for art of yourself to get fatter, include mobility aids, or any other part of yourself deemed less palatable by society.
 
 ## References
 
 - Hale, C. J. (1997). Leatherdyke Boys and Their Daddies: How to Have Sex without Women or Men. _Social Text_, _52/53_, 223–236. https://doi.org/10.2307/466741
-- Serano, Julia (2007) Whipping Girl<br/>
+- Serano, Julia (2007) Whipping Girl
   *While we could put a whole range of literature here as an introduction to transfeminism, for the purposes of this essay the foundational text is all we need. We're talking traditional and oppositional sexism, and the way they combine to place transfeminized people at the bottom of the gendered hierarchy. Serano's articulation here remains idealist - dealing with attitude and belief, rather than the material and economic structures this gendered order serves, but that is still sufficient for our purposes here.*
