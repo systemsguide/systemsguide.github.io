@@ -100,7 +100,7 @@ We should accept that it may be important to recognise a 24/7 relationship with 
 
 ## Part 5: Gender Philosophy
 
-### 5.1 The Material
+### 5.1 - The Material
 
 When reasoning about trans identity and gendered oppression, from a specifically transfeminist lens, words can hold quite specific theoretical meanings (as with most academic fields). In these contexts we may use "transfem" and "transmasc" to refer to specific relationships to gender assignment and the directions these assignments are transgressed.
 
@@ -112,7 +112,7 @@ On a personal and a practical level, as a transfem system, while some of our hea
 
 Plurality can also create a number of strange intersections with the forces of transphobia and misogyny. We notice the ways a boy fronting and performing a more masculine gender will often be taken more seriously. Even when presenting as a *feminine* boy in a transfem system, there can be more insulation from having your gender undercut by misgendering, and this often makes it easier for some headmates to front than others. The repeated subtle cissexism of being treated better when you present like your assigned gender (or the sexism of being treated better for presenting as a guy) and have the corresponding headmates in front, can be a really pernicious force on a system.
 
-### 5.2 The Metaphorical
+### 5.2 - The Metaphorical
 
 To position a boy in a transfem system as "cis" however, can feel reductive. Such headmates may have been active participants in decisions to feminise a body (and may reasonably consider themselves also transfeminine as a result), but they may also have had to actively work to make that same body also accommodate them. And for many transgender systems, headmates whose genders align with their assigned gender can be put in strange positions, sharing a number of experiences with those transitioning in the opposite direction.
 
@@ -124,7 +124,7 @@ Use of such shorthands still requires care, and there's a number of less obvious
 
 We are in the messy deep end of shorthanding now, and it pays to talk to the people around you about your language use and make sure they're comfortable how you use these shorthands. But language can serve different purposes in different contexts, and what matters here is being aware of what context you're in and what language is appropriate for that context.
 
-### 5.3 Synthesis
+### 5.3 - Synthesis
 
 More metaphorical identity language can help articulate nuances of experience.
 
@@ -134,12 +134,12 @@ But there is also a place for the specific and the technical, especially when re
 
 _"No matter how I choose to identify, the choices I have made about my body position me as transfeminized and I interface with systems of power and oppression on that basis”_
 
-## Part 6: Philosophy of Race
+## Part 6: Race
 
 *Before we continue, I'd like to put my cards on the table here. I'm a white girl. For every previous section where I have been writing out of personal experience, I have had a claim to epistemic authority by nature of my identity. But for this section I lack the firsthand experience of racialization. While it would be easier to say I simply shouldn't touch this topic, and leave this work to a system of color, I think that would be doing a disservice. Racial allyship requires listening - true, but it also requires meaningfully engaging with the experience and theories of the racially marginalised, critically engaging with that work, and being willing to speak to it yourself. To simply defer to the opinion of any system of color in earshot on these topics, absolving myself of any duty to engage with them critically, would be an act of intellectual cowardice. I think it has done our fledgling plural communities a disservice to only refer to these topics in hushed tones, and so I offer
 you my best effort at openly reasoning with them below.*
 
-### 6.1 A Preamble on the Pragmatics of Talking Race
+### 6.1 - A Preamble on the Pragmatics of Talking Race
 
 Many online discussions of cultural appropriation get bogged down in questions of terminology; is something really appropriation, is appropriation always wrong, etc. Discourse flattens entirely justified critiques into a simple taboo. "That's AAVE you shouldn't use it" gets responded to with "isn't it kinda racist to say i shouldn't use words invented by black people" and we have thus entirely left the vicinity of the original point.
 
@@ -149,7 +149,7 @@ Put simply, if you carelessly pick up a bunch of words and cultural signifiers w
 
 It's not a moral issue for a kid to want to regurgitate a bunch of funny memes they saw online, but when their idea of "gen z slang" includes AAVE they seem to think is funny in and of itself, that sure ends up looking racist. You avoid this by educating yourself and making conscious decisions about the language you're using and why, and cultural signifiers are no different.
 
-### 6.2 Actually Talking Headmates and Race
+### 6.2 - Actually Talking Headmates and Race
 
 The principle that headmates do not always look like the body has an often uncomfortable implication that we do have to address before we can finish here - sometimes people's headmates look like a different race to their body.
 
@@ -191,7 +191,7 @@ The question of how to square these realities is simply another variation on our
 
 ## Part 8: Fatness
 
-### 8.1 In Society
+### 8.1 - In Society
 
 When we talk about differences between headmates internally felt appearances and their systems' bodies, these matters exist on a spectrum. Race is a matter of lived experience that may shift contextually as someone moves through different cultural contexts, but is relatively static. Disability is a category many people enter at different points in their lives, but can also be lifelong. Species is essentially fixed, but good allegories and communication can shift perceptions. Gendering is deeply malleable, and often the way someone is gendered is simply down to a handful of cues the people around them have learned to make predictions from. So where in this should we place the category of "fat"?
 
@@ -199,7 +199,7 @@ People who's bodies are deemed unacceptably "fat" are discriminated against in a
 
 Yet this category *is* malleable. Definitions of "fat" are not fixed, with many people leaving the category and many more entering it at any given time. It is also, straightforwardly, not wrong to want to *become* fatter. Intentional weight gain, be it for eating disorder recovery, weight gain kink, or any other reason, is just as beautiful an act of bodily autonomy and self-creation as gender transition or body modification (including for species affirmation).
 
-### 8.2 In Kink
+### 8.2 - In Kink
 
 With kink based weight gain, there's a line to be walked between these tensions. Lots of fat fetish art deliberately plays with negative tropes associated with fatness, depicting it as gross, unhealthy, or a result of poor diet and lack of exercise. Bringing these tropes around your fat friends, who have likely experienced discrimination over their weight, or at least lived in the cultural milieu in which fat people are the butt of the joke across most popular media, can easily be rude or outright triggering. But not all weight related kink art is this way.
 
@@ -207,7 +207,7 @@ I would personally credit a lot of fetish art directly with improving our own bo
 
 It is reasonable, as a fat person, to want to be kept away from the more negative tropes around weight gain kink, feedism and fat fetish art. The same way a trans woman might want to avoid forcefem and sissification kinks for the way they often treat becoming a woman as a humiliating and shameful thing. Yet in both cases we must understand these categories to not be fully separate. Many trans women come to their identities through feminisation kink spaces, and many weight gain kinksters are fat, or are becoming so (it's kind of the whole point). Barring those with unpalatable kinds of body desires from our communities only hurts our most vulnerable, though careless evocation of tropes and stereotypes can too. So we must again balance the comforts of the marginalised in our communities, with that which we find expressive or affirming.
 
-### 8.3 In Plural Systems
+### 8.3 - In Plural Systems
 
 When this comes down to the matter of headmate depictions, there are a few concerns at play. For some, gesturing at the concept of "fat headmates" and "skinny headmates" can seem trivializing in ways that bristle against personal histories of oppression. Yet understanding members of our system's ideal forms as fatter allowed us to intentionally work towards that as a goal for our body. At this point the "skinny headmates" are those who have not kept up, associating themselves with past forms of our body, or struggling to conceptualize their aesthetics as something available to larger bodies.
 
