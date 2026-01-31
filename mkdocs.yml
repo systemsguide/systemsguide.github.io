@@ -1,5 +1,5 @@
 site_name: A System's Guide
-site_url: https://systemsguide.neocities.org
+site_url: https://sys.guide
 site_description: An informal handbook for systems and their aspiring friends.
 #copyright: CC-BY-SA 4.0 International
 
@@ -10,9 +10,11 @@ nav:
   - Facing Challenges: challenges.md
   - Gaining Familiarity: familiarity.md
   - Afterword: afterword.md
+  - "Addendum: Affordances": affordances.md
   - "Addendum: The Fictive": fictive.md
   - "Addendum: Plural-Asexuality": asexuality.md
   - "Letters: Am I Plural?": letters.md
+  - "Addendum: Calibration": calibration.md
 
 theme:
   name: windmill
@@ -22,6 +24,6 @@ extra_css:
     - css/theme-adjustments.css
 
 extra:
-  version: 2.3
+  version: 2.6
   logo: img/custom-journey-flag.png
   article_nav_top: false

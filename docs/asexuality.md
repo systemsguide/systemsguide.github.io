@@ -1,5 +1,7 @@
 ## Addendum: Plural-Asexuality
 
+`<begin rant>`
+
 Alright, it's late and this front seems to be vaguely covering a good third of the system - so let's talk about sex, and how being (in) a system can colour your sexuality.
 
 So question - how do you have sex with a plural system?
@@ -37,3 +39,5 @@ Also, I think a lot of people in nonhuman communities reach for cybersex or othe
 Plurality similarly benefits from it well. There's no body to map to, but no body to mismatch - Just mime out what conceptually attracts you! simple enough, once you find what tense and case it feels comfortable typing in.
 
 Yeah that's the whole ramble i'm not here for cosmopolitan style tips to spice up your plural sex life sorry - enjoy yourselves! 
+
+`<end rant>`
