@@ -177,7 +177,7 @@ Negotiating these dynamics is inevitably hard, and each system will have to find
 
 ## Part 7: Disability
 
-Differences between internal identities and a system's body also come into play for discussions of disability. It's not uncommon for headmates to have differences in height, limbs, or sense organs, and while this is largely unproblematic for the 40ft tall eight-eyed dogtaur, it can become a point of discomfort where it aligns with real world disabilities.
+Differences between headmate self-conceptions and a system's body also come into play for discussions of disability. It's not uncommon for headmates to have differences in height, limbs, or sense organs, and while this is largely unproblematic for the 40ft tall eight-eyed dogtaur, it can become a point of discomfort where it aligns with real world disabilities.
 
 Mismatches between body and sense of self *can* be really painful. Dysphoria about height. Desires non-human features like a tail or claws. Outright alienation from a "human" body. Any feeling of wrongness like this is deeply personal and sensitive.
 
