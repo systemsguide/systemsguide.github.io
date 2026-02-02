@@ -2,7 +2,7 @@
 
 > *On Shorthanding* is a multi-part feature essay on the minutia of headmate identity, the language used to articulate it, and how to reconcile this with the world around us.<br/>
 > We recommend it to those seeking clarity on these topics, but acknowledge that it goes beyond the scope of relevancy for a casual reader with little exposure to living, breathing plural systems.<br/>
-> Discussion of sensitive topics (sexuality, kink, oppression, abuse) lay within, as is essential in addressing these nuanced concerns in full.<br/>
+> Discussion of sensitive topics (sexuality, kink, oppression, abuse) lay within, as is essential in addressing these nuanced concerns in full - please be advised.<br/>
 > -S
 
 ## Foreword
