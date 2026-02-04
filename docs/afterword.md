@@ -28,18 +28,16 @@ And of course, thanks to you - and anyone else you might be - for reading.
 ### Addenda
 
 As you may have noticed, it's quite difficult to speak to the experience of every system. 
-At the same time, there are topics with a lot of depth to them that we've brushed over completely. 
-For these we feel it's more appropriate to individually speak to our personal experience and understanding, rather than act unbiased explainer.
+At the same time, we've simply brushed over concepts with a lot of depth. 
+As such, it feels appropriate to speak to personal experience and understanding, in contrast to the objective overviewing in the main text.
 
-Ahead are a mix of informal ramblings and formal micro-essays written by individual systems and members - The guide's authors, editors, and their friends.
+Ahead are a mix of ramblings essays written by individual systems and members - The guide's authors, editors, and their friends.
 With the intuition provided already, we hope you can interpret the potential for experiences differing to the ones within these pages - but still derive value from more detailed, personal writing.
 
-We expect this section to expand over time - feel free to skip it entirely, or to read things out of order.
+This section will expand over time - feel free to skip it entirely, or to read out of order.
 
-### Printable Version
+### Physical Version
 
-_A System's Guide_ is also available as a zine - for adding to queer pamphlet racks, keeping in your wallet for emergencies, or sharing anywhere zines are celebrated.
+_A System's Guide_ is also available as a zine. Just download the [PDF](/downloads/A_Systems_Guide_A7_Zine.pdf), print it on A4, trim it to have symmetrical margins, and [fold it](https://plix.mit.edu/facilitator-resources/how-to-fold-a-zine)!
 
-It's designed to be printed in B/W on A4, trimmed to have symmetrical margins, then folded using a [standard zine fold](https://plix.mit.edu/facilitator-resources/how-to-fold-a-zine).
-
-You can download the PDF for printing [here](/downloads/A_Systems_Guide_A7_Zine.pdf).
+There are also PDFs available for the [Afterword](/downloads/Afterword.pdf) (6x A7 slip) and [Front Attitude Calibration](/downloads/Calibration_A7_Zine.pdf) (A7 zine).
