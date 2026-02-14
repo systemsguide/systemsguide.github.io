@@ -1,6 +1,6 @@
 ## Addendum: Front Attitude Calibration
 
-### An essay on the interpretation of a switching/speaking system
+### An essay on adjusting your expectations to better communicate with plural systems
 
 If you are interacting with plural systems, you should be, at a baseline, expecting system members to behave differently from each other. This means calibrating your expectations differently for each headmate, which then requires some effort to figure out or ask who you're talking to.
 
@@ -23,4 +23,5 @@ This will both make it easier to interact with rougher headmates ("the girl with
 ---
 
 -mk
+
 
