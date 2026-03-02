@@ -30,4 +30,4 @@ multi-ID isn't something you can just "tack on" - remember, in an ideal chat sof
 
 so, use the accessibility tools you design - and talk to the people who've used them more than you. and remember: stagnation is not good enough - we deserve better.
 
-- Jynn
+-Jynn
