@@ -1,7 +1,7 @@
 ## Chat Accessibility
 
 > This piece dives further into the purpose and capability of multi-identity chat / plural chat accessibility tools - and how to evaluate their effectiveness.
-> It expects you to have read [affordances](/affordances.md) or be otherwise familiar with [PluralKit](http://pluralkit.me).
+> It expects you to have read [affordances](/affordances) or be otherwise familiar with [PluralKit](http://pluralkit.me).
 
 there's a lack of depth in discussions of plural accessibility and multi-ID features in new and existing chat software. to me, the problem is clear: most participants don't know what pluralkit actually is.
 
