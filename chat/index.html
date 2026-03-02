@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <link rel="canonical" href="https://sys.guide/chat/">
+    <link rel="shortcut icon" href="../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta property="og:url" content="https://sys.guide/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="A System's Guide (to Plurality)">
+    <meta property="og:description" content="An informal plurality handbook for systems and their aspiring friends.">
+    <meta name="theme-color" content="#31c69e">
+
+    <title>Addendum: Chat Accessibility - A System's Guide</title>
+    <link href="../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/highlight.css">
+    <link href="../css/theme-adjustments.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Chat Accessibility", url: "#_top", children: [
+          ]},
+        ];
+
+    </script>
+    <script src="../js/base.js"></script> 
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+    <h2 id="chat-accessibility">Chat Accessibility</h2>
+<blockquote>
+<p>This piece dives further into the purpose and capability of multi-identity chat / plural chat accessibility tools - and how to evaluate their effectiveness.
+It expects you to have read <a href="/affordances">affordances</a> or be otherwise familiar with <a href="http://pluralkit.me">PluralKit</a>.</p>
+</blockquote>
+<p>there's a lack of depth in discussions of plural accessibility and multi-ID features in new and existing chat software. to me, the problem is clear: most participants don't know what pluralkit actually is.</p>
+<p>"they're making pluralkit for [chat platform]" are they, though? do they understand what that is? do they understand why tupperbox isn't pluralkit? do they understand why matrix account switchers aren't pluralkit? do they understand why IRC /nick isn't pluralkit?</p>
+<p>here's the deal: <strong>multi-identity chat is not a technical capability problem, it's a social integration problem</strong>. The question is not "can you send messages from different profiles with this software", it's "how does this software avoid implicitly ostracizing plural systems?" - and the answer matters.</p>
+<p>what pluralkit teaches us is that when multi-ID messaging is naturalised in the software itself, it stops being exceptional to the user. what matters is not the featureset available to systems, it's that <strong>pk/webhook messages look like messages, which means users treat them like messages</strong>. the shared design language makes plural expression approachable, comprehensible, even intuitive to people who would otherwise struggle, hell, plural systems who otherwise struggle - we've met so many systems who've known themselves to be plural for a long time, but it took seeing other systems openly using pluralkit to show them that there is a way to integrate their plural identity socially, that there is a space in the world they can make for themselves - and that have subsequently become comfortable and open with themselves in other parts of their lives. that's the kind of impact these accessibility tools have - this is what pluralkit is.</p>
+<p>the catch is obvious - every piece of technical/social friction in a multi-ID feature <strong>others users and fosters alienation</strong> (e.g. copping "wHy iS tHe bOT tAlKinG" due to the discord BOT label) instead of trivialising their acceptance - these are effectively flashing neon signs that say "THIS ISN'T NORMAL" that you could just <em>never install</em>.</p>
+<p>"they're making pluralkit for [chat platform]" do they understand the problem they need to solve? or are they copying the list of features beat-for-beat? the more you speak to plural systems on discord, the more you see how much the the medium both enables and limits us, the more "let's set the bar where it already is" is obviously an absurd fucking take.</p>
+<p>the tools we use and their friction shape both what's possible in terms of our expression and actualisation, and what's trivial in terms of our ostracisation. that is what pluralkit is.</p>
+<p>making individual improvements over pluralkit's frictions is good, but without understanding that the critical problem is social, developers easily backslide on progress and leave obvious gaps: stoat's <em>masquerade</em> feature (for example) has technical improvements over PK by existing at an API level, but chose a name that sows distrust in openly presenting plural systems.</p>
+<p>you need to be able to think critically and identify pitfalls like this yourself, but here's <em>my</em> list of flashing neon signs to avoid installing:</p>
+<ul>
+<li><strong>Impermanence</strong>: treating using different IDs as a "change" [irc /nick notifications]</li>
+<li><strong>Scoping</strong>: removing user agency [tupper perms, bot invites, matrix per-id bans]</li>
+<li><strong>Armbanding</strong>: displaying multi-id messages unnaturally [BOT/APP labels, different formatting to other messages]</li>
+<li><strong>Opaqueness</strong>: missing flows that make multi-ID messaging seem edge case or "unsupported" [pk unviewable profiles, usage being confined to a bot or mod]</li>
+<li><strong>Complexity</strong>: time spent on any action scaling with ID count [matrix room joins getting you IP banned, anything without proxy tag parsing]</li>
+<li><strong>Serversidedness</strong>: not giving the chat client control over the ID to send a message with [pk deletion jitter, no avatar preview (leading to misproxies)] </li>
+</ul>
+<p>multi-ID isn't something you can just "tack on" - remember, in an ideal chat software, ALL messages/accounts would be multi-ID (i.e truly natural messages) - with most users just never setting up a second ID.</p>
+<p>so, use the accessibility tools you design - and talk to the people who've used them more than you. and remember: stagnation is not good enough - we deserve better.</p>
+<p>-Jynn</p>
+
+  <br>
+    
+
+    
+    
+      
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav">
+      <a href="../shorthanding/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../shorthanding/" class="btn btn-xs btn-link">
+        Addendum: On Shorthanding
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+  <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>
