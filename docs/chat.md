@@ -1,7 +1,7 @@
 > This piece dives further into the purpose and capability of chat accessibility tools - and how to evaluate their effectiveness.
 > It expects you to have read [affordances](/affordances.md) or be otherwise familiar with [PluralKit](http://pluralkit.me).
 
-there's a lack of depth in discussions of plural accessibility and multi-ID features within current chat software discourse. the problem is blaring: most participants don't know what pluralkit actually is.
+there's a lack of depth in discussions of plural accessibility and multi-ID features in new and existing chat software. to me, the problem is clear: most participants don't know what pluralkit actually is.
 
 "they're making pluralkit for [chat platform]" are they, though? do they understand what that is? do they understand why tupperbox isn't pluralkit? do they understand why matrix account switchers aren't pluralkit? do they understand why IRC /nick isn't pluralkit?
 
